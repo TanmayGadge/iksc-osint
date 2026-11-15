@@ -1,0 +1,65 @@
+{
+    "Biodata": {
+        "full_name": "Tanmay Gadge",
+        "first_name": "Tanmay",
+        "last_name": "Gadge",
+        "age": 21,
+        "hometown": "Akola",
+        "current_city": "Pune",
+        "college": "MIT World Peace University",
+        "degree": "BTech. Computer Engineering",
+        "employer": "TechCorp",
+        "email": "tanmaygadge9273@gmail.com",
+        "phone": "+917030718059"
+    },
+    "Profiles": [
+        {
+            "url": "https://in.linkedin.com/in/tanmay-gadge-377b9625b",
+            "title": "Tanmay Gadge - Full stack developer | A.I. Student",
+            "snippet": "Tanmay Gadge. Full stack developer | A.I. Student. MIT World Peace University. Pune District, Maharashtra, India. 317 followers 303 connections. See ...",
+            "extracted_occupation": "Full stack developer"
+        },
+        {
+            "url": "https://in.linkedin.com/in/tanmay-gadge-218210287",
+            "title": "Tanmay Gadge - Software Engineer at Infosys",
+            "snippet": "Software Engineer at Infosys \u00b7 Experience: Infosys \u00b7 Location: 411033. View Tanmay Gadge's profile on LinkedIn, a professional community of 1 billion members ...",
+            "extracted_occupation": "Software Engineer at Infosys"
+        },
+        {
+            "url": "https://in.linkedin.com/in/tanmay-gadge-6580a032b",
+            "title": "Tanmay Gadge - Computer Engineering Student",
+            "snippet": "Tanmay Gadge \u00b7 Computer Engineering Student | International Institute of Information Technology |Passionate About Technology & Innovation \u00b7 View mutual ...",
+            "extracted_occupation": "Computer Engineering Student"
+        },
+        {
+            "url": "https://in.linkedin.com/in/tanmay-gadge-215b6427a",
+            "title": "tanmay gadge - Attended Dr Dy patil college science and ...",
+            "snippet": "tanmay gadge \u00b7 Attended Dr Dy patil college science and commerce pimpri chinchwad \u00b7 View mutual connections with tanmay \u00b7 Education \u00b7 View tanmay's full profile.",
+            "extracted_occupation": "Attended Dr Dy patil college science and ..."
+        },
+        {
+            "url": "https://in.linkedin.com/in/pratik-dhangude-88b917358",
+            "title": "Pratik Dhangude - Pursuing BE In Computer Engineering ...",
+            "snippet": "Education \u00b7 I2IT Pune. Bachelor of Engineering - BE Computer Engineering A. 2024 - 2028 \u00b7 SNBP SCHOOL & Jr.COLLGE PUNE. HSC 11th&12th A \u00b7 Army Public School (APS).",
+            "extracted_occupation": "Pursuing BE In Computer Engineering ..."
+        },
+        {
+            "url": "https://in.linkedin.com/in/tushar-thorat-798b2b334",
+            "title": "Tushar Thorat - Computer Engineering Student",
+            "snippet": "My name is Tushar Thorat, and I am currently a Third-year engineering student at I\u00b2IT, Pune, specializing in Computer Engineering with a strong interest in ...",
+            "extracted_occupation": "Computer Engineering Student"
+        },
+        {
+            "url": "https://in.linkedin.com/in/atharva-sonawane-9aa3b9330",
+            "title": "Atharva Sonawane - Attended International Institute Of ...",
+            "snippet": "Attended International Institute Of Information Pune \u00b7 Education: International Institute Of Information Pune \u00b7 Location: 411009 \u00b7 75 connections on ...",
+            "extracted_occupation": "Attended International Institute Of ..."
+        },
+        {
+            "url": "https://in.linkedin.com/in/tanusree-mondal-b288b7183",
+            "title": "Tanusree Mondal - Image Consultant | Certified Soft Skill & ...",
+            "snippet": "I am an Image coach and Certified soft skill trainer,Certified Corporate trainer, Communication Skill specialist.Worked as an Interior Designing professional ...",
+            "extracted_occupation": "Image Consultant"
+        }
+    ]
+}

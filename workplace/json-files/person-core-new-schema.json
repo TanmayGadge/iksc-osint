@@ -1,0 +1,212 @@
+{
+    "_id": null,
+    "linkedin_profile_id": null,
+    "public_identifier": null,
+    "linkedin_url": null,
+    "basic_info": {
+        "first_name": null,
+        "last_name": null,
+        "headline": null,
+        "about": null,
+        "emails": [],
+        "phone_numbers": [],
+        "profile_picture_url": null,
+        "cover_picture_url": null,
+        "verified": false,
+        "open_to_work": false,
+        "is_hiring": false,
+        "is_premium": false,
+        "is_creator": false,
+        "is_influencer": false,
+        "is_memorialized": false
+    },
+    "location": {
+        "city": null,
+        "state": null,
+        "country": null,
+        "country_code": null,
+        "raw_text": null
+    },
+    "metrics": {
+        "connections_count": null,
+        "followers_count": null
+    },
+    "industry": {
+        "id": null,
+        "name": null
+    },
+    "experience": [
+        {
+            "position": null,
+            "company_name": null,
+            "company_id": null,
+            "company_linkedin_url": null,
+            "company_logo_url": null,
+            "employment_type": null,
+            "workplace_type": null,
+            "location": null,
+            "is_current": false,
+            "duration": null,
+            "description": null,
+            "skills_used": [],
+            "start_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            },
+            "end_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            }
+        }
+    ],
+    "education": [
+        {
+            "school_name": null,
+            "school_id": null,
+            "school_linkedin_url": null,
+            "school_logo_url": null,
+            "degree": null,
+            "field_of_study": null,
+            "period": null,
+            "description": null,
+            "grade_or_gpa": null,
+            "activities": null,
+            "start_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            },
+            "end_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": null,
+            "endorsement_count": 0,
+            "used_in_positions": []
+        }
+    ],
+    "certifications": [
+        {
+            "title": null,
+            "issuing_organization": null,
+            "issued_date": null,
+            "expiration_date": null,
+            "credential_id": null,
+            "credential_url": null,
+            "organization_logo_url": null
+        }
+    ],
+    "posts_and_activity": [
+        {
+            "post_id": null,
+            "post_url": null,
+            "published_at": null,
+            "text": null,
+            "media_urls": [],
+            "engagement": {
+                "like_count": 0,
+                "comment_count": 0,
+                "repost_count": 0
+            },
+            "comments": [
+                {
+                    "comment_text": null,
+                    "like_count": 0,
+                    "is_liked_by_op": false,
+                    "op_reply": null
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": null,
+            "description": null,
+            "url": null,
+            "start_date": null,
+            "end_date": null,
+            "associated_with": null
+        }
+    ],
+    "recommendations": {
+        "received": [
+            {
+                "giver_name": null,
+                "giver_headline": null,
+                "giver_linkedin_url": null,
+                "giver_picture_url": null,
+                "date_given": null,
+                "text": null
+            }
+        ],
+        "given": [
+            {
+                "recipient_name": null,
+                "recipient_headline": null,
+                "recipient_linkedin_url": null,
+                "recipient_picture_url": null,
+                "date_given": null,
+                "text": null
+            }
+        ]
+    },
+    "languages": [
+        {
+            "language": null,
+            "proficiency": null
+        }
+    ],
+    "honors_and_awards": [
+        {
+            "title": null,
+            "issuer": null,
+            "issued_date": null,
+            "description": null
+        }
+    ],
+    "publications": [
+        {
+            "title": null,
+            "publisher": null,
+            "published_date": null,
+            "url": null,
+            "description": null
+        }
+    ],
+    "patents": [
+        {
+            "title": null,
+            "patent_number": null,
+            "issuer": null,
+            "issued_date": null,
+            "url": null,
+            "description": null
+        }
+    ],
+    "volunteering": [
+        {
+            "role": null,
+            "organization": null,
+            "cause": null,
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "interests_and_following": [
+        {
+            "category": null,
+            "title": null,
+            "subtitle": null,
+            "follower_count": null,
+            "linkedin_url": null
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "educationHistory": [
+        {
+            "educationLevel": "Post-Grad",
+            "institutionSchoolCollege": "University of Stuttgart",
+            "boardUniversity": null,
+            "passingYear": "2023",
+            "percentageCGPA": null
+        },
+        {
+            "educationLevel": "Post-Grad",
+            "institutionSchoolCollege": "Universitat Polit\u00e8cnica de Catalunya",
+            "boardUniversity": null,
+            "passingYear": "2022",
+            "percentageCGPA": null
+        },
+        {
+            "educationLevel": "Graduation",
+            "institutionSchoolCollege": "Pimpri Chinchwad Education Trust'S. Pimpri Chinchwad College Of Engineering",
+            "boardUniversity": null,
+            "passingYear": "2018",
+            "percentageCGPA": null
+        },
+        {
+            "educationLevel": "Other",
+            "institutionSchoolCollege": "Goethe Institut Indien",
+            "boardUniversity": null,
+            "passingYear": "2021",
+            "percentageCGPA": null
+        }
+    ],
+    "currentJob": {
+        "employmentType": "Full-time",
+        "designation": "Multiphysics Simulation Engineer",
+        "company": "Siemens Energy",
+        "industry": "IT Services and IT Consulting",
+        "incomeMonthly": null,
+        "startDate": "07/2026",
+        "endDate": null
+    },
+    "pastJobs": {
+        "notApplicable": false,
+        "entries": [
+            {
+                "employmentType": "Full-time",
+                "designation": "PreSales Solution Consultant",
+                "company": "Siemens Digital Industries Software",
+                "industry": "IT Services and IT Consulting",
+                "incomeMonthly": null,
+                "startDate": "09/2025",
+                "endDate": "07/2026"
+            },
+            {
+                "employmentType": "Full-time",
+                "designation": "Application Engineer",
+                "company": "Altair",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "10/2023",
+                "endDate": "07/2026"
+            },
+            {
+                "employmentType": "Internship",
+                "designation": "Simulation & Design Intern",
+                "company": "Altair",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "04/2023",
+                "endDate": "09/2023"
+            },
+            {
+                "employmentType": "Part-time",
+                "designation": "Wissenschaftliche Hilfskraft",
+                "company": "University of Stuttgart \u2013 Institute of Aircraft Design (IFB)",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "12/2022",
+                "endDate": "03/2023"
+            },
+            {
+                "employmentType": "Internship",
+                "designation": "Simulation & Development Intern",
+                "company": "Altair",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "07/2022",
+                "endDate": "09/2022"
+            },
+            {
+                "employmentType": "Full-time",
+                "designation": "Simulation Engineer",
+                "company": "KPIT",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "12/2020",
+                "endDate": "07/2021"
+            },
+            {
+                "employmentType": "Full-time",
+                "designation": "Design Engineer",
+                "company": "KPIT",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "11/2018",
+                "endDate": "12/2020"
+            },
+            {
+                "employmentType": "Internship",
+                "designation": "Internship",
+                "company": "SKF Group",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "02/2018",
+                "endDate": "04/2018"
+            },
+            {
+                "employmentType": null,
+                "designation": "Product Developer",
+                "company": "ROHIT AGROTECH INDIA PRIVATE LIMITED",
+                "industry": null,
+                "incomeMonthly": null,
+                "startDate": "07/2017",
+                "endDate": "03/2018"
+            }
+        ]
+    },
+    "foreignTravel": {
+        "notApplicable": false,
+        "entries": [
+            {
+                "purpose": "Education",
+                "country": "Germany",
+                "year": "2022",
+                "duration": null
+            },
+            {
+                "purpose": "Education",
+                "country": "Spain",
+                "year": "2021",
+                "duration": null
+            }
+        ]
+    },
+    "hobbiesAndInterests": [],
+    "achievementsAndAwards": [
+        {
+            "achievementTitle": "GOETHE-ZERTIFIKAT A2",
+            "year": "2021",
+            "issuedByOrganization": "Goethe Institut Indien",
+            "additionalDetails": null
+        },
+        {
+            "achievementTitle": "Hypermesh-Optistruct",
+            "year": "2018",
+            "issuedByOrganization": "OKLEEM ",
+            "additionalDetails": null
+        },
+        {
+            "achievementTitle": "IELTS Academic",
+            "year": "2020",
+            "issuedByOrganization": "British Council",
+            "additionalDetails": "Expired May 2022"
+        }
+    ]
+}

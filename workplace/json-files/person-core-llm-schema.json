@@ -1,0 +1,159 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PersonCoreForm",
+  "type": "object",
+  "properties": {
+    "educationHistory": {
+      "type": "array",
+      "title": "Education History",
+      "items": {
+        "type": "object",
+        "properties": {
+          "educationLevel": {
+            "type": "string",
+            "title": "Education Level",
+            "enum": ["SSC", "HSC", "Diploma", "Graduation", "Post-Grad", "PhD", "Other"],
+            "description": "Map Bachelor's to Graduation, Master's to Post-Grad, Doctorate to PhD."
+          },
+          "institutionSchoolCollege": {
+            "type": "string",
+            "title": "Institution / School / College",
+            "description": "Extracted from schoolName"
+          },
+          "boardUniversity": {
+            "type": ["string", "null"],
+            "title": "Board / University",
+            "description": "University or board name if distinct from institution, else duplicate schoolName or null"
+          },
+          "passingYear": {
+            "type": ["string", "null"],
+            "title": "Passing Year",
+            "description": "Year from endDate (YYYY)"
+          },
+          "percentageCGPA": {
+            "type": ["string", "null"],
+            "title": "Percentage / CGPA",
+            "description": "Extract if mentioned in degree description, otherwise set to null"
+          }
+        },
+        "required": ["educationLevel", "institutionSchoolCollege"]
+      }
+    },
+    "currentJob": {
+      "type": ["object", "null"],
+      "title": "Current Job",
+      "description": "Populate using the entry where endDate is 'Present'",
+      "properties": {
+        "employmentType": {
+          "type": ["string", "null"],
+          "title": "Employment Type",
+          "enum": ["Full-time", "Part-time", "Freelance", "Contract", "Internship"]
+        },
+        "designation": {
+          "type": "string",
+          "title": "Designation",
+          "description": "Mapped from position"
+        },
+        "company": {
+          "type": "string",
+          "title": "Company",
+          "description": "Mapped from companyName"
+        },
+        "industry": {
+          "type": ["string", "null"],
+          "title": "Industry",
+          "description": "Top-level industry or inferred from job description"
+        },
+        "incomeMonthly": {
+          "type": ["string", "null"],
+          "title": "Income (Monthly)",
+          "description": "Always null unless specified in profile text"
+        },
+        "startDate": {
+          "type": ["string", "null"],
+          "title": "Start Date",
+          "description": "Formatted as MM/YYYY"
+        },
+        "endDate": {
+          "type": ["string", "null"],
+          "title": "End Date",
+          "description": "Leave null or blank for current job"
+        }
+      }
+    },
+    "pastJobs": {
+      "type": "object",
+      "title": "Past Jobs",
+      "properties": {
+        "notApplicable": {
+          "type": "boolean",
+          "default": false
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "employmentType": {
+                "type": ["string", "null"],
+                "enum": ["Full-time", "Part-time", "Freelance", "Contract", "Internship"]
+              },
+              "designation": { "type": "string" },
+              "company": { "type": "string" },
+              "industry": { "type": ["string", "null"] },
+              "incomeMonthly": { "type": ["string", "null"], "default": null },
+              "startDate": { "type": ["string", "null"], "description": "MM/YYYY" },
+              "endDate": { "type": ["string", "null"], "description": "MM/YYYY" }
+            }
+          }
+        }
+      }
+    },
+    "foreignTravel": {
+      "type": "object",
+      "title": "Foreign Travel",
+      "properties": {
+        "notApplicable": {
+          "type": "boolean",
+          "default": true,
+          "description": "Set to true if no explicit travel logs exist, or infer from international education/work locations"
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "purpose": {
+                "type": "string",
+                "enum": ["Work", "Education", "Tourism", "Medical", "Family", "Business", "Other"]
+              },
+              "country": { "type": "string" },
+              "year": { "type": "string" },
+              "duration": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "hobbiesAndInterests": {
+      "type": "array",
+      "title": "Hobbies & Interests",
+      "items": { "type": "string" },
+      "description": "Extract personal interests or top skills/topics if explicit hobbies are absent"
+    },
+    "achievementsAndAwards": {
+      "type": "array",
+      "title": "Achievements & Awards",
+      "items": {
+        "type": "object",
+        "properties": {
+          "achievementTitle": { "type": "string" },
+          "year": { "type": ["string", "null"] },
+          "issuedByOrganization": { "type": ["string", "null"] },
+          "additionalDetails": { "type": ["string", "null"] }
+        }
+      },
+      "description": "Extract from certifications, honorsAndAwards, or key accomplishments"
+    }
+  }
+}

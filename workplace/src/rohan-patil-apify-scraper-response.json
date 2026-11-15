@@ -1,0 +1,684 @@
+[
+    {
+        "id": "ACoAAD89vNUBYg4fysLa2GUhvBJYJJI8t_RiUQ0",
+        "publicIdentifier": "rohan-patil-9593b6257",
+        "linkedinUrl": "https://www.linkedin.com/in/rohan-patil-9593b6257",
+        "firstName": "Rohan",
+        "lastName": "Patil",
+        "emails": [],
+        "headline": "Software Developer | Analytics",
+        "openToWork": false,
+        "hiring": false,
+        "premium": false,
+        "influencer": false,
+        "memorialized": false,
+        "creator": false,
+        "location": {
+            "linkedinText": "Pune District, Maharashtra, India",
+            "countryCode": "IN",
+            "parsed": {
+                "text": "Pune, India",
+                "countryCode": "IN",
+                "regionCode": null,
+                "country": "India",
+                "countryFull": "India",
+                "state": "Maharashtra",
+                "city": "Pune"
+            }
+        },
+        "objectUrn": "1061010645",
+        "registeredAt": "2022-11-16T15:06:09.317Z",
+        "topSkills": [],
+        "connectionsCount": 184,
+        "followerCount": 184,
+        "verified": true,
+        "about": "Dedicated and thorough professional with a purpose to execute critical tasks. Additionally possess skills in business analytics, AI and data analysis to give a competitive edge. Committed to team work and strategy to gain the desired results.",
+        "industry": {
+            "id": 96,
+            "name": "IT Services and IT Consulting"
+        },
+        "currentPosition": [
+            {
+                "position": "SAP B1 Functional Consultant",
+                "location": "Pune District, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "Accelon Technologies Private Limited",
+                "companyUniversalName": "accelon-technologies-p-limited",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/accelon-technologies-p-limited/",
+                "companyId": "931954",
+                "duration": "2 yrs 6 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "May",
+                    "year": 2024,
+                    "text": "May 2024"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_400_400/company-logo_400_400/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=_8ZZbSDXYo7D8RRMynSXl4iBaiCk5SctXonJD5-rPlc",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_400_400/company-logo_400_400/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=_8ZZbSDXYo7D8RRMynSXl4iBaiCk5SctXonJD5-rPlc",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_200_200/company-logo_200_200/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=QzSdLx-C48BkN7c-ouD80NfBSwa2kIis3y4iShTWzMY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_100_100/company-logo_100_100/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=i80zIcM2cfLSJqdI1AYXnYQJdlAUcN8MfPwVxLwU5rE",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileTopEducation": [
+            {
+                "schoolName": "AISSMS College of Engineering",
+                "description": "Savitribai Phule Pune University",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/33894545/",
+                "schoolId": "33894545",
+                "degree": "Bachelor of Engineering - BE",
+                "fieldOfStudy": "Mechanical",
+                "period": null,
+                "startDate": null,
+                "endDate": {
+                    "text": "2018",
+                    "year": 2018
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_400_400/company-logo_400_400/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=1ogw5kGHJbl9_1uaINrkwKZQ6O_uTapRBsOMR0eNY1I",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_400_400/company-logo_400_400/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=1ogw5kGHJbl9_1uaINrkwKZQ6O_uTapRBsOMR0eNY1I",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_200_200/company-logo_200_200/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=EcV3s9J0jDcvSGXgEt4qy-GwqbQkZXh_Ms2jdfbgfmc",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_100_100/company-logo_100_100/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=YYh7Wg1mZlq_rd5TjVJzpy-A6G58i7KAAOxZ5wWwkck",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileActions": [],
+        "profilePicture": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-crop_800_800/B4DaEmdzmsIMAI-/0/1791646710887?e=1794441600&v=beta&t=YJqeCWdk4bule0TQzQiUFoLHttXYfl23H7lKbKJ37zo",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-crop_800_800/B4DaEmdzmsIMAI-/0/1791646710887?e=1794441600&v=beta&t=YJqeCWdk4bule0TQzQiUFoLHttXYfl23H7lKbKJ37zo",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-scale_400_400/B4DaEmdzmsIMAg-/0/1791646710887?e=1794441600&v=beta&t=W3TE4XkTnSHmjdyxAG74rFQ7FJeg-iWeYsPJkv3sqSU",
+                    "width": 400,
+                    "height": 400
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-scale_200_200/B4DaEmdzmsIMAc-/0/1791646710887?e=1794441600&v=beta&t=oYbyV6vygsYxWP4IkkoPn4ryAeKb3NhSQ7_Q9u5akMY",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-scale_100_100/B4DaEmdzmsIMAY-/0/1791646710887?e=1794441600&v=beta&t=EY6YIoovYKaeWHvID8CdVIta0PEO7FBeeGq4A_PKTyU",
+                    "width": 100,
+                    "height": 100
+                }
+            ]
+        },
+        "coverPicture": null,
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-crop_800_800/B4DaEmdzmsIMAI-/0/1791646710887?e=1794441600&v=beta&t=YJqeCWdk4bule0TQzQiUFoLHttXYfl23H7lKbKJ37zo",
+        "profileLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "primaryLocale": {
+            "country": "US",
+            "language": "en"
+        },
+        "multiLocaleHeadline": [
+            {
+                "headline": "Software Developer | Analytics",
+                "locale": "en_US"
+            }
+        ],
+        "services": null,
+        "experience": [
+            {
+                "position": "SAP B1 Functional Consultant",
+                "location": "Pune District, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "Accelon Technologies Private Limited",
+                "companyUniversalName": "accelon-technologies-p-limited",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/accelon-technologies-p-limited/",
+                "companyId": "931954",
+                "duration": "2 yrs 6 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "May",
+                    "year": 2024,
+                    "text": "May 2024"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_400_400/company-logo_400_400/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=_8ZZbSDXYo7D8RRMynSXl4iBaiCk5SctXonJD5-rPlc",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_400_400/company-logo_400_400/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=_8ZZbSDXYo7D8RRMynSXl4iBaiCk5SctXonJD5-rPlc",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_200_200/company-logo_200_200/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=QzSdLx-C48BkN7c-ouD80NfBSwa2kIis3y4iShTWzMY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_100_100/company-logo_100_100/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=i80zIcM2cfLSJqdI1AYXnYQJdlAUcN8MfPwVxLwU5rE",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "SAP B1 Functional Consultant",
+                "location": "Pune District, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "Smartnet Software Pvt Ltd",
+                "companyUniversalName": "smartnet-software",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/smartnet-software/",
+                "companyId": "27093788",
+                "duration": "1 yr 5 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Feb",
+                    "year": 2021,
+                    "text": "Feb 2021"
+                },
+                "endDate": {
+                    "month": "Jun",
+                    "year": 2022,
+                    "text": "Jun 2022"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE_7iWO7pXkzg/company-logo_400_400/company-logo_400_400/0/1631329561382?e=1794441600&v=beta&t=1g54OS0dt6tbZL6bGE6CIi0Kky01TdDjnPaha6T3C5c",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE_7iWO7pXkzg/company-logo_400_400/company-logo_400_400/0/1631329561382?e=1794441600&v=beta&t=1g54OS0dt6tbZL6bGE6CIi0Kky01TdDjnPaha6T3C5c",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE_7iWO7pXkzg/company-logo_200_200/company-logo_200_200/0/1631329561382?e=1794441600&v=beta&t=QK-01zRoMk9xahrG8dFRGJ0fvHS6wukZA8riRHjllzo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE_7iWO7pXkzg/company-logo_100_100/company-logo_100_100/0/1631329561382?e=1794441600&v=beta&t=J05xYgpKdkskHZEGN3xzHoiYJ15qCIooFboDiV6PpY4",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "SAP B1 Functional Consultant",
+                "location": "Pune District, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "Praxis Info Solutions Private Limited",
+                "companyUniversalName": "praxis-info-solutions-private-limited",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/praxis-info-solutions-private-limited/",
+                "companyId": "521832",
+                "duration": "2 yrs 1 mo",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jan",
+                    "year": 2019,
+                    "text": "Jan 2019"
+                },
+                "endDate": {
+                    "month": "Jan",
+                    "year": 2021,
+                    "text": "Jan 2021"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFx_HIwLsr0hQ/company-logo_400_400/company-logo_400_400/0/1631314976768?e=1794441600&v=beta&t=aA9Kq43dSjKDSNJ24VmCAdXuEfCrKz1eRvDcwhaf3oM",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFx_HIwLsr0hQ/company-logo_400_400/company-logo_400_400/0/1631314976768?e=1794441600&v=beta&t=aA9Kq43dSjKDSNJ24VmCAdXuEfCrKz1eRvDcwhaf3oM",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFx_HIwLsr0hQ/company-logo_200_200/company-logo_200_200/0/1631314976768?e=1794441600&v=beta&t=JIaklWIa_YuL8K-c40-Jg_zbXuZoEmndDKXo1xT1_3Q",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFx_HIwLsr0hQ/company-logo_100_100/company-logo_100_100/0/1631314976768?e=1794441600&v=beta&t=GA_JUUx6R3YmFiShyFcF0h5a3njBurUK3K9vr09O7Fk",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "AISSMS College of Engineering",
+                "description": "Savitribai Phule Pune University",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/33894545/",
+                "schoolId": "33894545",
+                "degree": "Bachelor of Engineering - BE",
+                "fieldOfStudy": "Mechanical",
+                "period": null,
+                "startDate": null,
+                "endDate": {
+                    "text": "2018",
+                    "year": 2018
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_400_400/company-logo_400_400/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=1ogw5kGHJbl9_1uaINrkwKZQ6O_uTapRBsOMR0eNY1I",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_400_400/company-logo_400_400/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=1ogw5kGHJbl9_1uaINrkwKZQ6O_uTapRBsOMR0eNY1I",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_200_200/company-logo_200_200/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=EcV3s9J0jDcvSGXgEt4qy-GwqbQkZXh_Ms2jdfbgfmc",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_100_100/company-logo_100_100/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=YYh7Wg1mZlq_rd5TjVJzpy-A6G58i7KAAOxZ5wWwkck",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Sardar Dastur Junior College",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": null,
+                "schoolId": null,
+                "degree": null,
+                "fieldOfStudy": null,
+                "period": null,
+                "startDate": null,
+                "endDate": {
+                    "text": "2013",
+                    "year": 2013
+                },
+                "schoolLogo": null
+            },
+            {
+                "schoolName": "The Bishop's School",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/19094407/",
+                "schoolId": "19094407",
+                "degree": null,
+                "fieldOfStudy": null,
+                "period": null,
+                "startDate": null,
+                "endDate": {
+                    "text": "2011",
+                    "year": 2011
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQE3xsvcDnGqAQ/company-logo_400_400/company-logo_400_400/0/1630572415029/the_bishops_school_logo?e=1794441600&v=beta&t=2Pq1W8AB976WtB-GznU3zoRwY-mHJVS_1QbqKkJKWjk",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQE3xsvcDnGqAQ/company-logo_400_400/company-logo_400_400/0/1630572415029/the_bishops_school_logo?e=1794441600&v=beta&t=2Pq1W8AB976WtB-GznU3zoRwY-mHJVS_1QbqKkJKWjk",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQE3xsvcDnGqAQ/company-logo_200_200/company-logo_200_200/0/1630572415029/the_bishops_school_logo?e=1794441600&v=beta&t=eI-HkAsy6hH6hS3XsUyAF6LpiOoU7bKKXBt7a3WGwek",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQE3xsvcDnGqAQ/company-logo_100_100/company-logo_100_100/0/1630572415029/the_bishops_school_logo?e=1794441600&v=beta&t=LGt-6TciLIlkggDlZgfmJ0Gv-7bt2UAOY4YT3UI2OMU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "certifications": [],
+        "projects": [],
+        "volunteering": [],
+        "receivedRecommendations": [],
+        "skills": [
+            {
+                "name": "Business Analysis"
+            },
+            {
+                "name": "Business Model Canvas"
+            },
+            {
+                "name": "Total Quality Management (TQM)"
+            },
+            {
+                "name": "Balance Scorecard"
+            },
+            {
+                "name": "Microsoft Power BI"
+            },
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "Value Engineering"
+            },
+            {
+                "name": "Microsoft Project"
+            },
+            {
+                "name": "Microsoft Office"
+            },
+            {
+                "name": "Six Sigma"
+            },
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Enterprise Resource Planning (ERP)"
+            },
+            {
+                "name": "Customer Relationship Management (CRM)"
+            }
+        ],
+        "publications": [],
+        "courses": [],
+        "patents": [],
+        "honorsAndAwards": [],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "Full professional proficiency"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "Native or bilingual proficiency"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "Native or bilingual proficiency"
+            }
+        ],
+        "organizations": [],
+        "causes": [],
+        "featured": null,
+        "composeOptionType": "UPSELL",
+        "moreProfiles": [
+            {
+                "id": "ACoAADBIvdUBtqyTlEIcPM2p7wEebSIw8i0ujQ8",
+                "firstName": "Sangam",
+                "lastName": "Swami",
+                "position": "Software Developer at Accelon Technologies",
+                "publicIdentifier": "sangam-swami",
+                "linkedinUrl": "https://www.linkedin.com/in/sangam-swami"
+            },
+            {
+                "id": "ACoAAAZVXMkBTbNUIhWY9JhZ5n19FwdzedAm1EA",
+                "firstName": "Riya",
+                "lastName": "Nasarpuri",
+                "position": "HR Executive at Accelon Technologies Private Limited",
+                "publicIdentifier": "riya-nasarpuri-8097032b",
+                "linkedinUrl": "https://www.linkedin.com/in/riya-nasarpuri-8097032b"
+            },
+            {
+                "id": "ACoAACXT4-QBStqXm7UrWWsMXQU4BMR-xGA1qkk",
+                "firstName": "Komal",
+                "lastName": "Kadam",
+                "position": "Azure DevOps Engineer | Azure | Terraform | Azure DevOps CI/CD | Linux | Git | Infrastructure as Code | Cloud Automation",
+                "publicIdentifier": "kadam-komal",
+                "linkedinUrl": "https://www.linkedin.com/in/kadam-komal"
+            },
+            {
+                "id": "ACoAADV2It8BS__a_HAi3z4ftDV86tTfNbdZiZI",
+                "firstName": "Mayur",
+                "lastName": "Randhir",
+                "position": "SAP Consultant",
+                "publicIdentifier": "mayur-randhir-47b46b210",
+                "linkedinUrl": "https://www.linkedin.com/in/mayur-randhir-47b46b210"
+            },
+            {
+                "id": "ACoAAF_fxjABekEmBLG9jQMxKbtt3muf2gLGlBU",
+                "firstName": "Abhishek",
+                "lastName": "Jadhav",
+                "position": "SAP B1 Functional Consultant",
+                "publicIdentifier": "abhishek-jadhav-44082538a",
+                "linkedinUrl": "https://www.linkedin.com/in/abhishek-jadhav-44082538a"
+            },
+            {
+                "id": "ACoAADpdmbYBJgoOB2x4D9epV3ruCCN1U1U04_8",
+                "firstName": "Amit",
+                "lastName": "Bansode",
+                "position": "Software Developer|Sap b1| .NET  | Code On Time Generator|  Microsoft SQL Server| SQL|JavaFullstack",
+                "publicIdentifier": "amit-bansode-046b2a233",
+                "linkedinUrl": "https://www.linkedin.com/in/amit-bansode-046b2a233"
+            },
+            {
+                "id": "ACoAADp67cwB5VEmLlSZLbhBOXYW7FdZHk7sS60",
+                "firstName": "Sangita",
+                "lastName": "Birajdar",
+                "position": "Software Developer",
+                "publicIdentifier": "sangita-birajdar-4106b6234",
+                "linkedinUrl": "https://www.linkedin.com/in/sangita-birajdar-4106b6234"
+            },
+            {
+                "id": "ACoAAAGtKjIBWA9mwNi13jRVEJEyndZ_vOzFfAM",
+                "firstName": "Neeraj",
+                "lastName": "Gupta",
+                "position": "Technical Head, Accelon Technologies Pvt. Ltd.",
+                "publicIdentifier": "neeraj-gupta-5825049",
+                "linkedinUrl": "https://www.linkedin.com/in/neeraj-gupta-5825049"
+            },
+            {
+                "id": "ACoAAAaIKGwB3tie6NmaMmW5MqgY7OXb8fMUZRE",
+                "firstName": "Jyotsana",
+                "lastName": "Badekar",
+                "position": "Head of HR | 7+ Years in HR Management | Talent Acquisition & Payroll Specialist",
+                "publicIdentifier": "jyotsanabadekar2330",
+                "linkedinUrl": "https://www.linkedin.com/in/jyotsanabadekar2330"
+            },
+            {
+                "id": "ACoAACnHn9sBFv_k9S8RZuErTICNQgYWRT38SiQ",
+                "firstName": "Shital",
+                "lastName": "Chaudhari",
+                "position": "SAP Consultant at Accelon Technologies Private Limited",
+                "publicIdentifier": "shital-chaudhari-5638b5176",
+                "linkedinUrl": "https://www.linkedin.com/in/shital-chaudhari-5638b5176"
+            },
+            {
+                "id": "ACoAADSkwpsBA-uH92jz82leZ5SLKaz2CsmKcSg",
+                "firstName": "Mohamed",
+                "lastName": "Bieh",
+                "position": "Senior Accountant: Accounts Management | Accounts Payable | Accounts Receivable  | Bank Reconciliation | Fixed Assets | Financial Reporting",
+                "publicIdentifier": "mohamed-ahmed-bieh",
+                "linkedinUrl": "https://www.linkedin.com/in/mohamed-ahmed-bieh"
+            },
+            {
+                "id": "ACoAAEy35YcB5l3NMF5UnfZjHolfTqqh_5y48Kw",
+                "firstName": "MOHAMMED",
+                "lastName": "AYEDH",
+                "position": "Business Administration Specialist | Strategic Planning & Business Development | Data Analysis | Negotiation & Performance Management\n",
+                "publicIdentifier": "mohammed-ayedh-31b0792bb",
+                "linkedinUrl": "https://www.linkedin.com/in/mohammed-ayedh-31b0792bb"
+            },
+            {
+                "id": "ACoAAEFSK5EBfCLe7Xp34EVg9LzNHGUZkzwkUa0",
+                "firstName": "Ahmad",
+                "lastName": "Al-Najjar",
+                "position": "Accounting & Finance Professional | Financial Reporting | Budgeting | Financial Analysis | Cost Control",
+                "publicIdentifier": "ahmad-al-najjar-955023267",
+                "linkedinUrl": "https://www.linkedin.com/in/ahmad-al-najjar-955023267"
+            },
+            {
+                "id": "ACoAAEjlOZwBbQYBfoVPHUGITTuVMERnt1LrEsE",
+                "firstName": "Hashal",
+                "lastName": "Al-Wadaani",
+                "position": "Administrative Specialist | Project Coordinator | Reporting & Operations Support",
+                "publicIdentifier": "hashal-al-wadaani-2a46a82a1",
+                "linkedinUrl": "https://www.linkedin.com/in/hashal-al-wadaani-2a46a82a1"
+            },
+            {
+                "id": "ACoAAE56jrwBRItVDW5i2gD2mf9Dx2wzJX4mSlM",
+                "firstName": "Tala",
+                "lastName": "Alotaibi",
+                "position": "Business Management Fresh Graduate from PNU | Marketing Specialist @ WSC",
+                "publicIdentifier": "tala-alotaibi",
+                "linkedinUrl": "https://www.linkedin.com/in/tala-alotaibi"
+            },
+            {
+                "id": "ACoAAECaC-oB2xVFIyjUh9DpeNRUQtxAl1mixp8",
+                "firstName": "osama",
+                "lastName": "alnmr",
+                "position": "Camera Operator | Interview Production | Photojournalism | Radio, Television & Film Graduate",
+                "publicIdentifier": "osama-alnmr",
+                "linkedinUrl": "https://www.linkedin.com/in/osama-alnmr"
+            },
+            {
+                "id": "ACoAAAMQAcoBtVcfDb25kvFrvaH9ruidt1A3-8Y",
+                "firstName": "Rawad",
+                "lastName": "Bin Bishr",
+                "position": "Accounts Management Manager ",
+                "publicIdentifier": "rawad-bin-bishr",
+                "linkedinUrl": "https://www.linkedin.com/in/rawad-bin-bishr"
+            },
+            {
+                "id": "ACoAACR4SlIBpswTSuy6Xu3FHuQ-v1L4B1Nppc8",
+                "firstName": "Abdulaziz",
+                "lastName": "Alshunife",
+                "position": "\u200fGeneral Manager | Industrial & Systems Engineer | Factory Operations | Strategic Planning | Operational Excellence",
+                "publicIdentifier": "abdulaziz-alshunife-556ab3150",
+                "linkedinUrl": "https://www.linkedin.com/in/abdulaziz-alshunife-556ab3150"
+            },
+            {
+                "id": "ACoAAEXUxG0B4W9SOXtKFdCxJwnt1TAKimRPSpk",
+                "firstName": "ZAKARIA",
+                "lastName": "OMAR",
+                "position": "\u0645\u0633\u0627\u0639\u062f \u0625\u062f\u0627\u0631\u064a \u0641\u064aMolham  | \u0625\u0639\u062f\u0627\u062f \u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u0645\u0648\u0627\u0632\u0646\u0629 \u0627\u0644\u062a\u0634\u063a\u064a\u0644\u064a\u0629",
+                "publicIdentifier": "zakaria-omar-b51434288",
+                "linkedinUrl": "https://www.linkedin.com/in/zakaria-omar-b51434288"
+            },
+            {
+                "id": "ACoAAEWSLkkBQZDKNcEJNPL_mU3aLHYoDUpJabo",
+                "firstName": "Athog",
+                "lastName": "AlGhathbar",
+                "position": "Fresh Graduated | Public Relations |Public Relation Specialist | Media | Digital Media | Executive Assistant ",
+                "publicIdentifier": "athog-alghathbar-721a8b286",
+                "linkedinUrl": "https://www.linkedin.com/in/athog-alghathbar-721a8b286"
+            }
+        ],
+        "sectionTotals": {
+            "experience": 3,
+            "education": 3,
+            "certifications": 0,
+            "receivedRecommendations": 0,
+            "skills": 13,
+            "courses": 0,
+            "languages": 3,
+            "projects": 0,
+            "volunteering": 0,
+            "publications": 0,
+            "patents": 0,
+            "organizations": 0,
+            "honorsAndAwards": 0,
+            "causes": 0
+        },
+        "interests": [
+            {
+                "interestName": "Top Voices",
+                "elements": [
+                    {
+                        "title": "Tim Ferriss",
+                        "subtitle": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor, Tim Ferriss Show podcast (1B+ downloads), founder of the Saisei Foundation",
+                        "link": "https://www.linkedin.com/in/timferriss",
+                        "caption": "1,539,397 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E03AQFJUaA3RAZDIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687979278495?e=1794441600&v=beta&t=8f8hFNElTs1PLicusUsK2VgdlgpdE_ZScl9nJPeoINg"
+                        }
+                    },
+                    {
+                        "title": "Bill Gates",
+                        "subtitle": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+                        "link": "https://www.linkedin.com/in/williamhgates",
+                        "caption": "40,753,933 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1794441600&v=beta&t=yD_DYYEhXM5rhNQbkRB8dMoZHqky0ALVKTyJW63YNeA"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Companies",
+                "elements": [
+                    {
+                        "title": "Toyota Motor Corporation",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/2109/",
+                        "caption": "2,393,011 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQG6BUUPIVuQIQ/company-logo_400_400/company-logo_400_400/0/1631431196156/toyota_logo?e=1794441600&v=beta&t=XXqbWfoJ1PHimR3ZwWhqbWuJN9jCUrIyQaf5amaS9gk"
+                        }
+                    },
+                    {
+                        "title": "Huawei",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/3014/",
+                        "caption": "5,505,544 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D560BAQGIGS-v44hw8w/company-logo_400_400/B56aCoBoIOGwAU-/0/1789525394357/huawei_logo?e=1794441600&v=beta&t=6Auo6FWxyDQDbOKK8agOXHR-N4aunEynD_6ZK2kb-Vc"
+                        }
+                    }
+                ]
+            }
+        ],
+        "originalQuery": {
+            "query": "https://in.linkedin.com/in/rohan-patil-9593b6257"
+        },
+        "posts": []
+    }
+]

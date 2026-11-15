@@ -1,0 +1,717 @@
+[
+    {
+        "id": "ACoAAEARt4sBkXSQhiQ5jiNFlikLlVMARf-YoFQ",
+        "publicIdentifier": "tanmay-gadge-377b9625b",
+        "linkedinUrl": "https://www.linkedin.com/in/tanmay-gadge-377b9625b",
+        "firstName": "Tanmay",
+        "lastName": "Gadge",
+        "emails": [],
+        "headline": "AI Engineer Intern | Full Stack developer",
+        "openToWork": true,
+        "hiring": false,
+        "premium": false,
+        "influencer": false,
+        "memorialized": false,
+        "creator": false,
+        "location": {
+            "linkedinText": "Pune District, Maharashtra, India",
+            "countryCode": "IN",
+            "parsed": {
+                "text": "Pune, India",
+                "countryCode": "IN",
+                "regionCode": null,
+                "country": "India",
+                "countryFull": "India",
+                "state": "Maharashtra",
+                "city": "Pune"
+            }
+        },
+        "objectUrn": "1074902923",
+        "registeredAt": "2022-12-28T11:24:56.494Z",
+        "topSkills": [
+            "LangGraph",
+            "React.js",
+            "JavaScript",
+            "Web Development",
+            "Rust (Programming Language)"
+        ],
+        "connectionsCount": 304,
+        "followerCount": 318,
+        "verified": true,
+        "about": "Final year CS undergrad interested in AI research and ML Systems Engineering.\n\nCrafting innovative solutions for the betterment of mankind.",
+        "currentPosition": [
+            {
+                "position": "AI Engineer Intern",
+                "location": "Pune City",
+                "employmentType": "Internship",
+                "workplaceType": "On-site",
+                "companyName": "IKSC Knowledge Bridge Pvt. Ltd.",
+                "companyUniversalName": "iksc-knowledge-bridge-pvt.-ltd.",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/iksc-knowledge-bridge-pvt.-ltd./",
+                "companyId": "1572657",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_400_400/company-logo_400_400/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=ERNaygy4YUnBlaMWao38CH0PQLeAhzz-TbP25ssG5C0",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_400_400/company-logo_400_400/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=ERNaygy4YUnBlaMWao38CH0PQLeAhzz-TbP25ssG5C0",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_200_200/company-logo_200_200/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=jezyAgDRC3sJTzst6S_6DhdIUpjpjRpU7Y5_mu_pSRU",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_100_100/company-logo_100_100/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=AddrvIpCj1jnSH3wI9lAF7Iohg3m-WNeUq59_30OB2E",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileTopEducation": [
+            {
+                "schoolName": "MIT World Peace University",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/13352643/",
+                "schoolId": "13352643",
+                "degree": "Bachelor of Technology - BTech",
+                "fieldOfStudy": "Computer Science",
+                "period": "Aug 2023 - Jul 2027",
+                "startDate": {
+                    "month": "Aug",
+                    "year": 2023,
+                    "text": "Aug 2023"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2027,
+                    "text": "Jul 2027"
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_400_400/company-logo_400_400/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=FH03r4Tfp2Sf01x3zWJmeM1dfWV6rgcBGE340M_S0-U",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_400_400/company-logo_400_400/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=FH03r4Tfp2Sf01x3zWJmeM1dfWV6rgcBGE340M_S0-U",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_200_200/company-logo_200_200/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=88mqhmnRoEsQE3T2iQ7jUlCq8UBnrSVAkIKI1Kx4Ao8",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_100_100/company-logo_100_100/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=uLwa4eWwG7Pe3c6tfyLndT8DqS3UM7UDuYhrUDmx6Vs",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileActions": [],
+        "profilePicture": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_800_800/B4DZTq0chhG8Ac-/0/1739106404888?e=1792627200&v=beta&t=EbTwAI0u5EPB_yLYEnVZkbAqvlWZj8wKoPBKIV_2Fj0",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_800_800/B4DZTq0chhG8Ac-/0/1739106404888?e=1792627200&v=beta&t=EbTwAI0u5EPB_yLYEnVZkbAqvlWZj8wKoPBKIV_2Fj0",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_400_400/B4DZTq0chhG8Ag-/0/1739106404888?e=1792627200&v=beta&t=fFnj40IHLvN3n8aoK_MXfs-l-LYgCBrnUpBQjSSqlN8",
+                    "width": 400,
+                    "height": 400
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_200_200/B4DZTq0chhG8AY-/0/1739106404870?e=1792627200&v=beta&t=uEoSxuZL1DzpttjsBjwV3zcuLGqA9-8blng6MxremQc",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_100_100/B4DZTq0chhG8AU-/0/1739106404888?e=1792627200&v=beta&t=zPV5W7AxRqngcGydrO2NYTXiLe8jiPQQiINIcBax67I",
+                    "width": 100,
+                    "height": 100
+                }
+            ]
+        },
+        "coverPicture": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQHMebs8w1Crhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739206348592?e=1792627200&v=beta&t=K_vwSN-ZVerStbPV-tpRj46mMGy7hx3B0Z0MAPyDsWE",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D16AQHMebs8w1Crhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739206348592?e=1792627200&v=beta&t=K_vwSN-ZVerStbPV-tpRj46mMGy7hx3B0Z0MAPyDsWE",
+                    "width": 1400,
+                    "height": 350
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D16AQHMebs8w1Crhg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1739206348592?e=1792627200&v=beta&t=hDhVOQcQMV9olOFV0QgCx9Cnq6iEgXDaQn7XQofA1So",
+                    "width": 800,
+                    "height": 200
+                }
+            ]
+        },
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHo7rbl9NMUvg/profile-displayphoto-shrink_800_800/B4DZTq0chhG8Ac-/0/1739106404888?e=1792627200&v=beta&t=EbTwAI0u5EPB_yLYEnVZkbAqvlWZj8wKoPBKIV_2Fj0",
+        "profileLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "primaryLocale": {
+            "country": "US",
+            "language": "en"
+        },
+        "multiLocaleHeadline": [
+            {
+                "headline": "AI Engineer Intern | Full Stack developer",
+                "locale": "en_US"
+            }
+        ],
+        "services": null,
+        "experience": [
+            {
+                "position": "AI Engineer Intern",
+                "location": "Pune City",
+                "employmentType": "Internship",
+                "workplaceType": "On-site",
+                "companyName": "IKSC Knowledge Bridge Pvt. Ltd.",
+                "companyUniversalName": "iksc-knowledge-bridge-pvt.-ltd.",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/iksc-knowledge-bridge-pvt.-ltd./",
+                "companyId": "1572657",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_400_400/company-logo_400_400/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=ERNaygy4YUnBlaMWao38CH0PQLeAhzz-TbP25ssG5C0",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_400_400/company-logo_400_400/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=ERNaygy4YUnBlaMWao38CH0PQLeAhzz-TbP25ssG5C0",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_200_200/company-logo_200_200/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=jezyAgDRC3sJTzst6S_6DhdIUpjpjRpU7Y5_mu_pSRU",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQHri18zaP8myg/company-logo_100_100/company-logo_100_100/0/1630596847519/iksc_knowledge_bridge_pvt_ltd_logo?e=1792627200&v=beta&t=AddrvIpCj1jnSH3wI9lAF7Iohg3m-WNeUq59_30OB2E",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Software Engineer",
+                "location": "Pune District",
+                "employmentType": "Internship",
+                "workplaceType": "On-site",
+                "companyName": "Vegapod Hyperloop | MIT World Peace University",
+                "companyUniversalName": "teamvegapodhyperloop",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/teamvegapodhyperloop/",
+                "companyId": "34202601",
+                "duration": "10 mos",
+                "description": "\u2022 Collaboratively developed the navigation and control system software.  \n\u2022 Developed, and deployed the official website using next.js @ vegapodhyperloop.in",
+                "skills": null,
+                "startDate": {
+                    "month": "Aug",
+                    "year": 2024,
+                    "text": "Aug 2024"
+                },
+                "endDate": {
+                    "month": "May",
+                    "year": 2025,
+                    "text": "May 2025"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEITYWD-LfJ7Q/company-logo_400_400/company-logo_400_400/0/1737994916883?e=1792627200&v=beta&t=dpKFOeWSKAC-Xu-1OzuRCstkL_1SpRfyEl3l1so-gGA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEITYWD-LfJ7Q/company-logo_400_400/company-logo_400_400/0/1737994916883?e=1792627200&v=beta&t=dpKFOeWSKAC-Xu-1OzuRCstkL_1SpRfyEl3l1so-gGA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEITYWD-LfJ7Q/company-logo_200_200/company-logo_200_200/0/1737994916883?e=1792627200&v=beta&t=wtWE9CYrHTHNNUYjzkTm2CZDMHns1FSKLvOBDnvpHaY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEITYWD-LfJ7Q/company-logo_100_100/company-logo_100_100/0/1737994916883?e=1792627200&v=beta&t=J2EClCsMwdzUpSX_G2zSOaeaPG9FewxzRYyYUdE6hh4",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Technical Team Member",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": "Internship",
+                "workplaceType": "Hybrid",
+                "companyName": "Numerates Club",
+                "companyUniversalName": "numerates-club",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/numerates-club/",
+                "companyId": "78560087",
+                "duration": "1 yr",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Oct",
+                    "year": 2023,
+                    "text": "Oct 2023"
+                },
+                "endDate": {
+                    "month": "Sep",
+                    "year": 2024,
+                    "text": "Sep 2024"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D560BAQEk9hVxL0I0Pg/company-logo_400_400/company-logo_400_400/0/1692464134112/numerates_club_logo?e=1792627200&v=beta&t=BmmLFrrs1Jac3KrtpscwUld0UE1CxsbbsWMNzuwp7g4",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D560BAQEk9hVxL0I0Pg/company-logo_400_400/company-logo_400_400/0/1692464134112/numerates_club_logo?e=1792627200&v=beta&t=BmmLFrrs1Jac3KrtpscwUld0UE1CxsbbsWMNzuwp7g4",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D560BAQEk9hVxL0I0Pg/company-logo_200_200/company-logo_200_200/0/1692464134112/numerates_club_logo?e=1792627200&v=beta&t=_iVn74mOnHueJ-SfNeC4kDDpxT3O4Gn38ODV6-ysmts",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D560BAQEk9hVxL0I0Pg/company-logo_100_100/company-logo_100_100/0/1692464134112/numerates_club_logo?e=1792627200&v=beta&t=HT45JfkMOWkIg74tnzvqaE_Uh8AjcasYOtjoi9iqQeM",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                },
+                "geoUrn": null
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "MIT World Peace University",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/13352643/",
+                "schoolId": "13352643",
+                "degree": "Bachelor of Technology - BTech",
+                "fieldOfStudy": "Computer Science",
+                "period": "Aug 2023 - Jul 2027",
+                "startDate": {
+                    "month": "Aug",
+                    "year": 2023,
+                    "text": "Aug 2023"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2027,
+                    "text": "Jul 2027"
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_400_400/company-logo_400_400/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=FH03r4Tfp2Sf01x3zWJmeM1dfWV6rgcBGE340M_S0-U",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_400_400/company-logo_400_400/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=FH03r4Tfp2Sf01x3zWJmeM1dfWV6rgcBGE340M_S0-U",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_200_200/company-logo_200_200/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=88mqhmnRoEsQE3T2iQ7jUlCq8UBnrSVAkIKI1Kx4Ao8",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQH39CnaYUNguA/company-logo_100_100/company-logo_100_100/0/1729247947484/mitwpuofficial_logo?e=1792627200&v=beta&t=uLwa4eWwG7Pe3c6tfyLndT8DqS3UM7UDuYhrUDmx6Vs",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "certifications": [],
+        "projects": [
+            {
+                "title": "Risc-V OS kernel",
+                "duration": "Jan 2026 - Present",
+                "startDate": {
+                    "month": "Jan",
+                    "year": 2026,
+                    "text": "Jan 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "description": "A Risc-V microkernel written in rust. Exploring fast,minimal IPC, capability-based security and a web-assembly native user-space."
+            }
+        ],
+        "volunteering": [],
+        "receivedRecommendations": [],
+        "skills": [
+            {
+                "name": "LangGraph",
+                "positions": [
+                    "AI Engineer Intern at IKSC Knowledge Bridge Pvt. Ltd."
+                ]
+            },
+            {
+                "name": "LangChain",
+                "positions": [
+                    "AI Engineer Intern at IKSC Knowledge Bridge Pvt. Ltd."
+                ]
+            },
+            {
+                "name": "Express.js",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "Node.js",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "Assembly Language",
+                "positions": [
+                    "Risc-V OS kernel"
+                ]
+            },
+            {
+                "name": "QEMU",
+                "positions": [
+                    "Risc-V OS kernel"
+                ]
+            },
+            {
+                "name": "Rust (Programming Language)",
+                "positions": [
+                    "Risc-V OS kernel"
+                ]
+            },
+            {
+                "name": "Application Programming Interfaces (API)"
+            },
+            {
+                "name": "Search Engine Optimization (SEO)",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "WebSocket",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "Tailwind CSS",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "HTML5",
+                "positions": [
+                    "Technical Team Member at Numerates Club"
+                ]
+            },
+            {
+                "name": "Web Design"
+            },
+            {
+                "name": "Next.js",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "Front-End Development",
+                "positions": [
+                    "Technical Team Member at Numerates Club"
+                ]
+            },
+            {
+                "name": "JavaScript",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "Python (Programming Language)"
+            },
+            {
+                "name": "Web Development",
+                "positions": [
+                    "Software Engineer at Vegapod Hyperloop | MIT World Peace University"
+                ]
+            },
+            {
+                "name": "React.js",
+                "positions": [
+                    "2 experiences across Vegapod Hyperloop | MIT World Peace University and 1 other company"
+                ]
+            },
+            {
+                "name": "Responsive Web Design"
+            }
+        ],
+        "publications": [],
+        "courses": [],
+        "patents": [],
+        "honorsAndAwards": [],
+        "languages": [],
+        "organizations": [],
+        "causes": [],
+        "featured": null,
+        "composeOptionType": "UPSELL",
+        "moreProfiles": [
+            {
+                "id": "ACoAADuU9XYBpJlNYVWETk2Wlc-zNryTKgyJcuA",
+                "firstName": "Jai",
+                "lastName": "Umadi",
+                "position": "Passionate Computer Science Student | Enthusiast for New Technologies | Problem Solver & Aspiring Designer | Exploring the Future of Tech",
+                "publicIdentifier": "jaiumadi",
+                "linkedinUrl": "https://www.linkedin.com/in/jaiumadi"
+            },
+            {
+                "id": "ACoAAEXV4eUBupr_J8CKuAK9TWzt6d5VBX7IVL8",
+                "firstName": "Pranav",
+                "lastName": "Joshi",
+                "position": "Intern @ Calfus |  AWS Hackathon Winner | Student Placement Rep @ MITWPU | Senior @ MITWPU",
+                "publicIdentifier": "pranavj21",
+                "linkedinUrl": "https://www.linkedin.com/in/pranavj21"
+            },
+            {
+                "id": "ACoAAEO-E8gBLkWMvr535K6w43cRFHE27h2qv98",
+                "firstName": "Anushka ",
+                "lastName": "Singh",
+                "position": "AI Engineer | LLM Applications \u2022 RAG Systems \u2022 AI Agents",
+                "publicIdentifier": "anushka-singh-408756278",
+                "linkedinUrl": "https://www.linkedin.com/in/anushka-singh-408756278"
+            },
+            {
+                "id": "ACoAAEM0X2EBfXni8amGKH-wYb6UkRCvHV5gws8",
+                "firstName": "Om",
+                "lastName": "Deshpande",
+                "position": "Intern @Colgate-Palmolive | Student BTech CSE MIT 27\u2019 | Full-Stack (React/Next.js) | Cloud & DevOps |",
+                "publicIdentifier": "omdeshpande09",
+                "linkedinUrl": "https://www.linkedin.com/in/omdeshpande09"
+            },
+            {
+                "id": "ACoAAEbIJlkBfE8NsiZgSGkDESMI6ceO8w1xVnw",
+                "firstName": "Dhaval",
+                "lastName": "Gujar",
+                "position": "Aspiring Founder | AI Engineer building real-world Agentic Apps || CS (AI) @ VIT Pune || Turning Ideas into Intelligent Applications",
+                "publicIdentifier": "dhaval-gujar",
+                "linkedinUrl": "https://www.linkedin.com/in/dhaval-gujar"
+            },
+            {
+                "id": "ACoAAEsSZzQBaXFPfCM3hNIJKEhsLuZp6mKCGlQ",
+                "firstName": "Chirag",
+                "lastName": "Poojari",
+                "position": "Aspiring Software Development Engineer | AI, Full-Stack & iOS Developer",
+                "publicIdentifier": "chiragpoojari16",
+                "linkedinUrl": "https://www.linkedin.com/in/chiragpoojari16"
+            },
+            {
+                "id": "ACoAABcLoQIBBe-tiOtBpsxREIcIuLSVdZxLPKM",
+                "firstName": "Naresh",
+                "lastName": "J.",
+                "position": "Senior AI Solution Architect | Helping Enterprises Reduce Operational Overhead through Custom AI Orchestration",
+                "publicIdentifier": "njangir2",
+                "linkedinUrl": "https://www.linkedin.com/in/njangir2"
+            },
+            {
+                "id": "ACoAAEz0GCEBn8WirlzdITQQlp6g6eidJIvoZhA",
+                "firstName": "Megha",
+                "lastName": "Hage",
+                "position": "Aspiring Full stack developer l Web Developer  ",
+                "publicIdentifier": "megha-hage-395460300",
+                "linkedinUrl": "https://www.linkedin.com/in/megha-hage-395460300"
+            },
+            {
+                "id": "ACoAAEVR13kBaUSoLvJe5zJu_owStJz_VzL4Bz0",
+                "firstName": "Advay ",
+                "lastName": "Shinde",
+                "position": "CSE Undergrad @ MIT-WPU | Published two ML Research papers at Springer @ICTCS\u201925 and ASME @IMECE \u201926  | Building AI, SWE & Systems | BizTech Club Founder and President | Student Placement Representative @MIT-WPU",
+                "publicIdentifier": "advay-shinde-589597285",
+                "linkedinUrl": "https://www.linkedin.com/in/advay-shinde-589597285"
+            },
+            {
+                "id": "ACoAAD8xODUB7VBwI9vZbCRrUnDMwVwIv3b1z3M",
+                "firstName": "Nilesh",
+                "lastName": "Namdev",
+                "position": "Fullstack and AI automation developer at 365AITech | Web Development | AI and Automation | Custom Software Development",
+                "publicIdentifier": "nileshnamdev",
+                "linkedinUrl": "https://www.linkedin.com/in/nileshnamdev"
+            }
+        ],
+        "sectionTotals": {
+            "experience": 3,
+            "education": 1,
+            "certifications": 0,
+            "receivedRecommendations": 0,
+            "skills": 23,
+            "courses": 0,
+            "languages": 0,
+            "projects": 1,
+            "volunteering": 0,
+            "publications": 0,
+            "patents": 0,
+            "organizations": 0,
+            "honorsAndAwards": 0,
+            "causes": 0
+        },
+        "interests": [
+            {
+                "interestName": "Top Voices",
+                "elements": [
+                    {
+                        "title": "Satya Nadella",
+                        "subtitle": "Chairman and CEO at Microsoft",
+                        "link": "https://www.linkedin.com/in/satyanadella",
+                        "caption": "12,203,656 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1579726625483?e=1792627200&v=beta&t=OpRsI1KKCSJggoVzzoSTrftQUTYd8lSqMZMTMDtfYd4"
+                        }
+                    },
+                    {
+                        "title": "Demis Hassabis",
+                        "subtitle": "Nobel Laureate | Co-Founder & Chair, Google DeepMind and Chief Scientist, Alphabet | Founder & CEO, Isomorphic Labs",
+                        "link": "https://www.linkedin.com/in/demishassabis",
+                        "caption": "378,560 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E03AQHDlCnuxugKuA/profile-displayphoto-shrink_800_800/B4EZSKW58BHAAc-/0/1737488048398?e=1792627200&v=beta&t=6b_aqPZ1-1GEU5sYJH6jOTeYyqtFsIqzi74bgfe63xE"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Companies",
+                "elements": [
+                    {
+                        "title": "IBM",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1009/",
+                        "caption": "20,060,387 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1792627200&v=beta&t=WQQFUl9U-fpduKwuv7oQrINYilqeyzTA6q5a_r3rnog"
+                        }
+                    },
+                    {
+                        "title": "Oracle",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1028/",
+                        "caption": "11,574,145 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1792627200&v=beta&t=1RpUXS1iHfxAjGD0jFcxnEIoHjuD6riO4kckKamNRRk"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Groups",
+                "elements": [
+                    {
+                        "title": "GeeksforGeeks- Official Group",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/3990929",
+                        "caption": "693,103 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C5607AQFxnLrTEhTIxg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1641298759039?e=1791795600&v=beta&t=tr_Bw_6S5PSY79AWPRM0B-iR5sN3iCpE_ExLOYiv-C0"
+                        }
+                    },
+                    {
+                        "title": "JavaScript",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/121615",
+                        "caption": "1,535,763 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D07AQFK5LmvZWWTGg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1630999696851?e=1791795600&v=beta&t=tkoJklWnyhklmhOZdxfrfsnpBAX-MQa6uLWW-SZr6PA"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Newsletters",
+                "elements": [
+                    {
+                        "title": "Straight to the future",
+                        "subtitle": "Sharing insights for action",
+                        "link": "https://www.linkedin.com/newsletters/7189542727338876928",
+                        "caption": "Published monthly",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E12AQEIhZUZ-vqW2A/series-logo_image-shrink_300_300/B4EZVNTtUUHUAU-/0/1740758767819?e=1792627200&v=beta&t=YH6qlE0u8xO399gI8dOuo7MfgUub7jupsoYhN0-I7Eg"
+                        }
+                    },
+                    {
+                        "title": "Oracle Connect",
+                        "subtitle": "Your monthly connection to the latest Oracle news and innovations.",
+                        "link": "https://www.linkedin.com/newsletters/7234944298406883328",
+                        "caption": "Published monthly",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E12AQHwkFWN0gGQjg/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1724932148388?e=1792627200&v=beta&t=UgycLHBZ_Kmyc-Ml-79q26FWhRWFTwPobo_YcAUQvdU"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Schools",
+                "elements": [
+                    {
+                        "title": "Indian Institute of Science Education and Research (IISER), Pune",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/327909/",
+                        "caption": "123,916 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHAhuM3tEbIVA/company-logo_400_400/company-logo_400_400/0/1631307990406?e=1792627200&v=beta&t=AEjQm-VSUWr_G3HMbCs6v31cMVaHCl0HP7NETjv1Dnk"
+                        }
+                    },
+                    {
+                        "title": "Indian Institute of Technology, Madras",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/157267/",
+                        "caption": "773,947 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGqbSuxjLqtWQ/company-logo_400_400/company-logo_400_400/0/1659504006681/reachiitm_logo?e=1792627200&v=beta&t=OBdmnd73exFAvsPCxMsqIy1UV05lrhl3NGa3IU58JeE"
+                        }
+                    }
+                ]
+            }
+        ],
+        "originalQuery": {
+            "query": "https://in.linkedin.com/in/tanmay-gadge-377b9625b"
+        }
+    }
+]
+

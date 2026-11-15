@@ -1,0 +1,37 @@
+{
+    "first_name": "Ajay",
+    "last_name": "Kumar",
+    "date_of_birth": "27/08/1998",
+    "age": null,
+    "blood_group": "A+",
+    "weight": 78,
+    "height": "5 ft. 7 in.",
+    "complexion": null,
+    "religion": "Hindu",
+    "caste": "Caste Name",
+    "education": [
+        "Bachelor of Business Administration (BBA)"
+    ],
+    "occupation": null,
+    "employer": "Tata Communications Ltd.",
+    "annual_income": null,
+    "hometown": "Mumbai",
+    "address": "Flat No. 71, Mukatha Apartment, Bengaluru",
+    "current_city": "Bengaluru",
+    "phone_number": "9826548970 / 9236548899",
+    "email": null,
+    "family_details": {
+        "father": {
+            "name": "Arjun Kumar",
+            "occupation": "Business Clothing Store"
+        },
+        "mother": {
+            "name": "Jaya Kumar",
+            "occupation": "Housewife"
+        },
+        "siblings": {
+            "relation": "Sister",
+            "marital_status": "unmarried"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "first_name": "Mayur",
+    "last_name": "Talele",
+    "date_of_birth": "1997-01-25",
+    "age": 27,
+    "blood_group": "AB+",
+    "weight": null,
+    "height": "6ft 1in (186 cm)",
+    "complexion": "Fair",
+    "religion": null,
+    "caste": "Leva",
+    "education": [
+        "Double Masters in Computational Mechanics (Barcelona-Stuttgart)",
+        "Bachelor's in Mechanical Engg. Pune"
+    ],
+    "occupation": "Siemens, Germany",
+    "employer": "Siemens",
+    "annual_income": "Rs. 9,000,000",
+    "hometown": "Faizpur",
+    "address": "Akurdi, Pune",
+    "current_city": "Germany",
+    "phone_number": "+91-9850053245, +91-7028043779",
+    "email": null,
+    "family_details": {
+        "father": {
+            "name": "Santosh Purushottam Talele",
+            "occupation": "Retired"
+        },
+        "mother": {
+            "name": "Kavita Santosh Talele",
+            "occupation": null
+        },
+        "siblings": {
+            "relation": "Brother",
+            "marital_status": "unmarried"
+        }
+    }
+}

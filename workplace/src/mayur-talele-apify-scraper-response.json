@@ -1,0 +1,3311 @@
+[
+    {
+        "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+        "publicIdentifier": "mayur-talele",
+        "linkedinUrl": "https://www.linkedin.com/in/mayur-talele",
+        "firstName": "Mayur",
+        "lastName": "Talele",
+        "emails": [],
+        "headline": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+        "openToWork": false,
+        "hiring": false,
+        "premium": false,
+        "influencer": false,
+        "memorialized": false,
+        "creator": false,
+        "location": {
+            "linkedinText": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+            "countryCode": "DE",
+            "parsed": {
+                "text": "Stuttgart, Germany",
+                "countryCode": "DE",
+                "regionCode": null,
+                "country": "Germany",
+                "countryFull": "Germany",
+                "state": "Baden-W\u00fcrttemberg",
+                "city": "Stuttgart"
+            }
+        },
+        "objectUrn": "492492743",
+        "registeredAt": "2016-06-13T05:48:43.631Z",
+        "topSkills": [
+            "Modeling and Simulation",
+            "PhysicsAI",
+            "Predictive simulation"
+        ],
+        "connectionsCount": 1114,
+        "followerCount": 1113,
+        "verified": true,
+        "about": "Simulation Engineer | AI Enthusiast | Digital Engineering\n\nPassionate about leveraging simulation and artificial intelligence to solve complex engineering challenges.\nMy work focuses on applying physics-based modeling, numerical methods, and AI-driven approaches to improve product development, optimize performance, and enable informed engineering decisions. I am particularly interested in bridging traditional simulation techniques with emerging AI technologies to create smarter, faster, and more scalable engineering workflows.\nWith experience across computational engineering, digital engineering and optimization I enjoy transforming complex physical phenomena into actionable insights. I believe simulation and AI are key enablers of next-generation engineering, helping organizations reduce development time, improve product performance, and accelerate innovation.\n\nMy goal is simple: make engineering faster, smarter, and more predictive through Simulation and AI.",
+        "industry": {
+            "id": 96,
+            "name": "IT Services and IT Consulting"
+        },
+        "currentPosition": [
+            {
+                "position": "Multiphysics Simulation Engineer",
+                "location": "Erlangen",
+                "employmentType": "Full-time",
+                "workplaceType": "Hybrid",
+                "companyName": "Siemens Energy",
+                "companyUniversalName": "siemens-energy",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemens-energy/",
+                "companyId": "607957",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_200_200/B4DZ82RPxaHgAM-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=l5vOtOidqZMXg_B2_WxYC5V140PIrbzSPVV1zljtVVg",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_100_100/B4DZ82RPxaHgAQ-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=wLkMTwn3NYBI-r4QaVPXuEOi5kMocolYQpD2xS6I8Gk",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileTopEducation": [
+            {
+                "schoolName": "University of Stuttgart",
+                "description": "COMMAS program (Erasmus - Double Master's) at Uni-Stuttgart mainly focused on implementing Algorithms, Shell Analysis, Composites modeling & simulations, and Multiphase flow in Porous media. \n\nMaster Thesis at Altair GmbH: Accelerating the battery simulation process for crash and impact tests using Physics AI",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15141415/",
+                "schoolId": "15141415",
+                "degree": "Computational Mechanics of Materials and Structures (COMMAS)",
+                "fieldOfStudy": null,
+                "period": "Oct 2022 - Sep 2023",
+                "startDate": {
+                    "text": "Oct 2022",
+                    "month": "Oct",
+                    "year": 2022
+                },
+                "endDate": {
+                    "text": "Sep 2023",
+                    "month": "Sep",
+                    "year": 2023
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1793232000&v=beta&t=X_saaFzbv0EiMv63JgAXXOQF3bF9In2VbFQ57vu_vAM",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_100_100/company-logo_100_100/0/1631353449082?e=1793232000&v=beta&t=r_XtkXh2i_Z0bn2AlqlAFHEv3QxNuglTZE6XQ4EDG8g",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileActions": [],
+        "profilePicture": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_400_400/B4DZyfHOXHHcAg-/0/1772195997783?e=1793232000&v=beta&t=5B8sgOXTcnXuXOlk5O5WbX37kJhwbaSgXqmXOTnB33g",
+                    "width": 400,
+                    "height": 400
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_200_200/B4DZyfHOXHHcAY-/0/1772195997783?e=1793232000&v=beta&t=ywvSYlt9CKt0z3OG0yzKCxzSuRWaNZUAWtXfqlR_hT4",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_100_100/B4DZyfHOXHHcAc-/0/1772195997783?e=1793232000&v=beta&t=e6ykYWpPtTCfJ9beBOqQ5mGi-xFk7EUdsIhBWED9944",
+                    "width": 100,
+                    "height": 100
+                }
+            ]
+        },
+        "coverPicture": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1635367494102?e=1793232000&v=beta&t=sFW59IhDy6kHVoh3-HMeeu1Jwjf9PTQYwpPzhqSiM9E",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1635367494102?e=1793232000&v=beta&t=sFW59IhDy6kHVoh3-HMeeu1Jwjf9PTQYwpPzhqSiM9E",
+                    "width": 462,
+                    "height": 115
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635367494102?e=1793232000&v=beta&t=6RqrIgfFaAjhjyvOXrVDXi9vL5wBaeUABZMHZjTBCc0",
+                    "width": 462,
+                    "height": 115
+                }
+            ]
+        },
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+        "profileLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "primaryLocale": {
+            "country": "US",
+            "language": "en"
+        },
+        "multiLocaleHeadline": [
+            {
+                "headline": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                "locale": "en_US"
+            }
+        ],
+        "services": null,
+        "experience": [
+            {
+                "position": "Multiphysics Simulation Engineer",
+                "location": "Erlangen",
+                "employmentType": "Full-time",
+                "workplaceType": "Hybrid",
+                "companyName": "Siemens Energy",
+                "companyUniversalName": "siemens-energy",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemens-energy/",
+                "companyId": "607957",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_200_200/B4DZ82RPxaHgAM-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=l5vOtOidqZMXg_B2_WxYC5V140PIrbzSPVV1zljtVVg",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_100_100/B4DZ82RPxaHgAQ-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=wLkMTwn3NYBI-r4QaVPXuEOi5kMocolYQpD2xS6I8Gk",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "PreSales Solution Consultant",
+                "location": "Stuttgart",
+                "employmentType": "Full-time",
+                "workplaceType": "On-site",
+                "companyName": "Siemens Digital Industries Software",
+                "companyUniversalName": "siemenssoftware",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemenssoftware/",
+                "companyId": "28423178",
+                "duration": "11 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Sep",
+                    "year": 2025,
+                    "text": "Sep 2025"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_400_400/company-logo_400_400/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=vIzbuuxKbtsXrYCOC9CHIi1EHx7S7kVgl-7hTujs_NM",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_400_400/company-logo_400_400/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=vIzbuuxKbtsXrYCOC9CHIi1EHx7S7kVgl-7hTujs_NM",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_200_200/company-logo_200_200/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=hi7GrUMsPkKIaj50ktDHK1pEvykjz46qCGrAh1IdC9k",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_100_100/company-logo_100_100/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=2xIymoXk-1Iw2vkt11zisj0PVRfyWnDZD1-VsXgCSM0",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Application Engineer",
+                "location": "Stuttgart",
+                "employmentType": "Full-time",
+                "workplaceType": "On-site",
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "2 yrs 10 mos",
+                "description": "Predictive Simulations with PhysicsAI: Accelerate Design Decisions with AI\n\nDevelopment of an End-to-End Simulation Workflow for the Casting Industry:\nThis project focuses on the creation of an integrated and efficient simulation-driven workflow tailored for the casting industry (manufacturing solutions). PhysicsAI is utilized to enhance the predictive performance of the casting simulation process.\n\nTopology Optimisation in Optistruct:\nThe objective is to enhance structural performance while minimizing material usage, ultimately contributing to lightweight design and improved fuel efficiency without compromising safety or functionality.",
+                "skills": null,
+                "experienceGroupId": "66e4093c4cae5b6f231c218bfae1f7738b7bbda5",
+                "startDate": {
+                    "month": "Oct",
+                    "year": 2023,
+                    "text": "Oct 2023"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation & Design Intern",
+                "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Internship",
+                "workplaceType": "On-site",
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "6 mos",
+                "description": "Master Thesis: To accelerate the battery simulation process for crash and impact test using ML.\n\n- The objective of this thesis was to predict internal short circuits in batteries under crash conditions. \n- A thermo-mechanical single-cell model was developed in Radioss for a single-point indentation test. This model was then utilized to generate datasets based on various design variables, with the entire process being fully automated using HyperStudy. \n- PhysicsAI, an Altair tool leveraging Graph Neural Networks (GNN) for predictive modeling, was employed to train a machine learning model to predict strain distributions within the battery model. The predicted strain values were subsequently validated against real-time experimental test results. \n- By using the thermo-mechanical framework, strain and temperature profiles were mapped, effectively illustrating the occurrence of internal short circuits within the battery system.",
+                "skills": null,
+                "experienceGroupId": "66e4093c4cae5b6f231c218bfae1f7738b7bbda5",
+                "startDate": {
+                    "month": "Apr",
+                    "year": 2023,
+                    "text": "Apr 2023"
+                },
+                "endDate": {
+                    "month": "Sep",
+                    "year": 2023,
+                    "text": "Sep 2023"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Wissenschaftliche Hilfskraft",
+                "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Part-time",
+                "workplaceType": "On-site",
+                "companyName": "University of Stuttgart \u2013 Institute of Aircraft Design (IFB)",
+                "companyUniversalName": "universitaet-stuttgart-ifb",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/universitaet-stuttgart-ifb/",
+                "companyId": "92924766",
+                "duration": "4 mos",
+                "description": "Development of an Aircraft Design and Optimization Software\n- Project: UNICADO (UNIversity Conceptual Aircraft Design and Optimization)",
+                "skills": null,
+                "startDate": {
+                    "month": "Dec",
+                    "year": 2022,
+                    "text": "Dec 2022"
+                },
+                "endDate": {
+                    "month": "Mar",
+                    "year": 2023,
+                    "text": "Mar 2023"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_400_400/company-logo_400_400/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=oL9HThSdgrRGWNcQ8Vc7IYLqg_YNyhrWDXGLLlOQLaI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_400_400/company-logo_400_400/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=oL9HThSdgrRGWNcQ8Vc7IYLqg_YNyhrWDXGLLlOQLaI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_200_200/company-logo_200_200/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=y4hoyhvt6QYCsGt_w8RCLbXhrqzh3NmJfBDuh71mL1E",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_100_100/company-logo_100_100/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=knNPrQLUuC6JgpQGb7zS8w8Nb_ME48j_HZxxyJEmsyI",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation & Development Intern",
+                "location": "Barcelona",
+                "employmentType": "Internship",
+                "workplaceType": null,
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "3 mos",
+                "description": "- Implemented a wear deformation model based on particle impact using the API (python script).\n- Performed a comparative analysis of results and different parameters in the chosen model, the influence of mesh resolution, time step, and wear models.\n- Insights of technologies based on Discrete element modeling and the EDEM software for development and\nindustrial applications.",
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2022,
+                    "text": "Jul 2022"
+                },
+                "endDate": {
+                    "month": "Sep",
+                    "year": 2022,
+                    "text": "Sep 2022"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation Engineer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "KPIT",
+                "companyUniversalName": "kpit",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/kpit/",
+                "companyId": "5521",
+                "duration": "8 mos",
+                "description": "Air Handling Project:\n- Fluid Volume Extraction, Mesh refinement for topology optimization.\n- Transient flow analysis of EGR components to investigate mixing and distribution at intake.",
+                "skills": null,
+                "experienceGroupId": "c3986f74f0e4c48c3e3728592a4e0d746d0d7889",
+                "startDate": {
+                    "text": "Dec 2020",
+                    "month": "Dec",
+                    "year": 2020
+                },
+                "endDate": {
+                    "text": "Jul 2021",
+                    "month": "Jul",
+                    "year": 2021
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_200_200/company-logo_200_200/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=Z2iJVB_urhrVB6hdisQjkBeOzTCylFb_BpboVZFjbJE",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_100_100/company-logo_100_100/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=b32IzXq50_hzpMG0cgAH-zT-M2fYl9RHs63YydnTWfU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Design Engineer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "KPIT",
+                "companyUniversalName": "kpit",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/kpit/",
+                "companyId": "5521",
+                "duration": "2 yrs 2 mos",
+                "description": "-Genset system level Integration\n-Engineering Concept creation & development of Automotive components in Genset assemblies.\n-Prototyping of 3-D printed components for precise geometries.\n-Tolerance Stack-up analysis.\n-Managing the Engineering life-cycle of the product.",
+                "skills": null,
+                "experienceGroupId": "c3986f74f0e4c48c3e3728592a4e0d746d0d7889",
+                "startDate": {
+                    "text": "Nov 2018",
+                    "month": "Nov",
+                    "year": 2018
+                },
+                "endDate": {
+                    "text": "Dec 2020",
+                    "month": "Dec",
+                    "year": 2020
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_200_200/company-logo_200_200/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=Z2iJVB_urhrVB6hdisQjkBeOzTCylFb_BpboVZFjbJE",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_100_100/company-logo_100_100/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=b32IzXq50_hzpMG0cgAH-zT-M2fYl9RHs63YydnTWfU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Internship",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": null,
+                "workplaceType": null,
+                "companyName": "SKF Group",
+                "companyUniversalName": "skf",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/skf/",
+                "companyId": "4592",
+                "duration": "3 mos",
+                "description": "- Study of Reusable Industrial Oils with new double separation technology(DST).\n- Optimization of the DGBB assembly for enhanced productivity and maintenance cycles.\n- Validation of tolerance standards at Waviness tester and analyzer labs.",
+                "skills": null,
+                "startDate": {
+                    "text": "Feb 2018",
+                    "month": "Feb",
+                    "year": 2018
+                },
+                "endDate": {
+                    "text": "Apr 2018",
+                    "month": "Apr",
+                    "year": 2018
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_400_400/B4DZVl6MI3GcAk-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=8uUI5weQUivko7onq9HJyb3CYGd1t-BsqGU7dUkLmFM",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_400_400/B4DZVl6MI3GcAk-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=8uUI5weQUivko7onq9HJyb3CYGd1t-BsqGU7dUkLmFM",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_200_200/B4DZVl6MI3GcAU-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=NGN_c2Ub7sa4ChAhG7wwnTwrTYOfhngYBQEZhBVyVgI",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_100_100/B4DZVl6MI3GcAc-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=eK9EqIupsnKneWDPrtMNPHlc7hlV1K0_TCyECFEmOs8",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Product Developer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": null,
+                "workplaceType": null,
+                "companyName": "ROHIT AGROTECH INDIA PRIVATE LIMITED",
+                "companyUniversalName": "rohit-agrotech-india-private-limited",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/rohit-agrotech-india-private-limited/",
+                "companyId": "27931967",
+                "duration": "9 mos",
+                "description": "Tech Product Development of a Multidisciplinary Agri-Equipment on & off track.",
+                "skills": null,
+                "startDate": {
+                    "text": "Jul 2017",
+                    "month": "Jul",
+                    "year": 2017
+                },
+                "endDate": {
+                    "text": "Mar 2018",
+                    "month": "Mar",
+                    "year": 2018
+                },
+                "companyLogo": null
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "University of Stuttgart",
+                "description": "COMMAS program (Erasmus - Double Master's) at Uni-Stuttgart mainly focused on implementing Algorithms, Shell Analysis, Composites modeling & simulations, and Multiphase flow in Porous media. \n\nMaster Thesis at Altair GmbH: Accelerating the battery simulation process for crash and impact tests using Physics AI",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15141415/",
+                "schoolId": "15141415",
+                "degree": "Computational Mechanics of Materials and Structures (COMMAS)",
+                "fieldOfStudy": null,
+                "period": "Oct 2022 - Sep 2023",
+                "startDate": {
+                    "text": "Oct 2022",
+                    "month": "Oct",
+                    "year": 2022
+                },
+                "endDate": {
+                    "text": "Sep 2023",
+                    "month": "Sep",
+                    "year": 2023
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1793232000&v=beta&t=X_saaFzbv0EiMv63JgAXXOQF3bF9In2VbFQ57vu_vAM",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_100_100/company-logo_100_100/0/1631353449082?e=1793232000&v=beta&t=r_XtkXh2i_Z0bn2AlqlAFHEv3QxNuglTZE6XQ4EDG8g",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Universitat Polit\u00e8cnica de Catalunya",
+                "description": "At UPC Barcelona, I pursued my first Master's degree in Computational Mechanics. I've been learning numerical methods in PDEs, FEM & FEF, and Advanced Fluid Mechanics with the foundation of Continuum Mechanics and its wide applications.\n\nTools and Technologies -\nMATLAB\nABAQUS\nGiD (Pre & Post Processor)\n\nFinite Element Method & Finite elements in fluids\nAdvanced Fluid Mechanics\nContinuum Mechanics & Computational Solid Mechanics\nComputational Mechanics Tools (GiD, Matlab, Abaqus)\nNumerical Methods Partial Differential Equation\nComputational Structural Mechanics and Dynamics",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/166622/",
+                "schoolId": "166622",
+                "degree": "Master's degree",
+                "fieldOfStudy": "Computational Mechanics",
+                "period": "Sep 2021 - Jun 2022",
+                "startDate": {
+                    "text": "Sep 2021",
+                    "month": "Sep",
+                    "year": 2021
+                },
+                "endDate": {
+                    "text": "Jun 2022",
+                    "month": "Jun",
+                    "year": 2022
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_400_400/B4EZ1njDtTGoAg-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=7NVQHmmqzdGLLz15h4y3p5WUlyPYRKTxpCT26ZMIhs4",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_400_400/B4EZ1njDtTGoAg-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=7NVQHmmqzdGLLz15h4y3p5WUlyPYRKTxpCT26ZMIhs4",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_200_200/B4EZ1njDtTGoAQ-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=3atc6emisVg7od4iuqg1CfTvZBl2LVmeK57Qk9anel8",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_100_100/B4EZ1njDtTGoAY-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=HXvLABTFA3uaaOg-tnMjQvLYNrpsaO-dKNhDK-s9b4I",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Pimpri Chinchwad Education Trust'S. Pimpri Chinchwad College Of Engineering",
+                "description": "Computational Fluid Dynamics\nNumerical Methods\nDesign & Dynamics of Machines\nStrength of Materials\nEngineering Mechanics",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15142196/",
+                "schoolId": "15142196",
+                "degree": "Bachelor's degree",
+                "fieldOfStudy": "Mechanical Engineering",
+                "period": "2014 - 2018",
+                "startDate": {
+                    "text": "2014",
+                    "year": 2014
+                },
+                "endDate": {
+                    "text": "2018",
+                    "year": 2018
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_400_400/company-logo_400_400/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=nJ997FoXbsjMcq-TdfC_NsDY46jO1V5IEuGv4O9yYGo",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_400_400/company-logo_400_400/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=nJ997FoXbsjMcq-TdfC_NsDY46jO1V5IEuGv4O9yYGo",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_200_200/company-logo_200_200/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=xlzmfC8ISokUnsn1OyWLdqKuZUeKlUThuKc4l87Tfjw",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_100_100/company-logo_100_100/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=_B2pvI_o24jHS2SZjTbA4l6Dg6HfDUKh1ClOEpjCHmM",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Goethe Institut Indien",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/79701186/",
+                "schoolId": "79701186",
+                "degree": null,
+                "fieldOfStudy": "B1 German language",
+                "period": "May 2021 - Aug 2021",
+                "startDate": {
+                    "text": "May 2021",
+                    "month": "May",
+                    "year": 2021
+                },
+                "endDate": {
+                    "text": "Aug 2021",
+                    "month": "Aug",
+                    "year": 2021
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_200_200/company-logo_200_200/0/1630647385558?e=1793232000&v=beta&t=THGHDN-gIYresrbHVOsnc_cebYp3je799Qb06SFherY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_100_100/company-logo_100_100/0/1630647385558?e=1793232000&v=beta&t=jMkma4Q49kHFKQYft1dfzuxnCqwqoWH7vpCfkvp9LmA",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "certifications": [
+            {
+                "title": "GOETHE-ZERTIFIKAT A2",
+                "issuedBy": "Goethe Institut Indien",
+                "issuedAt": "Mar 2021",
+                "link": null,
+                "credentialId": "1525-AA2A-0000680996",
+                "issuedByLink": "https://www.linkedin.com/company/79701186/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_200_200/company-logo_200_200/0/1630647385558?e=1793232000&v=beta&t=THGHDN-gIYresrbHVOsnc_cebYp3je799Qb06SFherY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_100_100/company-logo_100_100/0/1630647385558?e=1793232000&v=beta&t=jMkma4Q49kHFKQYft1dfzuxnCqwqoWH7vpCfkvp9LmA",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hypermesh-Optistruct",
+                "issuedBy": "OKLEEM ",
+                "issuedAt": "Oct 2018",
+                "link": null,
+                "credentialId": null,
+                "issuedByLink": "https://www.linkedin.com/company/76901689/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_400_400/company-logo_400_400/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=xEkWj1wgtMbqTLqVuXTKfZbYea8AAU1oIPl8lExfHA8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_400_400/company-logo_400_400/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=xEkWj1wgtMbqTLqVuXTKfZbYea8AAU1oIPl8lExfHA8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_200_200/company-logo_200_200/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=p6WdTyOKNiVnvHkGPndhfIcxcwb2XNwbJT0TliDMHo4",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_100_100/company-logo_100_100/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=JGeQ2nTBSo2oGbZlhD1z8xEDpBqGkIlm-LntCVgaucw",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "IELTS Academic",
+                "issuedBy": "British Council",
+                "issuedAt": "May 2020 \u00b7 Expired May 2022",
+                "link": null,
+                "credentialId": "19IN379994TALM001A",
+                "issuedByLink": "https://www.linkedin.com/company/162797/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Qj2_-NJxeMAjNmIsxU3unIE-LBHpjzwwrxKRChdLxik",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Qj2_-NJxeMAjNmIsxU3unIE-LBHpjzwwrxKRChdLxik",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_200_200/company-logo_200_200/0/1630560502098/british_council_logo?e=1793232000&v=beta&t=MwZ3y1i-zT6N28vDmYuBBUNS-bDxXxs1uVpIclN3Tgw",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_100_100/company-logo_100_100/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Vop4Z93S_1NxVPPDD6TYwnq3DqHjJm0S7VTyecVJTt0",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "projects": [],
+        "volunteering": [],
+        "receivedRecommendations": [
+            {
+                "givenBy": "Srinidhi Joshi",
+                "givenAt": "June 26, 2026",
+                "givenByLink": "https://www.linkedin.com/in/srinidhi-joshi",
+                "givenByHeadline": "CAE & Digital Engineering | Enabling Simulation\u2011Driven Transformation for OEMs",
+                "givenByPicture": {
+                    "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709196355434?e=1793232000&v=beta&t=rRDQkdAgkSsj99pFbdEWwLZEnchC6_nhtZHBKFoDEpo",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709196355434?e=1793232000&v=beta&t=rRDQkdAgkSsj99pFbdEWwLZEnchC6_nhtZHBKFoDEpo",
+                            "width": 800,
+                            "height": 800
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709196355434?e=1793232000&v=beta&t=DLKv1sQWe_K0w3M3EBCZyvyw0B2h-btAt-l-T_XWHUQ",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709196355434?e=1793232000&v=beta&t=c0KecfYNkdtLTCGuXiH-p_5ZrAIIngMlpmTytCP4aek",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709196355434?e=1793232000&v=beta&t=S46jhqZZBiNoqVvQfK7D5xDKMhuAp8lTuj3StXOftMc",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                },
+                "description": "I had the pleasure of working with Mayur at Altair, now Siemens and it was always a great experience. He is genuinely passionate about using AI to solve engineering challenges and has a strong understanding of simulation-driven workflows. What sets him apart is not just his technical expertise, but also his willingness to help others and his collaborative mindset. I truly enjoyed working with Mayur and would happily recommend him to any team looking to advance AI in engineering."
+            },
+            {
+                "givenBy": "Paul Maurerlehner",
+                "givenAt": "June 24, 2026",
+                "givenByLink": "https://www.linkedin.com/in/paul-maurerlehner-341a40182",
+                "givenByHeadline": "Accelerating CAE with AI | PreSales Solutions Consultant \u2013 Simcenter Mechanical, PhysicsAI, and Surrogate Modeling",
+                "givenByPicture": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-crop_800_800/B4DZmrZD2WJEAI-/0/1759517098099?e=1793232000&v=beta&t=hB5XH5EXuTwjTFTFrph7dybhgzEd9HDwklyx3kr5Mr4",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-crop_800_800/B4DZmrZD2WJEAI-/0/1759517098099?e=1793232000&v=beta&t=hB5XH5EXuTwjTFTFrph7dybhgzEd9HDwklyx3kr5Mr4",
+                            "width": 800,
+                            "height": 800
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_400_400/B4DZmrZD2WJEAg-/0/1759517098191?e=1793232000&v=beta&t=ND2LDOWIbEpyhb1b43b8Mu76MRmPTh3vkp1CgLVsP_w",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_200_200/B4DZmrZD2WJEAY-/0/1759517098191?e=1793232000&v=beta&t=pCcsXPBzjMJ9HFgAugD8ImGhsQsCfikxZwjQIyhEwtY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_100_100/B4DZmrZD2WJEAc-/0/1759517098191?e=1793232000&v=beta&t=gu2amcVav6lyLowqzDhH13Kz0hIDpwNZAkUj2Q4FdGU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                },
+                "description": "Ich hatte die Gelegenheit, im PreSales-Umfeld f\u00fcr CAE-Software eng mit Mayur zusammenzuarbeiten. Dabei habe ich ihn als \u00e4u\u00dferst kompetenten und sehr zuverl\u00e4ssigen Kollegen kennengelernt, auf den man sich jederzeit verlassen kann.\nMayur bringt eine beeindruckende Expertise im Bereich Surrogate Modeling und PhysicsAI mit und hat mir bei zahlreichen Fragestellungen schnell und fundiert weitergeholfen. Ebenso verf\u00fcgt er \u00fcber eine sehr solide und praxisnahe Erfahrung in der Struktursimulation (FEA), was ihn in vielen Diskussionen besonders wertvoll macht.\nWas ich besonders sch\u00e4tze, ist seine F\u00e4higkeit, komplexe technische Inhalte klar und zielgerichtet zu vermitteln und gleichzeitig den Bezug zur konkreten Kundenanwendung nicht zu verlieren. Er denkt l\u00f6sungsorientiert und bringt die richtigen Punkte auf den Tisch.\nDie Zusammenarbeit mit Mayur war durchweg sehr positiv, und ich kann ihn als technischen Experten und Sparringspartner klar weiterempfehle"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Discrete Element Method (DEM)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "Programming",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "Ansys Mechanical",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "German",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Customer Support",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Presales",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Calculations",
+                "positions": [
+                    "3 experiences across Altair and 1 other company"
+                ]
+            },
+            {
+                "name": "Technical Support",
+                "positions": [
+                    "Application Engineer at Altair"
+                ]
+            },
+            {
+                "name": "Engineering",
+                "positions": [
+                    "PreSales Solution Consultant at Siemens Digital Industries Software"
+                ]
+            },
+            {
+                "name": "Predictive simulation"
+            },
+            {
+                "name": "Technical Presales"
+            },
+            {
+                "name": "Product Design",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED"
+                ]
+            },
+            {
+                "name": "Ansys Workbench",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED"
+                ]
+            },
+            {
+                "name": "Engineering Design",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Computer-Aided Design (CAD)",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Product Data Management (PDM)",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "CFX",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Hyperstudy",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "Inspire Cast",
+                "positions": [
+                    "Application Engineer at Altair"
+                ]
+            },
+            {
+                "name": "Topology optimisation",
+                "positions": [
+                    "Application Engineer at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Inspire",
+                "positions": [
+                    "Application Engineer at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "C++",
+                "positions": [
+                    "Wissenschaftliche Hilfskraft at University of Stuttgart \u2013 Institute of Aircraft Design (IFB)"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Design of Experiments (DOE)",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "PhysicsAI",
+                "positions": [
+                    "3 experiences across Siemens Digital Industries Software and 1 other company"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Radioss",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Structural Analysis",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED",
+                    "Universitat Polit\u00e8cnica de Catalunya"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "DEM",
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Python (Programming Language)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "EDEM",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Paraview",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Modeling and Simulation",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "Finite Element Analysis (FEA)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "MATLAB"
+            },
+            {
+                "name": "Computational Fluid Dynamics (CFD)",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Computer-Aided Engineering (CAE)"
+            },
+            {
+                "name": "Hypermesh",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ],
+                "endorsements": "2 endorsements"
+            },
+            {
+                "name": "Simulation Modeling"
+            },
+            {
+                "name": "Design Engineering"
+            },
+            {
+                "name": "Numerical Modeling"
+            },
+            {
+                "name": "Mechanical Engineering"
+            },
+            {
+                "name": "Fluid Mechanics"
+            },
+            {
+                "name": "PTC Creo"
+            },
+            {
+                "name": "Ansys Fluent",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "ANSYS"
+            },
+            {
+                "name": "CATIA"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Siemens NX"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "1 endorsement"
+            }
+        ],
+        "publications": [],
+        "courses": [],
+        "patents": [],
+        "honorsAndAwards": [],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "Professional working proficiency"
+            },
+            {
+                "name": "German",
+                "proficiency": "Limited working proficiency"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "Native or bilingual proficiency"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "Native or bilingual proficiency"
+            }
+        ],
+        "organizations": [],
+        "causes": [],
+        "featured": null,
+        "composeOptionType": "UPSELL",
+        "moreProfiles": [
+            {
+                "id": "ACoAACf1RXQBY-hyE09qCdlTiIQMUAJkHtop32M",
+                "firstName": "Harshwardhan",
+                "lastName": "Dhumal",
+                "position": "Doktorand @ Daimler Truck AG | Predictive Modeling, Neural Networks and Developing Multiscale Simulation Workflows",
+                "publicIdentifier": "harshwardhan-dhumal",
+                "linkedinUrl": "https://www.linkedin.com/in/harshwardhan-dhumal"
+            },
+            {
+                "id": "ACoAADwsA70BUaZSbT4b4YpY-nAQH1AZarqKYE8",
+                "firstName": "Ragul",
+                "lastName": "Devrajan",
+                "position": "M. Sc. Computational Mechanics of Materials and Structures Student in University of Stuttgart",
+                "publicIdentifier": "ragul-devrajan",
+                "linkedinUrl": "https://www.linkedin.com/in/ragul-devrajan"
+            },
+            {
+                "id": "ACoAADFsLxgBGuHTU9LmDqif_7qG3DprWH5U06Y",
+                "firstName": "Aditi",
+                "lastName": "Dhabu",
+                "position": "CAE & ML Engineer | FEA (Abaqus, ANSYS, LS-Dyna) + Machine Learning | Open to Full-Time Roles",
+                "publicIdentifier": "aditi-dhabu-9608311b1",
+                "linkedinUrl": "https://www.linkedin.com/in/aditi-dhabu-9608311b1"
+            },
+            {
+                "id": "ACoAAC2Z-QMB-q3releU_nZx15kmMKcLrhG9aU0",
+                "firstName": "Tharun",
+                "lastName": "Narendhra",
+                "position": "Werkstudent bei Bosch",
+                "publicIdentifier": "tharunnarendhra001",
+                "linkedinUrl": "https://www.linkedin.com/in/tharunnarendhra001"
+            },
+            {
+                "id": "ACoAAC5C4DIBZvmIWplvgpRZa1VtBEPUFh5Hx0A",
+                "firstName": "Shrey",
+                "lastName": "Gupta",
+                "position": "CAE & Simulation Engineer | FEA \u00b7 Multiphysics \u00b7 Multiphase | MSc Computational Mechanics, Uni Stuttgart | IAMS \u00d7 Max Planck Institute for Intelligent Systems",
+                "publicIdentifier": "shrey-gupta-cae",
+                "linkedinUrl": "https://www.linkedin.com/in/shrey-gupta-cae"
+            },
+            {
+                "id": "ACoAABzjgv4B_J_nFzuiY3a9YULfMev7eF3qEAM",
+                "firstName": "Chirag",
+                "lastName": "Deepak",
+                "position": "Computational Engineer - CAE Automation & AI",
+                "publicIdentifier": "chiragdeepak",
+                "linkedinUrl": "https://www.linkedin.com/in/chiragdeepak"
+            },
+            {
+                "id": "ACoAABzxEisBlW2GCt9zayFlKSbho7EImdHu5Xs",
+                "firstName": "Omkar",
+                "lastName": "Thorat",
+                "position": "CAE Analysis Engineer at Tesla",
+                "publicIdentifier": "omkar-thorat-2018",
+                "linkedinUrl": "https://www.linkedin.com/in/omkar-thorat-2018"
+            },
+            {
+                "id": "ACoAACHKEPYBLJ4ma877Sg7QU3GA7m_ufiBFk4w",
+                "firstName": "Sai Sumanth",
+                "lastName": "Moturu",
+                "position": "Design and Development Engineer\nMSc COMMAS",
+                "publicIdentifier": "sai-sumanth-moturu-932a25139",
+                "linkedinUrl": "https://www.linkedin.com/in/sai-sumanth-moturu-932a25139"
+            },
+            {
+                "id": "ACoAACAaVNwBTq6pKaYWfpos0Mv4OmvsKc15ppk",
+                "firstName": "Lalith Kumar",
+                "lastName": "Doreti",
+                "position": "Wissenschaftlicher Mitarbeiter @Uni. Stuttgart",
+                "publicIdentifier": "lalith-kumar-doreti",
+                "linkedinUrl": "https://www.linkedin.com/in/lalith-kumar-doreti"
+            },
+            {
+                "id": "ACoAAA0yMZkBUAwCrH9vowXAVJUhzywihxItetQ",
+                "firstName": "Medha",
+                "lastName": "Shruti",
+                "position": "PhD Researcher, TU Graz",
+                "publicIdentifier": "medha-shruti-16118962",
+                "linkedinUrl": "https://www.linkedin.com/in/medha-shruti-16118962"
+            },
+            {
+                "id": "ACoAACnmKbsBEnZGC4EOZCkNcv2uqH6_WkNTEj8",
+                "firstName": "sima",
+                "lastName": "arviv",
+                "position": "\u05de\u05e9\u05d0\u05d1\u05d9 \u05d0\u05e0\u05d5\u05e9 at Ness Technologies | \u05e0\u05e1 \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d5\u05ea",
+                "publicIdentifier": "sima-arviv-7b74bb177",
+                "linkedinUrl": "https://www.linkedin.com/in/sima-arviv-7b74bb177"
+            },
+            {
+                "id": "ACoAAE585GwB0X-rBvVBHthUt2Sn9ATAXi0rn40",
+                "firstName": "Bosmat",
+                "lastName": "Erlich",
+                "position": "Business Analyst | Junior PMO | Information Systems Graduate | IT & Systems Experience | Project Coordination",
+                "publicIdentifier": "bosmat-erlich",
+                "linkedinUrl": "https://www.linkedin.com/in/bosmat-erlich"
+            },
+            {
+                "id": "ACoAABJPjscBJCCCrvATO5hlGnSjx2YRCB78AXI",
+                "firstName": "Shmuel",
+                "lastName": "Pipe",
+                "position": "\u2b50 QA Manager \u2b50 head hunting at sendcv\ud83d\udc4d\u2714",
+                "publicIdentifier": "shmuel-pipe-b73a6b86",
+                "linkedinUrl": "https://www.linkedin.com/in/shmuel-pipe-b73a6b86"
+            },
+            {
+                "id": "ACoAAD7VGpkB0tpUM53-Wc5bHt7dQ0xK1hR6YYw",
+                "firstName": "Shiran",
+                "lastName": "Apelbaum",
+                "position": "Bookkeeper",
+                "publicIdentifier": "shiran-apelbaum-56104a255",
+                "linkedinUrl": "https://www.linkedin.com/in/shiran-apelbaum-56104a255"
+            },
+            {
+                "id": "ACoAAFNbAFcBrLi2fwzoSE3E-ZeYXnMKpE0cPC8",
+                "firstName": "\u05e9\u05e8\u05d5\u05df",
+                "lastName": "\u05d1\u05d9\u05ea \u05d4\u05dc\u05d5\u05d9",
+                "position": "Payroll Specialist \u05d1- Amdocs",
+                "publicIdentifier": "%D7%A9%D7%A8%D7%95%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%9C%D7%95%D7%99-473419330",
+                "linkedinUrl": "https://www.linkedin.com/in/%D7%A9%D7%A8%D7%95%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%9C%D7%95%D7%99-473419330"
+            },
+            {
+                "id": "ACoAAFTAFrIB7M0f_YI7oXTxN4QjxgM2ZhOEwXc",
+                "firstName": "DINA",
+                "lastName": "BOOKMAN",
+                "position": "Computer Science Engineer",
+                "publicIdentifier": "dinabookman",
+                "linkedinUrl": "https://www.linkedin.com/in/dinabookman"
+            },
+            {
+                "id": "ACoAADPlGv8BCEsyV4Z1mDsjGjArnpUO3o1NL_A",
+                "firstName": "Ziv",
+                "lastName": "Simchoni",
+                "position": "Technical PM | Databases | Cloud | Bridging the gap between code and users | B.Sc. Computer Science | Python & Data",
+                "publicIdentifier": "zivsimchoni",
+                "linkedinUrl": "https://www.linkedin.com/in/zivsimchoni"
+            },
+            {
+                "id": "ACoAADrd4DYBfTcIwiv84e4ryX8YOkSrXxE_7mE",
+                "firstName": "Niv",
+                "lastName": "Goren",
+                "position": "Priority ERP Implementer at EDP Group Israel",
+                "publicIdentifier": "niv-goren-bb2902236",
+                "linkedinUrl": "https://www.linkedin.com/in/niv-goren-bb2902236"
+            },
+            {
+                "id": "ACoAAD_jBMABQS7RZviJjcQUVR1KJQJQSfUlTBM",
+                "firstName": "Elias",
+                "lastName": "Miguel Guillen Lara",
+                "position": "IT SUPPORT | SOFTWARE DEVELOPMENT",
+                "publicIdentifier": "elias-guillen-",
+                "linkedinUrl": "https://www.linkedin.com/in/elias-guillen-"
+            },
+            {
+                "id": "ACoAAEp4xS0BW-aJ4y3x3VGIsW8FkbdahvknPeg",
+                "firstName": "Avital",
+                "lastName": "Shapira",
+                "position": "Payroll system implementation specialist at Hilan",
+                "publicIdentifier": "avital-shapira-0915212aa",
+                "linkedinUrl": "https://www.linkedin.com/in/avital-shapira-0915212aa"
+            }
+        ],
+        "sectionTotals": {
+            "experience": 10,
+            "education": 4,
+            "certifications": 3,
+            "receivedRecommendations": 2,
+            "skills": 58,
+            "courses": 0,
+            "languages": 4,
+            "projects": 0,
+            "volunteering": 0,
+            "publications": 0,
+            "patents": 0,
+            "organizations": 0,
+            "honorsAndAwards": 0,
+            "causes": 0
+        },
+        "interests": [
+            {
+                "interestName": "Top Voices",
+                "elements": [
+                    {
+                        "title": "Marina Gorbis",
+                        "subtitle": "Executive Director, Institute for the Future",
+                        "link": "https://www.linkedin.com/in/marinagorbis",
+                        "caption": "249,651 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E03AQFluorqai6Mbg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516155924590?e=1793232000&v=beta&t=ZWatoN_fetGfYLfRnjZK0XNI78SJGf3J2WOAPYz0E_Y"
+                        }
+                    },
+                    {
+                        "title": "Mary Barra",
+                        "subtitle": "Chair and Chief Executive Officer at General Motors",
+                        "link": "https://www.linkedin.com/in/mary-barra",
+                        "caption": "1,509,571 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQFNy7nvRz3AAA/profile-displayphoto-shrink_800_800/B56ZSTmJCnGsAc-/0/1737643037521?e=1793232000&v=beta&t=LaAFH90UQgMJRodv2svlgFb01iulYSOmCePcnMM-nOI"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Companies",
+                "elements": [
+                    {
+                        "title": "GE",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1015/",
+                        "caption": "5,193,407 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHNSdSY_UJ_rg/company-logo_400_400/company-logo_400_400/0/1688184041602/ge_logo?e=1793232000&v=beta&t=YEhIe1oaK2ULgGNgiyBdGvA0ztikohHO7wJ_kvfCuWY"
+                        }
+                    },
+                    {
+                        "title": "Siemens",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1043/",
+                        "caption": "9,480,616 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_400_400/company-logo_400_400/0/1719931174735/siemens_logo?e=1793232000&v=beta&t=AO9tNF8Osq_mnS6RSJngKTvZvIsjvOzq_OcJWK2egg8"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Groups",
+                "elements": [
+                    {
+                        "title": "Computational Fluid Dynamics",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/134907",
+                        "caption": "28,505 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C5107AQGuvk0VU6QNww/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631401054755?e=1792400400&v=beta&t=KTvSot6uNUtFuL5dgxyZi_KO0b9ZoYS4NA8nkCuUiZc"
+                        }
+                    },
+                    {
+                        "title": "Aerospace Engineering Innovation",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/8573821",
+                        "caption": "135,679 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D07AQGcoynVghuKKQ/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631002181122?e=1792400400&v=beta&t=5d_pns23j7WV774L-TXKKfNezrMIYRfb9CZ8222uXLs"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Newsletters",
+                "elements": [
+                    {
+                        "title": "Forward First",
+                        "subtitle": "Monthly updates from Altair you don\u2019t want to miss",
+                        "link": "https://www.linkedin.com/newsletters/6957755260459208704",
+                        "caption": "Published monthly",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5612AQEOHJJoIMCMig/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1658931271607?e=1793232000&v=beta&t=imHi3CHER-JVfAX8PUkzsCLTFkvZ3IaW7wVA4FV-u1w"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Schools",
+                "elements": [
+                    {
+                        "title": "University of Stuttgart",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/15141415/",
+                        "caption": "141,548 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8"
+                        }
+                    },
+                    {
+                        "title": "Goethe Institut Indien",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/79701186/",
+                        "caption": "17,790 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y"
+                        }
+                    }
+                ]
+            }
+        ],
+        "originalQuery": {
+            "query": "https://de.linkedin.com/in/mayur-talele"
+        },
+        "posts": [
+            {
+                "type": "comment",
+                "id": "7427991107835236353",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7427991107835236353%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287427991107835236353%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-02-13T08:24:45.510Z",
+                "createdAtTimestamp": 1770971085510,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAACR_qSMBji6FQ5KeWKw4vVXTbLHT2cyn4Pk",
+                    "type": "profile",
+                    "name": "Sakshi Bhutada",
+                    "linkedinUrl": "https://www.linkedin.com/in/sakshi-bhutada-b970a6151",
+                    "position": "Data Engineer at Bank of America Hive | Sqoop | SQL | Hadoop | Spark",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFNn7BPJz4t-w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718177335845?e=1793232000&v=beta&t=Rc0tUV-ivppk4nA7GRJwqo80OUXxoU5cM7Zaq8AqtWY",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQFNn7BPJz4t-w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718177335845?e=1793232000&v=beta&t=Rc0tUV-ivppk4nA7GRJwqo80OUXxoU5cM7Zaq8AqtWY",
+                        "width": 709,
+                        "height": 709
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7429703546385666049",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7429703546385666049%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287429703546385666049%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-02-18T01:49:22.676Z",
+                "createdAtTimestamp": 1771379362676,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAA0eqvIBIqXUaW4x-UQs7DwD4J9xC7lei2M",
+                    "type": "profile",
+                    "name": "Sushant Patil",
+                    "linkedinUrl": "https://www.linkedin.com/in/sushant-patil-70287061",
+                    "position": "Controls and Systems | Model-Based Development | MATLAB/Simulink | dSPACE | ETAS INCA | Vehicle Electrification | Technical Program and Cross functional team Coordination",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEJFYDGrnrP6g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712758963734?e=1793232000&v=beta&t=8Jr5gylDQb-RHcg1Aa1gIF5qXdNkP-CTSO510cTF3PE",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQEJFYDGrnrP6g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712758963734?e=1793232000&v=beta&t=8Jr5gylDQb-RHcg1Aa1gIF5qXdNkP-CTSO510cTF3PE",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7421860789222830080",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7421860789222830080%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287421860789222830080%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-27T10:25:03.657Z",
+                "createdAtTimestamp": 1769509503657,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAAh5OfUBO0WnOxyCctRjF0n33NK7mNzlb1w",
+                    "type": "profile",
+                    "name": "Rahul Yadkikar",
+                    "linkedinUrl": "https://www.linkedin.com/in/rahulyadkikar",
+                    "position": "Sr.Technical Lead |Transmission Systems| FCEV | CAE | R&D | Prototyping | Manufacturing",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHdovTWtMYi9w/profile-displayphoto-crop_800_800/B4DZvV02awG8AI-/0/1768818961910?e=1793232000&v=beta&t=M2Hw6pE1Eete-AyBWlWEustzy9QKIxlolUhmdpyYHKI",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQHdovTWtMYi9w/profile-displayphoto-crop_800_800/B4DZvV02awG8AI-/0/1768818961910?e=1793232000&v=beta&t=M2Hw6pE1Eete-AyBWlWEustzy9QKIxlolUhmdpyYHKI",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7421295497866338304",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7421295497866338304%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287421295497866338304%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "\ud83d\udc4f Well deserved, Mayur",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-25T20:58:47.695Z",
+                "createdAtTimestamp": 1769374727695,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAACOLqUoBwSnm7_jMyBo-yVjv9UhnJ4w3CSk",
+                    "type": "profile",
+                    "name": "Om Laddha",
+                    "linkedinUrl": "https://www.linkedin.com/in/om-laddha-0b6875147",
+                    "position": "Managing Partner at Om Atharva Industries",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHYJqRBKNlYuA/profile-displayphoto-crop_800_800/B4EZi8iKhLGwAM-/0/1755509730714?e=1793232000&v=beta&t=o0i3BUNS5amK8PB33YNa2gQ1CF_QtuZxys7Ne1dZjFs",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4E03AQHYJqRBKNlYuA/profile-displayphoto-crop_800_800/B4EZi8iKhLGwAM-/0/1755509730714?e=1793232000&v=beta&t=o0i3BUNS5amK8PB33YNa2gQ1CF_QtuZxys7Ne1dZjFs",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420501001629179905",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420501001629179905%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420501001629179905%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "\ud83d\udc4f Well deserved, Mayur. Congratulations \ud83e\udd73",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-23T16:21:45.031Z",
+                "createdAtTimestamp": 1769185305031,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAB9TWU0BcgE4tJCxc2fPKnQiO_qLUHUl0w8",
+                    "type": "profile",
+                    "name": "Onkar Patil",
+                    "linkedinUrl": "https://www.linkedin.com/in/onkarpatil-mech",
+                    "position": "LSSGB | Mechanical Design Engineer | CSWP | CSWA | EV Tooling & Fixture Expert | CATIA V5 | GD&T | Prototype Builds | BIW & Trim Design",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHN5K58svAJjg/profile-displayphoto-crop_800_800/B56Zx.ntWsG4AI-/0/1771650865744?e=1793232000&v=beta&t=rwlpe9BNZ4H73da9_3HJXEN7dyr5jotMLNiZzVdQEbo",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D5603AQHN5K58svAJjg/profile-displayphoto-crop_800_800/B56Zx.ntWsG4AI-/0/1771650865744?e=1793232000&v=beta&t=rwlpe9BNZ4H73da9_3HJXEN7dyr5jotMLNiZzVdQEbo",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420384298123476992",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420384298123476992%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420384298123476992%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-23T08:38:00.746Z",
+                "createdAtTimestamp": 1769157480746,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAACDw2XUBrouKRta1lVSTvas5rPk7lfmmREg",
+                    "type": "profile",
+                    "name": "Sanket Patil",
+                    "linkedinUrl": "https://www.linkedin.com/in/sanket-patil-7590bb135",
+                    "position": "Associate - DWS Group - DWS COO",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFlVHRGjQkYsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664009154595?e=1793232000&v=beta&t=8zBb5t3-haqTE4SN03MXwrCWZ6jzxZqKPI71d-VfX34",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQFlVHRGjQkYsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664009154595?e=1793232000&v=beta&t=8zBb5t3-haqTE4SN03MXwrCWZ6jzxZqKPI71d-VfX34",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420299233477656576",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420299233477656576%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420299233477656576%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-23T02:59:59.754Z",
+                "createdAtTimestamp": 1769137199754,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAACKdt0QB9v7lRXfWNp1y8_z4XeBikkN8IUI",
+                    "type": "profile",
+                    "name": "Dr. Sagar Wankhede",
+                    "linkedinUrl": "https://www.linkedin.com/in/dr-sagar-wankhede-9445b4142",
+                    "position": "Assistant Professor at Pimpri chinchwad college of engineering",
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420260381249630209",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420260381249630209%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420260381249630209%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations Mayur \ud83e\udd73",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-23T00:25:36.662Z",
+                "createdAtTimestamp": 1769127936662,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAADDNsdkBqaBn1OYemS4boZEU1pYfoUp2k-A",
+                    "type": "profile",
+                    "name": "Tanvi Mahajan",
+                    "linkedinUrl": "https://www.linkedin.com/in/tanvinm",
+                    "position": "Masters in Computer Science @California State University, Chico",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGiU9wDJ96XPg/profile-displayphoto-shrink_800_800/B56ZUM5QmkGQAc-/0/1739678128096?e=1793232000&v=beta&t=bAkayrCHxZ-_bvQ56__yK-MfTEc1BrmpYdwtKL4X34A",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D5603AQGiU9wDJ96XPg/profile-displayphoto-shrink_800_800/B56ZUM5QmkGQAc-/0/1739678128096?e=1793232000&v=beta&t=bAkayrCHxZ-_bvQ56__yK-MfTEc1BrmpYdwtKL4X34A",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420094259724255233",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420094259724255233%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420094259724255233%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-22T13:25:30.204Z",
+                "createdAtTimestamp": 1769088330204,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAC0fkv8B-XbanGDlAXdlZRXO-cVSgj9FBx8",
+                    "type": "profile",
+                    "name": "Siddhi Mahajan",
+                    "linkedinUrl": "https://www.linkedin.com/in/siddhi-mahajan",
+                    "position": "Product Design Engineer | Automotive Seat Development at MBRDI | Open for Opportunities",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGjPz1BepCSLw/profile-displayphoto-crop_800_800/B56Z01oTn7IMAI-/0/1774721253595?e=1793232000&v=beta&t=M6sR7egI-dZspOKNcVaISQz31JSg54EDzZH6nPzfYTU",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D5603AQGjPz1BepCSLw/profile-displayphoto-crop_800_800/B56Z01oTn7IMAI-/0/1774721253595?e=1793232000&v=beta&t=M6sR7egI-dZspOKNcVaISQz31JSg54EDzZH6nPzfYTU",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7420020923010961408",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7419809868938821633%2C7420020923010961408%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287420020923010961408%2Curn%3Ali%3AugcPost%3A7419809868938821633%29",
+                "commentary": "Congratulations! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2026-01-22T08:34:05.369Z",
+                "createdAtTimestamp": 1769070845369,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAB-5-6oBeABGmmi_QAWqThyMycccp_Zbrhk",
+                    "type": "profile",
+                    "name": "Pranita Adling",
+                    "linkedinUrl": "https://www.linkedin.com/in/pranita-adling-88a31512a",
+                    "position": "Engineer at Eaton India Innovation Center, Pune, India.",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQE5r8wvAKHWog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628574334132?e=1793232000&v=beta&t=D3mqFPjMi1SaokOov14Xd59VA3BelrTaT_XNpneoKE8",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/C5603AQE5r8wvAKHWog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628574334132?e=1793232000&v=beta&t=D3mqFPjMi1SaokOov14Xd59VA3BelrTaT_XNpneoKE8",
+                        "width": 592,
+                        "height": 592
+                    },
+                    "author": false
+                },
+                "postId": "7419809869828030466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7419809869828030466",
+                "linkedinUrl": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA",
+                "content": "Following Siemens' acquisition of Altair, I\u2019m happy to share that I\u2019m starting a new position as PreSales Solution Consultant at Siemens Digital Industries Software!",
+                "contentAttributes": [
+                    {
+                        "start": 34,
+                        "length": 6,
+                        "type": "COMPANY_NAME",
+                        "hyperlink": "https://www.linkedin.com/company/8323/",
+                        "textLink": null,
+                        "company": {
+                            "id": "8323",
+                            "name": "Altair",
+                            "linkedinUrl": "https://www.linkedin.com/company/8323/"
+                        }
+                    },
+                    {
+                        "start": 129,
+                        "length": 35,
+                        "type": "COMPANY_NAME",
+                        "hyperlink": "https://www.linkedin.com/company/28423178/",
+                        "textLink": null,
+                        "company": {
+                            "id": "28423178",
+                            "name": "Siemens Digital Industries Software",
+                            "linkedinUrl": "https://www.linkedin.com/company/28423178/"
+                        }
+                    }
+                ],
+                "author": {
+                    "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "universalName": null,
+                    "publicIdentifier": "mayur-talele",
+                    "type": "profile",
+                    "name": "Mayur Talele",
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "info": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "urn": "492492743",
+                    "profileId": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "postedAt": {
+                    "timestamp": 1769020526368,
+                    "date": "2026-01-21T18:35:26.368Z",
+                    "postedAgoShort": "8mo",
+                    "postedAgoText": "8 months ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [],
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/mayur-talele_following-siemens-acquisition-of-altair-activity-7419809869828030466-F4IA?"
+                },
+                "header": {
+                    "text": null
+                },
+                "entityId": "7419809869828030466",
+                "shareUrn": "urn:li:ugcPost:7419809868938821633",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7419809868938821633",
+                "engagement": {
+                    "id": "7419809868938821633",
+                    "likes": 130,
+                    "comments": 13,
+                    "shares": 0,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 103
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 27
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7429703546385666049",
+                    "7427991107835236353",
+                    "7421860789222830080",
+                    "7421295497866338304",
+                    "7420501001629179905",
+                    "7420384298123476992",
+                    "7420299233477656576",
+                    "7420260381249630209",
+                    "7420094259724255233",
+                    "7420020923010961408"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7394145139205758976",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7394103592539951105?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7394103592539951105%2C7394145139205758976%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287394145139205758976%2Curn%3Ali%3AugcPost%3A7394103592539951105%29",
+                "commentary": "Thanks for sharing \ud83d\udc4f ",
+                "commentaryAttributes": [],
+                "createdAt": "2025-11-11T22:52:57.761Z",
+                "createdAtTimestamp": 1762901577761,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAAC4ssIB1tvhQnPyE2UhuodKXPB7Eq3jN-U",
+                    "type": "profile",
+                    "name": "Tim Shea",
+                    "linkedinUrl": "https://www.linkedin.com/in/tim-shea-a2a0784",
+                    "position": "President at JTS Market Intelligence Client Advisor to ExpertOps AI: happy to discuss the opportunity for real operational value",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGyDPq5oIqqOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1550522235525?e=1793232000&v=beta&t=RLq9zGefDvESbZpIl533Buk4C18HBi9NalsX_aSetEs",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/C4E03AQGyDPq5oIqqOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1550522235525?e=1793232000&v=beta&t=RLq9zGefDvESbZpIl533Buk4C18HBi9NalsX_aSetEs",
+                        "width": 500,
+                        "height": 500
+                    },
+                    "author": false
+                },
+                "postId": "7394402783992418304",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/moritz-frenzel-75a11289_siemens-converge2025-ugcPost-7394103592539951105-okE6"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7389281967726411776",
+                "linkedinUrl": "https://www.linkedin.com/posts/mayur-talele_onlyforward-altair-hypermesh-activity-7389281967726411776-3enh",
+                "content": "\u2728 Experience the All-New HyperMesh - November 6, 2025!\n\nGet ready to explore the next generation of HyperMesh - redesigned with a modern interface and powered by AI to accelerate your model-building and variant assessment.\nJoin our exclusive session to discover:\n \u2705 Innovative interaction concepts\n \u2705 Insights into optimizing your existing workflows\n \u2705 Live demonstrations of cutting-edge CAE and AI solutions\n \u2705 Access to comprehensive training resources\n\n\ud83d\uddd3 When: November 6, 2025\n \u23f0 Time: 9:00 AM - 12:00 PM CET (includes a 15-minute break)\nDon\u2019t miss this opportunity to elevate your HyperMesh expertise.\n\n \ud83d\udc49 Register now: https://lnkd.in/eATdV6Hp\n#OnlyForward #Altair #HyperMesh #CAE #AI #Engineering",
+                "contentAttributes": [
+                    {
+                        "start": 626,
+                        "length": 24,
+                        "type": "TEXT_LINK",
+                        "hyperlink": null,
+                        "textLink": "https://lnkd.in/eATdV6Hp"
+                    }
+                ],
+                "author": {
+                    "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "universalName": null,
+                    "publicIdentifier": "mayur-talele",
+                    "type": "profile",
+                    "name": "Mayur Talele",
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "info": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "urn": "492492743",
+                    "profileId": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "postedAt": {
+                    "timestamp": 1761742107326,
+                    "date": "2025-10-29T12:48:27.326Z",
+                    "postedAgoShort": "11mo",
+                    "postedAgoText": "11 months ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4E22AQEZNVepUsj-HA/feedshare-shrink_1280/B4EZowAyZpHcAs-/0/1761742105279?e=1793232000&v=beta&t=v9BL2Jz_7lckowPeTBvVHMzLmIbstW-kyhgHN6coLhU",
+                        "width": 1200,
+                        "height": 630
+                    }
+                ],
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/mayur-talele_onlyforward-altair-hypermesh-activity-7389281967726411776-3enh?"
+                },
+                "header": {
+                    "text": null
+                },
+                "entityId": "7389281967726411776",
+                "shareUrn": "urn:li:share:7389281966497513473",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7389281966497513473",
+                "engagement": {
+                    "id": "7389281967726411776",
+                    "likes": 20,
+                    "comments": 0,
+                    "shares": 2,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 20
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7394402783992418304",
+                "linkedinUrl": "https://www.linkedin.com/posts/moritz-frenzel-75a11289_siemens-converge2025-ugcPost-7394103592539951105-okE6",
+                "content": "Huge experience at #Siemens #converge2025. \nMy favorite takeaways from first keynotes given by Cedrik Neike, Tony Hemmelgarn, Robert Jones and Edwin Severijn \n\n\ud83e\udd1d Leverage industry power of Siemens with software power from Siemens Digital to drive ONE TECH. \n\n\ud83c\udfce\ufe0f My core passion of simulation and optimization on big stage. \n\n\u2705 Engineering AI one of top 3 topics for future. \n\nCouldn\u2019t start better, let\u2019s go deep in the next days!",
+                "contentAttributes": [
+                    {
+                        "start": 95,
+                        "length": 12,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAAAAK8ZsB-SRJj7ryVGIC-ebWzP1XiAI6XpQ",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAAAAK8ZsB-SRJj7ryVGIC-ebWzP1XiAI6XpQ",
+                            "firstName": "Cedrik",
+                            "lastName": "Neike",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAAAAK8ZsB-SRJj7ryVGIC-ebWzP1XiAI6XpQ",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 109,
+                        "length": 15,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAAAA-kT0BoeFnNuVfSQm0eS6DEzccpvvGTRk",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAAAA-kT0BoeFnNuVfSQm0eS6DEzccpvvGTRk",
+                            "firstName": "Tony",
+                            "lastName": "Hemmelgarn",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAAAA-kT0BoeFnNuVfSQm0eS6DEzccpvvGTRk",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 126,
+                        "length": 12,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAAABrO-UBBM7jsHAD4kmCpQqSfpYdpG9AXGc",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAAABrO-UBBM7jsHAD4kmCpQqSfpYdpG9AXGc",
+                            "firstName": "Robert",
+                            "lastName": "Jones",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAAABrO-UBBM7jsHAD4kmCpQqSfpYdpG9AXGc",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 143,
+                        "length": 14,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAAAGQpiMBUTa6a1VJUjocieJuXOrEI8ARzHg",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAAAGQpiMBUTa6a1VJUjocieJuXOrEI8ARzHg",
+                            "firstName": "Edwin",
+                            "lastName": "Severijn",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAAAGQpiMBUTa6a1VJUjocieJuXOrEI8ARzHg",
+                            "publicIdentifier": null
+                        }
+                    }
+                ],
+                "author": {
+                    "id": "ACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos",
+                    "universalName": null,
+                    "publicIdentifier": "moritz-frenzel-75a11289",
+                    "type": "profile",
+                    "name": "Moritz Frenzel",
+                    "linkedinUrl": "https://www.linkedin.com/in/moritz-frenzel-75a11289?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos",
+                    "info": "AI will not replace you. A person using AI will.",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": null,
+                    "urn": "313802422",
+                    "profileId": "ACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos"
+                },
+                "postedAt": {
+                    "timestamp": 1762963005064,
+                    "date": "2025-11-12T15:56:45.064Z",
+                    "postedAgoShort": "11mo",
+                    "postedAgoText": "11 months ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D22AQEWV-B6fwSHdw/feedshare-image-high-res/B4DZp0iBPnHwA8-/0/1762891669533?e=1793232000&v=beta&t=Wot3CXmdh_R6NCgAwuxEcbPjHB4iI05pk69yciXmakI",
+                        "width": 2048,
+                        "height": 1536
+                    },
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D22AQET4bQHFxZeYw/feedshare-image-high-res/B4DZp0iBOsJEAs-/0/1762891671010?e=1793232000&v=beta&t=KwiLZm3AJ2Y7w0Jw7_vBscVm8Ob0ZKW5ZN-1zAdMqsI",
+                        "width": 2048,
+                        "height": 1536
+                    },
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D22AQHuroHpWZdvmw/feedshare-image-high-res/B4DZp0iBPjHsAo-/0/1762891670639?e=1793232000&v=beta&t=NmkGbJ2qgu7Jv7KIO-Uem0GSAM6AG_Z-LmHT5Rrhzdg",
+                        "width": 2048,
+                        "height": 1536
+                    },
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D22AQEpE1lIdOgpJg/feedshare-image-high-res/B4DZp0iBPjJUAs-/0/1762891670082?e=1793232000&v=beta&t=vEUM9qyuBmGLctkYQMDXd58kYjmU03nryIemH9khvPw",
+                        "width": 2048,
+                        "height": 1536
+                    }
+                ],
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1762963005064,
+                    "date": "2025-11-12T15:56:45.064Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/moritz-frenzel-75a11289_siemens-converge2025-ugcPost-7394103592539951105-okE6?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7394402783992418304?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7394402783992418304%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=uOcduPMue%2FoMTvZf09LmPA%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7394402783992418304",
+                "shareUrn": "urn:li:ugcPost:7394103592539951105",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7394103592539951105",
+                "engagement": {
+                    "id": "7394103592539951105",
+                    "likes": 71,
+                    "comments": 1,
+                    "shares": 1,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 67
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 2
+                        },
+                        {
+                            "type": "EMPATHY",
+                            "count": 2
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7394145139205758976"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7384855154036142080",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7384215886741618688?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7384215886741618688%2C7384855154036142080%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287384855154036142080%2Curn%3Ali%3Aactivity%3A7384215886741618688%29",
+                "commentary": "An impressive achievement that highlights the power of collaboration between industry and research. Reducing weight while maintaining safety and performance is a key step toward making electric mobility more sustainable and efficient. Great to see BENTELER driving innovation in such an important field.",
+                "commentaryAttributes": [],
+                "createdAt": "2025-10-17T07:37:52.697Z",
+                "createdAtTimestamp": 1760686672697,
+                "engagement": {
+                    "likes": 1,
+                    "comments": 1,
+                    "shares": 0,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 1
+                        }
+                    ]
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAAAGhx2UBOY53Qojo89PYSxKj7zMmYNUGWEg",
+                    "type": "profile",
+                    "name": "Martin Zander",
+                    "linkedinUrl": "https://www.linkedin.com/in/martinzander",
+                    "position": "Manager Operational Quality | Driving Excellence at Benteler Automotive",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGyGLy03hdhlQ/profile-displayphoto-crop_800_800/B4DZwFCjV7KIAQ-/0/1769611085879?e=1793232000&v=beta&t=ilMyWIyMWLCeGyI_4ORiQvGTdo4Bnns0CV8NtE-HcHk",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQGyGLy03hdhlQ/profile-displayphoto-crop_800_800/B4DZwFCjV7KIAQ-/0/1769611085879?e=1793232000&v=beta&t=ilMyWIyMWLCeGyI_4ORiQvGTdo4Bnns0CV8NtE-HcHk",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "replies": [
+                    {
+                        "id": "7385939228221665280",
+                        "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7384215886741618688?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7384215886741618688%2C7384855154036142080%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7384215886741618688%2C7385939228221665280%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287384855154036142080%2Curn%3Ali%3Aactivity%3A7384215886741618688%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287385939228221665280%2Curn%3Ali%3Aactivity%3A7384215886741618688%29",
+                        "commentary": "Martin Zander Thanks for the encouragement! Together, we\u2019re shaping the future of sustainable transportation. \ud83d\udc99 ",
+                        "commentaryAttributes": [
+                            {
+                                "start": 0,
+                                "length": 13,
+                                "type": "PROFILE_MENTION",
+                                "hyperlink": "https://www.linkedin.com/in/ACoAAAGhx2UBOY53Qojo89PYSxKj7zMmYNUGWEg",
+                                "textLink": null,
+                                "profile": {
+                                    "id": "ACoAAAGhx2UBOY53Qojo89PYSxKj7zMmYNUGWEg",
+                                    "firstName": "Martin",
+                                    "lastName": "Zander",
+                                    "linkedinUrl": "https://www.linkedin.com/in/martinzander",
+                                    "publicIdentifier": "martinzander"
+                                }
+                            }
+                        ],
+                        "createdAt": "2025-10-20T07:25:36.124Z",
+                        "createdAtTimestamp": 1760945136124,
+                        "engagement": {
+                            "likes": 1,
+                            "comments": 0,
+                            "shares": 0,
+                            "reactions": [
+                                {
+                                    "type": "LIKE",
+                                    "count": 1
+                                }
+                            ]
+                        },
+                        "postId": "urn:li:activity:7384215886741618688",
+                        "pinned": false,
+                        "contributed": false,
+                        "edited": false,
+                        "actor": {
+                            "id": null,
+                            "type": "company",
+                            "universalName": "benteler-group",
+                            "name": "BENTELER Group",
+                            "linkedinUrl": "https://www.linkedin.com/company/benteler-group/posts",
+                            "position": "220,704 followers",
+                            "author": true
+                        }
+                    }
+                ],
+                "postId": "7384831124914749440",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/benteler-group_how-can-electric-commercial-vehicles-be-made-activity-7384215886741618688-a6ON"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7384831124914749440",
+                "linkedinUrl": "https://www.linkedin.com/posts/benteler-group_how-can-electric-commercial-vehicles-be-made-activity-7384215886741618688-a6ON",
+                "content": "How can electric commercial vehicles be made lighter and more efficient?\u00a0 \n\nThe \u201cULAS-E-VAN\u201d (UltraLight Body Structure of an Electric VAN) research project addressed precisely this question. Together with partners from industry and research, BENTELER worked on innovative vehicle structures and modular battery solutions for electric last-mile delivery vehicles in the BMWK-funded project. \n\nWe contributed our extensive experience in the development and production of complex structural components to the project, with a focus on lightweight construction and modular battery tray systems. The result: less weight, greater range, and the same level of safety and stability for the vehicles. \n\nThe successfully completed project shows that, together with our project partners, we are setting standards for the next generation of lightweight and high-performance commercial vehicles. \n\n\ud83d\udcf7 Institut f\u00fcr Kraftfahrzeuge (ika) - RWTH Aachen University",
+                "contentAttributes": [
+                    {
+                        "start": 887,
+                        "length": 58,
+                        "type": "COMPANY_NAME",
+                        "hyperlink": "https://www.linkedin.com/company/1567085/",
+                        "textLink": null,
+                        "company": {
+                            "id": "1567085",
+                            "name": "Institute for Automotive Engineering (ika)",
+                            "linkedinUrl": "https://www.linkedin.com/company/1567085/"
+                        }
+                    }
+                ],
+                "author": {
+                    "id": "12113",
+                    "universalName": "benteler-group",
+                    "publicIdentifier": null,
+                    "type": "company",
+                    "name": "BENTELER Group",
+                    "linkedinUrl": "https://www.linkedin.com/company/benteler-group/posts",
+                    "info": "220,704 followers",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/C510BAQHMmyl9oNNn4w/company-logo_400_400/company-logo_400_400/0/1631339231849?e=1793232000&v=beta&t=snOy8-w-pQh3p0cMKxrwtddLCkRSq6XvsSyCYw2SwDY",
+                        "width": 400,
+                        "height": 400
+                    },
+                    "urn": "12113",
+                    "companyId": "12113"
+                },
+                "postedAt": {
+                    "timestamp": 1760680943707,
+                    "date": "2025-10-17T06:02:23.707Z",
+                    "postedAgoShort": "11mo",
+                    "postedAgoText": "11 months ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D22AQGW_lnG_zWzug/feedshare-image-high-res/B4DZnoAsXOGwAo-/0/1760534255716?e=1793232000&v=beta&t=EOghyo-jmXNwDHc07_acWou8Ak9OVMM7Z7-2laMGkro",
+                        "width": 1080,
+                        "height": 1350
+                    }
+                ],
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1760680943707,
+                    "date": "2025-10-17T06:02:23.707Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/benteler-group_how-can-electric-commercial-vehicles-be-made-activity-7384215886741618688-a6ON?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7384831124914749440?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7384831124914749440%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=xUW83GP%2BGAGVbmFoU7ZHrQ%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7384831124914749440",
+                "shareUrn": "urn:li:share:7384215885194014720",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7384215885194014720",
+                "engagement": {
+                    "id": "7384215886741618688",
+                    "likes": 68,
+                    "comments": 2,
+                    "shares": 3,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 66
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 2
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7384855154036142080"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7383912824592560128",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7383809484206555136?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7383809484206555136%2C7383912824592560128%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287383912824592560128%2Curn%3Ali%3AugcPost%3A7383809484206555136%29",
+                "commentary": "It will be the next great session\ud83e\udd29",
+                "commentaryAttributes": [],
+                "createdAt": "2025-10-14T17:13:23.850Z",
+                "createdAtTimestamp": 1760462003850,
+                "engagement": {
+                    "likes": 1,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 1
+                        }
+                    ]
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAACg4Mz0B9eiozZ_LkiFGFYC4DwmTL3QMhsQ",
+                    "type": "profile",
+                    "name": "Yuliia Hruzdieva",
+                    "linkedinUrl": "https://www.linkedin.com/in/yuliia-hruzdieva",
+                    "position": "EMEA Digital Marketing Coordinator for Social Media @Siemens Digital Industries Software |xBCG | Bridging Innovation & Marketing",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHNI_dD3OMWsA/profile-displayphoto-crop_800_800/B4EZuZuVpPJEAI-/0/1767810621456?e=1793232000&v=beta&t=vele_vEwmXlox9Nabw_Krbh7ZHEXIXLexElI_8aVcHk",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4E03AQHNI_dD3OMWsA/profile-displayphoto-crop_800_800/B4EZuZuVpPJEAI-/0/1767810621456?e=1793232000&v=beta&t=vele_vEwmXlox9Nabw_Krbh7ZHEXIXLexElI_8aVcHk",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7383809498156568576",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/mayur-talele_boost-your-hypermesh-expertise-october-activity-7383809498156568576-XkOC"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7373281302344568832",
+                "linkedinUrl": "https://www.linkedin.com/posts/mayur-talele_altair-hypermesh-introduction-to-the-new-activity-7373281302344568832-ms6F",
+                "content": "The future of simulation starts here!\n\nReady to take your simulation capabilities to the next level?\n\nWe\u2019re hosting a live webinar this week where you\u2019ll discover practical tips and explore powerful features of HyperMesh.\nWhether you\u2019re new to simulation in HyperMesh or looking to sharpen your expertise, this session will give you valuable takeaways and the opportunity to get your questions answered live.\nThis is more than just a session - it\u2019s your chance to unlock new possibilities and move #OnlyForward with HyperMesh.\n\n\ud83d\udc49 Don\u2019t miss it. Save your spot today and join us!",
+                "contentAttributes": [],
+                "author": {
+                    "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "universalName": null,
+                    "publicIdentifier": "mayur-talele",
+                    "type": "profile",
+                    "name": "Mayur Talele",
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "info": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "urn": "492492743",
+                    "profileId": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "postedAt": {
+                    "timestamp": 1757927251421,
+                    "date": "2025-09-15T09:07:31.421Z",
+                    "postedAgoShort": "1yr",
+                    "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [],
+                "repostId": "7372250363455905792",
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/mayur-talele_altair-hypermesh-introduction-to-the-new-activity-7373281302344568832-ms6F?"
+                },
+                "header": {
+                    "text": null
+                },
+                "entityId": "7373281302344568832",
+                "shareUrn": "urn:li:share:7373281301736472576",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7373281301736472576",
+                "repost": {
+                    "id": "7372250363455905792",
+                    "linkedinUrl": "https://www.linkedin.com/posts/activity-7372250363455905792-0U3m",
+                    "content": "This is for all HyperMesh enthusiasts, and those intending to become one:\n\nAfter a short summer break, I am excited to make you aware of the September edition of an ongoing series of recurring web-sessions:\n\nNext Thursday morning we are happy to welcome you to three hours packed with information about the new interface of HyperMesh.\n\nThe first half will provide insights into the evolving user experience, upgraded workflows, and the innovations shaping the next generation of our tools, like support for modeling and simulation through Artificial Intelligence.\n\nThe second half will then walk you live through the interface, giving a practical introduction to the new user experience and pointing you to learning and support material to get you started.\n\nDuring the full session you can chat with us through the Q+A channel.\n\nSounds interesting?\nWe have plenty of seats! \ud83d\ude0a\nPlease reserve your spot here:\nhttps://lnkd.in/eFszAQNg\n\nSpecial thanks for their key roles go to Yuliia Hruzdieva in organizing the series, and to Mayur Talele for moderation and presentation.\n\nWe are looking forward to meeting you!",
+                    "contentAttributes": [
+                        {
+                            "start": 907,
+                            "length": 24,
+                            "type": "TEXT_LINK",
+                            "hyperlink": null,
+                            "textLink": "https://lnkd.in/eFszAQNg"
+                        },
+                        {
+                            "start": 974,
+                            "length": 16,
+                            "type": "PROFILE_MENTION",
+                            "hyperlink": "https://www.linkedin.com/in/ACoAACg4Mz0B9eiozZ_LkiFGFYC4DwmTL3QMhsQ",
+                            "textLink": null,
+                            "profile": {
+                                "id": "ACoAACg4Mz0B9eiozZ_LkiFGFYC4DwmTL3QMhsQ",
+                                "firstName": "Yuliia",
+                                "lastName": "Hruzdiev",
+                                "linkedinUrl": "https://www.linkedin.com/in/ACoAACg4Mz0B9eiozZ_LkiFGFYC4DwmTL3QMhsQ",
+                                "publicIdentifier": null
+                            }
+                        },
+                        {
+                            "start": 1024,
+                            "length": 12,
+                            "type": "PROFILE_MENTION",
+                            "hyperlink": "https://www.linkedin.com/in/ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                            "textLink": null,
+                            "profile": {
+                                "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                                "firstName": "Mayur",
+                                "lastName": "Talele",
+                                "linkedinUrl": "https://www.linkedin.com/in/ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                                "publicIdentifier": null
+                            }
+                        }
+                    ],
+                    "author": {
+                        "id": "ACoAAFxj3DMBFUfB5zZWWR_ZIgDRwu587VeJOk4",
+                        "universalName": null,
+                        "publicIdentifier": "andreas-dahlmann-843136373",
+                        "type": "profile",
+                        "name": "Andreas Dahlmann",
+                        "linkedinUrl": "https://www.linkedin.com/in/andreas-dahlmann-843136373?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFxj3DMBFUfB5zZWWR_ZIgDRwu587VeJOk4",
+                        "info": "Simulation software consultant and trainer since over two exciting decades.",
+                        "website": null,
+                        "websiteLabel": null,
+                        "avatar": null,
+                        "urn": "1550048307",
+                        "profileId": "ACoAAFxj3DMBFUfB5zZWWR_ZIgDRwu587VeJOk4"
+                    },
+                    "postedAt": {
+                        "timestamp": 1757681456436,
+                        "date": "2025-09-12T12:50:56.436Z",
+                        "postedAgoShort": "1yr",
+                        "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                    },
+                    "postImages": [],
+                    "article": {
+                        "title": "Altair\u00ae HyperMesh\u00ae: Introduction to the New Interface and Technology",
+                        "subtitle": "web.altair.com",
+                        "link": "https://web.altair.com/altair-hypermesh-introduction-to-the-new-interface-and-technology",
+                        "linkLabel": "Open article: Altair\u00ae HyperMesh\u00ae: Introduction to the New Interface and Technology by web.altair.com",
+                        "description": null,
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHVh6JOLbSyVw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1776366839229?e=1792400400&v=beta&t=I-8b_y9OJGRbvtxD_yr7yfM5dPrSqS-FhvtfaEy_J8w",
+                            "width": 1200,
+                            "height": 630
+                        }
+                    },
+                    "socialContent": {
+                        "trustInterventionBanner": null,
+                        "shareUrl": "https://www.linkedin.com/posts/activity-7372250363455905792-0U3m?"
+                    },
+                    "comments": [],
+                    "header": {
+                        "text": null
+                    },
+                    "entityId": "7372250363455905792",
+                    "shareUrn": "urn:li:share:7372250362520543233",
+                    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7372250362520543233",
+                    "engagement": {
+                        "id": "7372250363455905792",
+                        "likes": 26,
+                        "comments": 0,
+                        "shares": 2,
+                        "reactions": [
+                            {
+                                "type": "LIKE",
+                                "count": 26
+                            }
+                        ]
+                    }
+                },
+                "engagement": {
+                    "id": "7373281302344568832",
+                    "likes": 19,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 19
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7383809498156568576",
+                "linkedinUrl": "https://www.linkedin.com/posts/mayur-talele_boost-your-hypermesh-expertise-october-activity-7383809498156568576-XkOC",
+                "content": "\ud83d\ude80 Boost Your HyperMesh Expertise \u2013 October 16, 2025!\n\nGet ready to dive into the latest HyperMesh interface and supercharge your modeling workflows with the power of AI.\nIn this session, you will:\n \u2705 Discover the latest user interaction features\n \u2705 Evaluate and enhance your current tools and methods\n \u2705 Experience cutting-edge CAE and AI capabilities\n \u2705 Gain access to comprehensive training resources\n\ud83d\udd58 When: October 16, 2025 | 9:00 AM \u2013 12:00 PM CET (includes a 15-minute break)\n\n\ud83d\udc49 Register now and stay ahead as a HyperMesh professional!\nhttps://lnkd.in/eDYfGx9u",
+                "contentAttributes": [
+                    {
+                        "start": 542,
+                        "length": 24,
+                        "type": "TEXT_LINK",
+                        "hyperlink": null,
+                        "textLink": "https://lnkd.in/eDYfGx9u"
+                    }
+                ],
+                "author": {
+                    "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "universalName": null,
+                    "publicIdentifier": "mayur-talele",
+                    "type": "profile",
+                    "name": "Mayur Talele",
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "info": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "urn": "492492743",
+                    "profileId": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "postedAt": {
+                    "timestamp": 1760437368907,
+                    "date": "2025-10-14T10:22:48.907Z",
+                    "postedAgoShort": "11mo",
+                    "postedAgoText": "11 months ago \u2022 Edited \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [],
+                "postVideo": {
+                    "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGoqcI4gganQg/videocover-low/B4EZniPmmZIMB4-/0/1760437366492?e=1792400400&v=beta&t=uQBHNgj-WD-qaLUevDIL275HHa4yjHS1Rg3vguDxW-0",
+                    "videoUrl": "https://dms.licdn.com/playlist/vid/dynamic/D4E05AQGoqcI4gganQg/CeJxzMnGNyssMyM2N8vR1ydfVcULmu6LxPdH4xWj8cl0A4gYY6w?e=1792400400&v=beta&t=rMOLucKkgYVy9RiJYK1f61ovrnfyva1EX2nqqkXHkaw"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/mayur-talele_boost-your-hypermesh-expertise-october-activity-7383809498156568576-XkOC?"
+                },
+                "header": {
+                    "text": null
+                },
+                "entityId": "7383809498156568576",
+                "shareUrn": "urn:li:ugcPost:7383809484206555136",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7383809484206555136",
+                "engagement": {
+                    "id": "7383809484206555136",
+                    "likes": 17,
+                    "comments": 1,
+                    "shares": 0,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 16
+                        },
+                        {
+                            "type": "INTEREST",
+                            "count": 1
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7383912824592560128"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7338155215390416897",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7337941827376828416?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7337941827376828416%2C7338155215390416897%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287338155215390416897%2Curn%3Ali%3Aactivity%3A7337941827376828416%29",
+                "commentary": "Congrats! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2025-06-10T10:48:59.681Z",
+                "createdAtTimestamp": 1749552539681,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAADeaWIYB7x3Wy1C6ZwTAIFmuJ2ZzyWLJVhg",
+                    "type": "profile",
+                    "name": "Andy Fong",
+                    "linkedinUrl": "https://www.linkedin.com/in/andy-fong-8b24b6220",
+                    "position": "Leading APAC Simulation GTM \u2014 Electronics, Semiconductor & Data Center | Siemens Digital Industries Software | MBA",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFeTEWJgN6neA/profile-displayphoto-shrink_800_800/B56ZcFvlC6HwAc-/0/1748148052477?e=1793232000&v=beta&t=uFMJNFRONjXGQF9bOS74l5Ap2n04SEmWYPfS74SDxuM",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D5603AQFeTEWJgN6neA/profile-displayphoto-shrink_800_800/B56ZcFvlC6HwAc-/0/1748148052477?e=1793232000&v=beta&t=uFMJNFRONjXGQF9bOS74l5Ap2n04SEmWYPfS74SDxuM",
+                        "width": 799,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7349377863915081728",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7349377863915081728",
+                "linkedinUrl": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A",
+                "content": "Altair + Siemens = Forward Together. From rocket science to data science, we're helping you build the future with faster design, smarter solutions, and limitless scale.\n\nDiscover what's possible: https://lnkd.in/gAZ8i7pS #OnlyForward",
+                "contentAttributes": [
+                    {
+                        "start": 9,
+                        "length": 7,
+                        "type": "COMPANY_NAME",
+                        "hyperlink": "https://www.linkedin.com/company/1043/",
+                        "textLink": null,
+                        "company": {
+                            "id": "1043",
+                            "name": "Siemens",
+                            "linkedinUrl": "https://www.linkedin.com/company/1043/"
+                        }
+                    },
+                    {
+                        "start": 196,
+                        "length": 24,
+                        "type": "TEXT_LINK",
+                        "hyperlink": null,
+                        "textLink": "https://lnkd.in/gAZ8i7pS"
+                    }
+                ],
+                "author": {
+                    "id": "8323",
+                    "universalName": "altair-engineering",
+                    "publicIdentifier": null,
+                    "type": "company",
+                    "name": "Altair",
+                    "linkedinUrl": "https://www.linkedin.com/company/altair-engineering/posts",
+                    "info": "246,989 followers",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                        "width": 400,
+                        "height": 400
+                    },
+                    "urn": "8323",
+                    "companyId": "8323"
+                },
+                "postedAt": {
+                    "timestamp": 1752228227595,
+                    "date": "2025-07-11T10:03:47.595Z",
+                    "postedAgoShort": "1yr",
+                    "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D5610AQHQTxlGMjlEZw/image-shrink_1280/B56ZdWbM76GoAM-/0/1749501662423?e=1792400400&v=beta&t=ArEGgrEhVJ_2THWbpfxctB5FyVa9UUkMFK04PVfpZzQ",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                ],
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1752228227595,
+                    "date": "2025-07-11T10:03:47.595Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7349377863915081728?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7349377863915081728%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=j3WGLrFxYBov411qcQ1Chw%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7349377863915081728",
+                "shareUrn": "urn:li:share:7337941817935413249",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7337941817935413249",
+                "engagement": {
+                    "id": "7337941827376828416",
+                    "likes": 827,
+                    "comments": 1,
+                    "shares": 103,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 772
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 33
+                        },
+                        {
+                            "type": "EMPATHY",
+                            "count": 17
+                        },
+                        {
+                            "type": "INTEREST",
+                            "count": 3
+                        },
+                        {
+                            "type": "APPRECIATION",
+                            "count": 2
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7338155215390416897"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7343720819895812096",
+                "linkedinUrl": "https://www.linkedin.com/posts/ugcPost-7343606779085262848-F1dJ",
+                "content": "Hi everyone,\n\nAs you know, we (Altair) have conducted several webinars and conferences on \"AI-Powered Engineering in HyperWorks\". To further strengthen customer engagement and turn interest into action, we are now planning a dedicated online training for our DACH and NORDICS customers. \n\nOnline Training Schedule:\n \ud83d\uddd3\ufe0f 16th July to 18th July\n \ud83d\udd52 1400-1600 Central European Time \n \ud83c\udf10 Language: English\n\nYour trainers for this session will be Aditya Bodas, Tejas Chavan, Christian Bohnenberger and myself with guidance from Moritz Frenzel. Together, we aim to provide an engaging and informative learning experience.\n\n*Unable to attend in July due to prior commitments or vacation?*\n We\u2019re pleased to offer an additional session with the same content from *29th September to 1st October*.\n\nFor further details, please refer to the attached PDF. \n\nIf you would like to register, kindly reach out to your Application Engineer or Account Manager. We look forward to your participation.",
+                "contentAttributes": [
+                    {
+                        "start": 439,
+                        "length": 12,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAACt7ebgB_9MGilfwnnh0DTjaqtLLPqTD10Q",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAACt7ebgB_9MGilfwnnh0DTjaqtLLPqTD10Q",
+                            "firstName": "be",
+                            "lastName": "Aditya Bo",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAACt7ebgB_9MGilfwnnh0DTjaqtLLPqTD10Q",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 453,
+                        "length": 12,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAADFib8gB4SH-9HEwe9opQF3kDzAUXv0aQ4U",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAADFib8gB4SH-9HEwe9opQF3kDzAUXv0aQ4U",
+                            "firstName": "s,",
+                            "lastName": "Tejas Cha",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAADFib8gB4SH-9HEwe9opQF3kDzAUXv0aQ4U",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 467,
+                        "length": 22,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAACQbLZsBOAKwZutr2IR3AbLtalgtsyksHj8",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAACQbLZsBOAKwZutr2IR3AbLtalgtsyksHj8",
+                            "firstName": "n,",
+                            "lastName": "Christian Bohnenber",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAACQbLZsBOAKwZutr2IR3AbLtalgtsyksHj8",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 520,
+                        "length": 14,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos",
+                            "firstName": "Moritz",
+                            "lastName": "Frenzel",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAABK0PrYBnOZV-p-EC_0aSU0Kh-dZIqdgYos",
+                            "publicIdentifier": null
+                        }
+                    }
+                ],
+                "author": {
+                    "id": "ACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM",
+                    "universalName": null,
+                    "publicIdentifier": "venkata-pavan-p-731088202",
+                    "type": "profile",
+                    "name": "Venkata Pavan P.",
+                    "linkedinUrl": "https://www.linkedin.com/in/venkata-pavan-p-731088202?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM",
+                    "info": "Driving customer efficiency through tailored solutions in Simulation, Weight Analytics, Material Database & Simulation-Agentic AI",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": null,
+                    "urn": "866116117",
+                    "profileId": "ACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM"
+                },
+                "postedAt": {
+                    "timestamp": 1750879483198,
+                    "date": "2025-06-25T19:24:43.198Z",
+                    "postedAgoShort": "1yr",
+                    "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [],
+                "document": {
+                    "title": "AI Powered Engineering in HyperWorks",
+                    "transcribedDocumentUrl": "https://media.licdn.com/dms/document/media/v2/D561FAQEeKMGF0ynmLQ/feedshare-document-url-metadata-scrapper-pdf/B56Zem7Ju.GQA4-/0/1750852214980?e=1792400400&v=beta&t=1v6RejdAWMHZZSt37_4ErIqrDq7FtYHnXpR9R362yW0",
+                    "coverPages": [
+                        {
+                            "width": 1920,
+                            "imageUrls": [
+                                "https://media.licdn.com/dms/image/v2/D561FAQEeKMGF0ynmLQ/feedshare-document-cover-images_1920/B56Zem7Ju.GQA0-/0/1750852214958?e=1792400400&v=beta&t=MJmFZFNE_PNF0PnoiVBkheGZFqV1GKdLv41CwW4-16Y",
+                                "https://media.licdn.com/dms/image/v2/D561FAQEeKMGF0ynmLQ/feedshare-document-cover-images_1920/B56Zem7Ju.GQA0-/1/1750852214958?e=1792400400&v=beta&t=YwROk0LLsVq50D3w0KRgFx5xLrmhbGWpGyi_-0HMqTU",
+                                "https://media.licdn.com/dms/image/v2/D561FAQEeKMGF0ynmLQ/feedshare-document-cover-images_1920/B56Zem7Ju.GQA0-/2/1750852214958?e=1792400400&v=beta&t=IZWlxChnr7fbPTx98ODsn429tv9t2j7kRqhm-G9wSNM"
+                            ],
+                            "height": 1080
+                        }
+                    ],
+                    "totalPageCount": 5,
+                    "manifestUrl": "https://media.licdn.com/dms/document/pl/v2/D561FAQEeKMGF0ynmLQ/feedshare-document-master-manifest/B56Zem7Ju.GQBg-/0/1750852215555?e=1792400400&v=beta&t=HSuImYKP_2WEMLxMy9odaPwO-9jsuQbfUFavUB4_TDc",
+                    "manifest": "\ufffd\ufffd6\u0000 Sm\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdbVE4j\ufffd!\ufffd\ufffd\u0002\ufffd\u000f]\u0013\ufffd\ufffd\u0012\ufffd\ufffd_\u06d2\ufffd\u0017T\ufffd#\ufffd\ufffd\fh\ufffd\ufffdG6\u001d>\u03b6U\u0006F\u0010\ufffd\ufffd\ufffd\ufffd_\ufffdk\ufffd\ufffd\ufffd\ufffd\u0011 \ufffd\u001e\ufffdr\ufffd\ufffd\u000b\"\u001b\bJ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u030c`0\ufffdL\ufffdQ\u0016\ufffd\u0019\ufffd\u0000\ufffd\ufffd\ufffd\ufffd\ufffdF\ufffd2\t\ufffd\ufffd[\ufffd\ufffd\b l\ufffd\u001c$\ufffd\ufffd\ufffd\ufffd/\u0015\u0014\ufffd\ufffd\ufffd\ud86c\udee5Q\ufffd\u0019q\ufffd\ufffd\ufffd\u0005B%\ufffd@\n\ufffd\ufffd\u0006'\ufffd\ufffdP9~\u001f\u0014\ufffd\ufffd\ufffd\ufffdL\u0011!A\u0012\ufffd\ufffd\ufffd\"G\ufffd\u0014\ufffdq\ufffd\ufffd\ufffd7%H4O\u000b4I\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u007ft\ufffdO\ufffd\u0149A|2\ufffd\ufffd\u0134\u0671\ufffd\ufffd\ufffd\ufffd<=r/.r\ufffdN\ufffdt8\ufffd\f%|\f.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdF\ufffd\ufffdC\ufffd\ufffd\ufffd\u000f\ufffd\ufffd\ufffd`\ufffd|\u0012\u0006\ufffd\ufffd\u000e\ufffdm\ufffd\ufffd\ufffd\ufffdu\ufffdn^l\ufffd\ufffd\ufffd\ufffd\u7776c(\ufffdA\r7\u0011\ufffd\ufffd\u00fb\u0011\ufffd^^\u0343\ufffdOP\ufffd\ufffd\u0015\u00b7\t\ufffd\ufffd6Y\f\ufffd\u0001\ufffd\u0007X\n\ufffd|x\u0001?\"9 S\ufffdHb\ufffdwQ\u0012\ufffd\u0002Mb\ufffdG\u0586F\ufffd\ufffd\ufffd\\K\ufffdDF\ufffd-\ufffdAI\ufffd\ufffdf\ufffd\ufffd(\ufffd\ufffd1\u001f\ufffd(\ufffd\ufffdf\ufffd\ufffd\ufffdm\ufffde\ufffd\ufffdF\ufffd;\ufffd\ufffd\ufffd&\ufffd=V\u001d\ufffd\ufffd\u0002>\ufffd\ufffdh\ufffd\ufffd+\ufffd\u0014#\ufffdD\u00f2\u0003)5\u029d\ufffdt\ufffd\ufffd,\ufffdCi3G\ufffdn\ufffd\ufffd%Z\ufffdA\u001dy\ufffd\ufffd\u001a\ufffd\u0019\ufffd\ufffd\ufffd\u0004F\ufffd+\ufffdaI,\u01c7D\ufffda\ufffd\u0000\ufffd\ufffd\ufffd\u01b2\ufffd\u001ba/Q\u0003e7\u060c\ufffdr\ufffdo\r\u001fy\ud870\uddd9\ufffd[\ufffd\ufffdK\ufffdf\u0011\ufffd)\ufffd\ufffd\ufffd\u001d\ufffd\ufffdgXZ\ufffdO\ufffd\ufffd\ufffd\u001c{\ufffd\ufffd2e\ufffd\ufffdY\ufffd\ufffd\ufffdj\u0764\ufffd\u03a2\ufffd\ufffd2B\u055d:{\ufffd^ Ho\ufffd&\ufffd$Z\ufffd\ufffd,\u00d2M\ufffd\ufffd\f\ufffd\ufffdUq\ufffdN\ufffd(p\u0016\ufffd\ufffd\ufffd>Y\ufffd\u0214\ufffd\u0625\ufffd\ufffd\ufffd\ufffd\ufffdb\u0017N\ufffd\ufffd\r|\ufffd\u007f\u0000"
+                },
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1750879483198,
+                    "date": "2025-06-25T19:24:43.198Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/ugcPost-7343606779085262848-F1dJ?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7343720819895812096?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7343720819895812096%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=R8jhp%2Bos%2BKuyK3OQU6wsVw%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7343720819895812096",
+                "shareUrn": "urn:li:ugcPost:7343606779085262848",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7343606779085262848",
+                "engagement": {
+                    "id": "7343606779085262848",
+                    "likes": 38,
+                    "comments": 1,
+                    "shares": 8,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 37
+                        },
+                        {
+                            "type": "INTEREST",
+                            "count": 1
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "comment",
+                "id": "7338155215390416897",
+                "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7337941827376828416?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7337941827376828416%2C7338155215390416897%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287338155215390416897%2Curn%3Ali%3Aactivity%3A7337941827376828416%29",
+                "commentary": "Congrats! \ud83c\udf89",
+                "commentaryAttributes": [],
+                "createdAt": "2025-06-10T10:48:59.681Z",
+                "createdAtTimestamp": 1749552539681,
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0,
+                    "reactions": []
+                },
+                "pinned": false,
+                "contributed": false,
+                "edited": false,
+                "actor": {
+                    "id": "ACoAADeaWIYB7x3Wy1C6ZwTAIFmuJ2ZzyWLJVhg",
+                    "type": "profile",
+                    "name": "Andy Fong",
+                    "linkedinUrl": "https://www.linkedin.com/in/andy-fong-8b24b6220",
+                    "position": "Leading APAC Simulation GTM \u2014 Electronics, Semiconductor & Data Center | Siemens Digital Industries Software | MBA",
+                    "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFeTEWJgN6neA/profile-displayphoto-shrink_800_800/B56ZcFvlC6HwAc-/0/1748148052477?e=1793232000&v=beta&t=uFMJNFRONjXGQF9bOS74l5Ap2n04SEmWYPfS74SDxuM",
+                    "picture": {
+                        "url": "https://media.licdn.com/dms/image/v2/D5603AQFeTEWJgN6neA/profile-displayphoto-shrink_800_800/B56ZcFvlC6HwAc-/0/1748148052477?e=1793232000&v=beta&t=uFMJNFRONjXGQF9bOS74l5Ap2n04SEmWYPfS74SDxuM",
+                        "width": 799,
+                        "height": 800
+                    },
+                    "author": false
+                },
+                "postId": "7338645337361854466",
+                "query": {
+                    "post": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7338645337361854466",
+                "linkedinUrl": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A",
+                "content": "Altair + Siemens = Forward Together. From rocket science to data science, we're helping you build the future with faster design, smarter solutions, and limitless scale.\n\nDiscover what's possible: https://lnkd.in/gAZ8i7pS #OnlyForward",
+                "contentAttributes": [
+                    {
+                        "start": 9,
+                        "length": 7,
+                        "type": "COMPANY_NAME",
+                        "hyperlink": "https://www.linkedin.com/company/1043/",
+                        "textLink": null,
+                        "company": {
+                            "id": "1043",
+                            "name": "Siemens",
+                            "linkedinUrl": "https://www.linkedin.com/company/1043/"
+                        }
+                    },
+                    {
+                        "start": 196,
+                        "length": 24,
+                        "type": "TEXT_LINK",
+                        "hyperlink": null,
+                        "textLink": "https://lnkd.in/gAZ8i7pS"
+                    }
+                ],
+                "author": {
+                    "id": "8323",
+                    "universalName": "altair-engineering",
+                    "publicIdentifier": null,
+                    "type": "company",
+                    "name": "Altair",
+                    "linkedinUrl": "https://www.linkedin.com/company/altair-engineering/posts",
+                    "info": "246,989 followers",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": {
+                        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                        "width": 400,
+                        "height": 400
+                    },
+                    "urn": "8323",
+                    "companyId": "8323"
+                },
+                "postedAt": {
+                    "timestamp": 1749669393864,
+                    "date": "2025-06-11T19:16:33.864Z",
+                    "postedAgoShort": "1yr",
+                    "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/v2/D5610AQHQTxlGMjlEZw/image-shrink_1280/B56ZdWbM76GoAM-/0/1749501662423?e=1792400400&v=beta&t=ArEGgrEhVJ_2THWbpfxctB5FyVa9UUkMFK04PVfpZzQ",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                ],
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1749669393864,
+                    "date": "2025-06-11T19:16:33.864Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/altair-engineering_onlyforward-activity-7337941827376828416-FG0A?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7338645337361854466?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7338645337361854466%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=Dv7T7B9yzfxiJ0XDBgoaig%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7338645337361854466",
+                "shareUrn": "urn:li:share:7337941817935413249",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7337941817935413249",
+                "engagement": {
+                    "id": "7337941827376828416",
+                    "likes": 827,
+                    "comments": 1,
+                    "shares": 103,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 772
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 33
+                        },
+                        {
+                            "type": "EMPATHY",
+                            "count": 17
+                        },
+                        {
+                            "type": "INTEREST",
+                            "count": 3
+                        },
+                        {
+                            "type": "APPRECIATION",
+                            "count": 2
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [
+                    "7338155215390416897"
+                ],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            },
+            {
+                "type": "post",
+                "id": "7317428816660856832",
+                "linkedinUrl": "https://www.linkedin.com/posts/ugcPost-7317102224176738304-V1yo",
+                "content": "Are you interested in a hands-on training to explore the automation and customization capabilities in HyperWorks using the new Python interface? If so, I\u2019m excited to share that the next training session will take place from May 26th to May 30th, with daily sessions of 2.5 hours. The training will be conducted online and in English and Arne Keller, Linda Wiborg and I would be your trainers!\n\nFor more details, please refer to the attached PDF. \n\nIf you'd like to register, kindly get in touch with your Application Engineer or Account Manager.",
+                "contentAttributes": [
+                    {
+                        "start": 338,
+                        "length": 11,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAABLOJtkBa44mkQLAwduJdfrrn18hIZg8wE4",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAABLOJtkBa44mkQLAwduJdfrrn18hIZg8wE4",
+                            "firstName": "Arne",
+                            "lastName": "Keller",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAABLOJtkBa44mkQLAwduJdfrrn18hIZg8wE4",
+                            "publicIdentifier": null
+                        }
+                    },
+                    {
+                        "start": 351,
+                        "length": 12,
+                        "type": "PROFILE_MENTION",
+                        "hyperlink": "https://www.linkedin.com/in/ACoAAAfYfacBz-oB62bYPXbA2a0CWHNtF0SJf74",
+                        "textLink": null,
+                        "profile": {
+                            "id": "ACoAAAfYfacBz-oB62bYPXbA2a0CWHNtF0SJf74",
+                            "firstName": "Linda",
+                            "lastName": "Wiborg",
+                            "linkedinUrl": "https://www.linkedin.com/in/ACoAAAfYfacBz-oB62bYPXbA2a0CWHNtF0SJf74",
+                            "publicIdentifier": null
+                        }
+                    }
+                ],
+                "author": {
+                    "id": "ACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM",
+                    "universalName": null,
+                    "publicIdentifier": "venkata-pavan-p-731088202",
+                    "type": "profile",
+                    "name": "Venkata Pavan P.",
+                    "linkedinUrl": "https://www.linkedin.com/in/venkata-pavan-p-731088202?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM",
+                    "info": "Driving customer efficiency through tailored solutions in Simulation, Weight Analytics, Material Database & Simulation-Agentic AI",
+                    "website": null,
+                    "websiteLabel": null,
+                    "avatar": null,
+                    "urn": "866116117",
+                    "profileId": "ACoAADOf4hUBArY_RWnco9k6wFC4MrFTomxs4vM"
+                },
+                "postedAt": {
+                    "timestamp": 1744610981145,
+                    "date": "2025-04-14T06:09:41.145Z",
+                    "postedAgoShort": "1yr",
+                    "postedAgoText": "1 year ago \u2022 Visible to anyone on or off LinkedIn"
+                },
+                "postImages": [],
+                "document": {
+                    "title": "Python in HW Customization training",
+                    "transcribedDocumentUrl": "https://media.licdn.com/dms/document/media/v2/D561FAQF2caf6ORFmOQ/feedshare-document-chunked-pdf/B56Zg4XmfgHkAE-/0/1753292368010?e=1792400400&v=beta&t=NxMHG-uqAkYZg6Hspp47OMY9SM6nfc8bDCFMUJxVwLE",
+                    "coverPages": [
+                        {
+                            "width": 1920,
+                            "imageUrls": [
+                                "https://media.licdn.com/dms/image/v2/D561FAQF2caf6ORFmOQ/feedshare-document-cover-images_1920/B56ZYuRnGGHEAw-/0/1744533092523?e=1792400400&v=beta&t=GBzMXt5SNAcCP5XbFvHbrbxEllGK5lblNszS2PsaTQc",
+                                "https://media.licdn.com/dms/image/v2/D561FAQF2caf6ORFmOQ/feedshare-document-cover-images_1920/B56ZYuRnGGHEAw-/1/1744533092523?e=1792400400&v=beta&t=3u2IjjxGd7CCLLJjXj6lRBNfzIrFSbXr9MnO7fAMwzs",
+                                "https://media.licdn.com/dms/image/v2/D561FAQF2caf6ORFmOQ/feedshare-document-cover-images_1920/B56ZYuRnGGHEAw-/2/1744533092523?e=1792400400&v=beta&t=M7tBZEjatmPYCX7xjK1gYzbxCU8_V-mo_HokTgPUroQ"
+                            ],
+                            "height": 1080
+                        }
+                    ],
+                    "totalPageCount": 4,
+                    "manifestUrl": "https://media.licdn.com/dms/document/pl/v2/D561FAQF2caf6ORFmOQ/feedshare-document-master-manifest/B56ZYuRnGGHEBY-/0/1744533092519?e=1792400400&v=beta&t=gr1qJ3TPJbfePWhxLTAVtcDDgofs0fJRVTmt3oVEKNQ",
+                    "manifest": "\ufffd\ufffd6\u0000 \ufffdm\ufffd\ufffd\ufffdk\ufffdZJ\u0012\ufffd*+\ufffd\ufffd\u0016\ufffd0[\ufffd\u001b\ufffd\u001c\ufffd3M\ufffd=\ufffdu\ufffd\ufffd\ufffd8\ufffd\ufffd%\ufffd\ufffd\u0004\ufffdV\ufffd\ufffd\u0002=Lu\ufffd$,\u001c\ufffd\t\u00b6\u0014?\ufffd:o\u00108a\u0005\u0220\ufffd29\te\ufffd\ufffd\t\ufffd2|\ufffd\ufffd\ufffdx\ufffd*\u0013\u0015\ufffd\ufffd\u03cf\ufffdj:\ufffd\ufffd\u000e 2\ufffd>\ufffd5\u7485\ufffdW7\ufffd*\ufffd\u0005Pg\ufffd^$\ufffd3\t\ufffd\ufffd9(\ufffd\ufffd5\ufffd\ufffd\ufffd\ufffd1\ufffd\u0014}\ufffd\ufffd\ufffd\u0012\ufffd\u0012\ufffd \ufffd\ufffd\ufffdGmxw\ufffd\ufffd\ufffd\ufffdM;\ufffd4M\u001f(,EC\u001a\t,\ufffd1\f\ufffd0\ufffd\ufffd\u007f\ufffd\u001f$H\ufffd\ufffd\u0002\ufffd\ufffd\ufffd\ufffd\u000f\u05ff\ufffdG\ufffd\ufffd\ufffd\ufffd-;r\ufffd\ufffdHzR\ufffd-\ufffd\ufffdy\ufffdV\ufffdS\ufffdX1\ufffd^\ufffd\u0019\t\ufffd\ufffd\ufffd\ufffdy\ufffd9\ufffd\ufffdW\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffd>\ufffd\ufffd\ufffdG^\ufffd[P\ufffd\ufffd\u0012sj\ufffd2\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd#\ufffd]\u07c3\ufffdS\u001f\ufffdp\ufffd)\ufffd\u0011\ufffd\u0469\u029c;\ufffd\ufffd\\\ufffdze\u001bV\ufffd\ufffd\ufffd\u0015\ufffdm ?iS\ufffd\ufffd\u00ab\ufffd\u001e\ufffdb \ufffd\ufffd \ufffdH\u0016\u0208\ufffd\u001d\u0010\ufffd(\u0003d\tv\ufffdo\ufffd\ufffd\u0341m\u0015\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd'\ufffd\u00c6J\ufffd\ufffd\\\ufffd\uaf9d\ufffd\u001ey\ufffd\ufffd\ufffdd\ufffd\ufffd\ufffd%X\ufffdT\ufffd\ufffd\u001164\"\ufffd\u0006W\ufffd\ufffd\ufffd\ufffd\u0000|u,\u01b3\"LX\u00102VD%\u0000\ufffd\ufffd\ufffd\ufffd\u007f\ufffdg\u0012\u0017\ufffdf\ufffdP\ufffd\ufffd\ufffd,\ufffd8\u0015o\ufffd\ufffd\ufffd\ufffdiS\ufffduR$\ufffd\ufffde1BX`\u00120(\u0015J**5H\ufffdz\ufffd\ufffdy\u0011n\ufffdBm\ufffd-i\ufffd~\u007f*M[u\ufffd\ufffd\ufffd(\ufffdx\ufffd\ufffdk\ufffd\ufffd]K\u0007C\u0011f\ufffdX\u000eS\"\u0328\u0010\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\u02e3\ufffd\u0014\ufffdj\ufffd{&(\ufffd\ufffd,\ufffd.\ufffd\ufffd\r\ufffd5sj<*\ufffdT\ufffd\ufffd\ufffd}$\ufffd\ufffdO\b\ufffdB\ufffdPRQY\ufffd{\ufffd\ufffd_\ufffdG\ufffd\u001cvpo\ufffdrlP\ufffd\u000b\u0015e\ufffd]l,\u0005\ufffd\ufffdn\ufffd%\ufffd\ufffd\ufffd\ufffd&\u0000_\ufffd/"
+                },
+                "repostedBy": {
+                    "name": "Mayur Talele",
+                    "publicIdentifier": "mayur-talele",
+                    "universalName": null,
+                    "linkedinUrl": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho"
+                },
+                "repostedAt": {
+                    "timestamp": 1744610981145,
+                    "date": "2025-04-14T06:09:41.145Z"
+                },
+                "socialContent": {
+                    "trustInterventionBanner": null,
+                    "shareUrl": "https://www.linkedin.com/posts/ugcPost-7317102224176738304-V1yo?"
+                },
+                "header": {
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7317428816660856832?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7317428816660856832%2CMEMBER_SHARES%2CDEBUG_REASON%2CDEFAULT%2Cfalse%29&originTrackingId=xQYdS43akk3qyfEmM%2F%2BqFg%3D%3D",
+                    "imageLink": "https://www.linkedin.com/in/mayur-talele?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+                    "text": "Mayur Talele reposted this"
+                },
+                "entityId": "7317428816660856832",
+                "shareUrn": "urn:li:ugcPost:7317102224176738304",
+                "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7317102224176738304",
+                "engagement": {
+                    "id": "7317102224176738304",
+                    "likes": 47,
+                    "comments": 0,
+                    "shares": 8,
+                    "reactions": [
+                        {
+                            "type": "LIKE",
+                            "count": 44
+                        },
+                        {
+                            "type": "INTEREST",
+                            "count": 2
+                        },
+                        {
+                            "type": "PRAISE",
+                            "count": 1
+                        }
+                    ]
+                },
+                "reactionIds": [],
+                "commentIds": [],
+                "query": {
+                    "sortBy": "date",
+                    "page": "1",
+                    "targetUrl": "https://de.linkedin.com/in/mayur-talele",
+                    "sessionId": "0be0eaea-aa1e-47fb-9d61-c7dfa6a594c0"
+                }
+            }
+        ]
+    }
+]

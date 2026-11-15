@@ -1,0 +1,38 @@
+{
+    "first_name": "Rohan",
+    "last_name": "Patil",
+    "name": "Rohan Patil",
+    "date_of_birth": "14 May 1995",
+    "age": null,
+    "blood_group": "A+",
+    "weight": null,
+    "height": "6' 2\"",
+    "complexion": "Fair",
+    "religion": null,
+    "caste": null,
+    "education": [
+        "B.E. (Mechanical)"
+    ],
+    "occupation": "SAP Functional Consultant",
+    "employer": "Accelon Technologies, Pune",
+    "annual_income": "Rs. 85,000 per month",
+    "hometown": "Sunasgaon",
+    "address": "\"Rajyog\", 11/13 Kumar City, Kalyani Nagar, Pune - 411014",
+    "current_city": "Pune",
+    "phone_number": "9881244564",
+    "email": null,
+    "family_details": {
+        "father": {
+            "name": "Suhas Shankar Patil",
+            "occupation": "Ex-General Manager - Bosch"
+        },
+        "mother": {
+            "name": "Rajashree Suhas Patil",
+            "occupation": "Homemaker"
+        },
+        "siblings": {
+            "relation": "Sister",
+            "marital_status": "married"
+        }
+    }
+}

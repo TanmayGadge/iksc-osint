@@ -1,0 +1,82 @@
+{
+    "data": {
+        "id": "6pYXsoiIeoxS53vmE",
+        "actId": "2SyF0bVxmgGr8IVCZ",
+        "userId": "lcpsnMbmgsPfI0e8n",
+        "startedAt": "2026-10-03T11:59:13.982Z",
+        "finishedAt": null,
+        "status": "READY",
+        "meta": {
+            "origin": "API",
+            "userAgent": "python-httpx/0.28.1"
+        },
+        "stats": {
+            "inputBodyLen": 69,
+            "migrationCount": 0,
+            "rebootCount": 0,
+            "restartCount": 0,
+            "resurrectCount": 0,
+            "computeUnits": 0
+        },
+        "options": {
+            "build": "latest",
+            "timeoutSecs": 3000,
+            "memoryMbytes": 256,
+            "maxItems": 497,
+            "maxTotalChargeUsd": 4.979969,
+            "isMaxTotalChargeUsdSetByUser": false,
+            "diskMbytes": 512
+        },
+        "buildId": "l0q6JP9gnNizrogy0",
+        "defaultKeyValueStoreId": "8ctZ7jC7lgsGbgSC7",
+        "defaultDatasetId": "q6AXs5QCc2FKJ50zq",
+        "defaultRequestQueueId": "xm5CiLpMDob1mplPx",
+        "storageIds": {
+            "keyValueStores": {
+                "default": "8ctZ7jC7lgsGbgSC7"
+            },
+            "datasets": {
+                "default": "q6AXs5QCc2FKJ50zq"
+            },
+            "requestQueues": {
+                "default": "xm5CiLpMDob1mplPx"
+            }
+        },
+        "pricingInfo": {
+            "pricingModel": "PAY_PER_EVENT",
+            "createdAt": "2026-02-26T08:01:11.995Z",
+            "startedAt": "2026-02-26T08:01:11.995Z",
+            "apifyMarginPercentage": 0.2,
+            "isPriceChangeNotificationSuppressed": true,
+            "reasonForChange": "Migration from Pay Per Result to Pay Per Event with apify-default-dataset-item event",
+            "forceContainsSignificantPriceChange": false,
+            "pricingPerEvent": {
+                "actorChargeEvents": {
+                    "apify-default-dataset-item": {
+                        "eventTitle": "result",
+                        "eventDescription": "Single result in the default dataset.",
+                        "isPrimaryEvent": true,
+                        "eventPriceUsd": 0.01
+                    }
+                }
+            }
+        },
+        "chargedEventCounts": {
+            "apify-default-dataset-item": 0
+        },
+        "platformUsageBillingModel": "DEVELOPER",
+        "accountedChargedEventCounts": {
+            "apify-default-dataset-item": 0
+        },
+        "generalAccess": "FOLLOW_USER_SETTING",
+        "buildNumber": "0.0.134",
+        "containerUrl": "https://agoibh8dayrb.runs.apify.net",
+        "usageTotalUsd": 0,
+        "eventUsage": {
+            "apify-default-dataset-item": {
+                "eventTitle": "result",
+                "eventTotalUsd": 0
+            }
+        }
+    }
+}

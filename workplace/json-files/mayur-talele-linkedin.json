@@ -1,0 +1,1421 @@
+
+[
+    {
+        "id": "ACoAAB1a18cBZ_NsBL4iVfm2kI7Ugl3wLB6E3Ho",
+        "publicIdentifier": "mayur-talele",
+        "linkedinUrl": "https://www.linkedin.com/in/mayur-talele",
+        "firstName": "Mayur",
+        "lastName": "Talele",
+        "emails": [],
+        "headline": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+        "openToWork": false,
+        "hiring": false,
+        "premium": false,
+        "influencer": false,
+        "memorialized": false,
+        "creator": false,
+        "location": {
+            "linkedinText": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+            "countryCode": "DE",
+            "parsed": {
+                "text": "Stuttgart, Germany",
+                "countryCode": "DE",
+                "regionCode": null,
+                "country": "Germany",
+                "countryFull": "Germany",
+                "state": "Baden-W\u00fcrttemberg",
+                "city": "Stuttgart"
+            }
+        },
+        "objectUrn": "492492743",
+        "registeredAt": "2016-06-13T05:48:43.631Z",
+        "topSkills": [
+            "Modeling and Simulation",
+            "PhysicsAI",
+            "Predictive simulation"
+        ],
+        "connectionsCount": 1114,
+        "followerCount": 1113,
+        "verified": true,
+        "about": "Simulation Engineer | AI Enthusiast | Digital Engineering\n\nPassionate about leveraging simulation and artificial intelligence to solve complex engineering challenges.\nMy work focuses on applying physics-based modeling, numerical methods, and AI-driven approaches to improve product development, optimize performance, and enable informed engineering decisions. I am particularly interested in bridging traditional simulation techniques with emerging AI technologies to create smarter, faster, and more scalable engineering workflows.\nWith experience across computational engineering, digital engineering and optimization I enjoy transforming complex physical phenomena into actionable insights. I believe simulation and AI are key enablers of next-generation engineering, helping organizations reduce development time, improve product performance, and accelerate innovation.\n\nMy goal is simple: make engineering faster, smarter, and more predictive through Simulation and AI.",
+        "industry": {
+            "id": 96,
+            "name": "IT Services and IT Consulting"
+        },
+        "currentPosition": [
+            {
+                "position": "Multiphysics Simulation Engineer",
+                "location": "Erlangen, Bavaria, Germany",
+                "employmentType": "Full-time",
+                "workplaceType": "Hybrid",
+                "companyName": "Siemens Energy",
+                "companyUniversalName": "siemens-energy",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemens-energy/",
+                "companyId": "607957",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_200_200/B4DZ82RPxaHgAM-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=l5vOtOidqZMXg_B2_WxYC5V140PIrbzSPVV1zljtVVg",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_100_100/B4DZ82RPxaHgAQ-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=wLkMTwn3NYBI-r4QaVPXuEOi5kMocolYQpD2xS6I8Gk",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileTopEducation": [
+            {
+                "schoolName": "University of Stuttgart",
+                "description": "COMMAS program (Erasmus - Double Master's) at Uni-Stuttgart mainly focused on implementing Algorithms, Shell Analysis, Composites modeling & simulations, and Multiphase flow in Porous media. \n\nMaster Thesis at Altair GmbH: Accelerating the battery simulation process for crash and impact tests using Physics AI",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15141415/",
+                "schoolId": "15141415",
+                "degree": "Computational Mechanics of Materials and Structures (COMMAS)",
+                "fieldOfStudy": null,
+                "period": "Oct 2022 - Sep 2023",
+                "startDate": {
+                    "text": "Oct 2022",
+                    "month": "Oct",
+                    "year": 2022
+                },
+                "endDate": {
+                    "text": "Sep 2023",
+                    "month": "Sep",
+                    "year": 2023
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1793232000&v=beta&t=X_saaFzbv0EiMv63JgAXXOQF3bF9In2VbFQ57vu_vAM",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_100_100/company-logo_100_100/0/1631353449082?e=1793232000&v=beta&t=r_XtkXh2i_Z0bn2AlqlAFHEv3QxNuglTZE6XQ4EDG8g",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "profileActions": [],
+        "profilePicture": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_400_400/B4DZyfHOXHHcAg-/0/1772195997783?e=1793232000&v=beta&t=5B8sgOXTcnXuXOlk5O5WbX37kJhwbaSgXqmXOTnB33g",
+                    "width": 400,
+                    "height": 400
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_200_200/B4DZyfHOXHHcAY-/0/1772195997783?e=1793232000&v=beta&t=ywvSYlt9CKt0z3OG0yzKCxzSuRWaNZUAWtXfqlR_hT4",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-scale_100_100/B4DZyfHOXHHcAc-/0/1772195997783?e=1793232000&v=beta&t=e6ykYWpPtTCfJ9beBOqQ5mGi-xFk7EUdsIhBWED9944",
+                    "width": 100,
+                    "height": 100
+                }
+            ]
+        },
+        "coverPicture": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1635367494102?e=1793232000&v=beta&t=sFW59IhDy6kHVoh3-HMeeu1Jwjf9PTQYwpPzhqSiM9E",
+            "sizes": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1635367494102?e=1793232000&v=beta&t=sFW59IhDy6kHVoh3-HMeeu1Jwjf9PTQYwpPzhqSiM9E",
+                    "width": 462,
+                    "height": 115
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E16AQGX4BgMYW--JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635367494102?e=1793232000&v=beta&t=6RqrIgfFaAjhjyvOXrVDXi9vL5wBaeUABZMHZjTBCc0",
+                    "width": 462,
+                    "height": 115
+                }
+            ]
+        },
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQG6vsLh1n80mw/profile-displayphoto-crop_800_800/B4DZyfHOXHHcAI-/0/1772195997695?e=1793232000&v=beta&t=_QOnDQUIJvPsz8MrnYi4VQFCwFvidvo-GIfBOWUSQ4M",
+        "profileLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "primaryLocale": {
+            "country": "US",
+            "language": "en"
+        },
+        "multiLocaleHeadline": [
+            {
+                "headline": "Transforming Engineering with Multiphysics Simulation and AI to Power the Future of Energy",
+                "locale": "en_US"
+            }
+        ],
+        "services": null,
+        "experience": [
+            {
+                "position": "Multiphysics Simulation Engineer",
+                "location": "Erlangen, Bavaria, Germany",
+                "employmentType": "Full-time",
+                "workplaceType": "Hybrid",
+                "companyName": "Siemens Energy",
+                "companyUniversalName": "siemens-energy",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemens-energy/",
+                "companyId": "607957",
+                "duration": "4 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "endDate": {
+                    "text": "Present"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_400_400/B4DZ82RPxaHgAc-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=XJoXs5yz_JFWdyOEQu2Aaf2-jAmKZrh7spNXor0KYBI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_200_200/B4DZ82RPxaHgAM-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=l5vOtOidqZMXg_B2_WxYC5V140PIrbzSPVV1zljtVVg",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFEP39qSjZBGQ/company-logo_100_100/B4DZ82RPxaHgAQ-/0/1783321919016/siemens_energy_logo?e=1793232000&v=beta&t=wLkMTwn3NYBI-r4QaVPXuEOi5kMocolYQpD2xS6I8Gk",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "PreSales Solution Consultant",
+                "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Full-time",
+                "workplaceType": "On-site",
+                "companyName": "Siemens Digital Industries Software",
+                "companyUniversalName": "siemenssoftware",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/siemenssoftware/",
+                "companyId": "28423178",
+                "duration": "11 mos",
+                "description": null,
+                "skills": null,
+                "startDate": {
+                    "month": "Sep",
+                    "year": 2025,
+                    "text": "Sep 2025"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_400_400/company-logo_400_400/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=vIzbuuxKbtsXrYCOC9CHIi1EHx7S7kVgl-7hTujs_NM",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_400_400/company-logo_400_400/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=vIzbuuxKbtsXrYCOC9CHIi1EHx7S7kVgl-7hTujs_NM",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_200_200/company-logo_200_200/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=hi7GrUMsPkKIaj50ktDHK1pEvykjz46qCGrAh1IdC9k",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_100_100/company-logo_100_100/0/1719793387652/siemenssoftware_logo?e=1793232000&v=beta&t=2xIymoXk-1Iw2vkt11zisj0PVRfyWnDZD1-VsXgCSM0",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Application Engineer",
+                "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Full-time",
+                "workplaceType": "On-site",
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "2 yrs 10 mos",
+                "description": "Predictive Simulations with PhysicsAI: Accelerate Design Decisions with AI\n\nDevelopment of an End-to-End Simulation Workflow for the Casting Industry:\nThis project focuses on the creation of an integrated and efficient simulation-driven workflow tailored for the casting industry (manufacturing solutions). PhysicsAI is utilized to enhance the predictive performance of the casting simulation process.\n\nTopology Optimisation in Optistruct:\nThe objective is to enhance structural performance while minimizing material usage, ultimately contributing to lightweight design and improved fuel efficiency without compromising safety or functionality.",
+                "skills": null,
+                "experienceGroupId": "66e4093c4cae5b6f231c218bfae1f7738b7bbda5",
+                "startDate": {
+                    "month": "Oct",
+                    "year": 2023,
+                    "text": "Oct 2023"
+                },
+                "endDate": {
+                    "month": "Jul",
+                    "year": 2026,
+                    "text": "Jul 2026"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation & Design Intern",
+                "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Internship",
+                "workplaceType": "On-site",
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "6 mos",
+                "description": "Master Thesis: To accelerate the battery simulation process for crash and impact test using ML.\n\n- The objective of this thesis was to predict internal short circuits in batteries under crash conditions. \n- A thermo-mechanical single-cell model was developed in Radioss for a single-point indentation test. This model was then utilized to generate datasets based on various design variables, with the entire process being fully automated using HyperStudy. \n- PhysicsAI, an Altair tool leveraging Graph Neural Networks (GNN) for predictive modeling, was employed to train a machine learning model to predict strain distributions within the battery model. The predicted strain values were subsequently validated against real-time experimental test results. \n- By using the thermo-mechanical framework, strain and temperature profiles were mapped, effectively illustrating the occurrence of internal short circuits within the battery system.",
+                "skills": null,
+                "experienceGroupId": "66e4093c4cae5b6f231c218bfae1f7738b7bbda5",
+                "startDate": {
+                    "month": "Apr",
+                    "year": 2023,
+                    "text": "Apr 2023"
+                },
+                "endDate": {
+                    "month": "Sep",
+                    "year": 2023,
+                    "text": "Sep 2023"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Wissenschaftliche Hilfskraft",
+                "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+                "employmentType": "Part-time",
+                "workplaceType": "On-site",
+                "companyName": "University of Stuttgart \u2013 Institute of Aircraft Design (IFB)",
+                "companyUniversalName": "universitaet-stuttgart-ifb",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/universitaet-stuttgart-ifb/",
+                "companyId": "92924766",
+                "duration": "4 mos",
+                "description": "Development of an Aircraft Design and Optimization Software\n- Project: UNICADO (UNIversity Conceptual Aircraft Design and Optimization)",
+                "skills": null,
+                "startDate": {
+                    "month": "Dec",
+                    "year": 2022,
+                    "text": "Dec 2022"
+                },
+                "endDate": {
+                    "month": "Mar",
+                    "year": 2023,
+                    "text": "Mar 2023"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_400_400/company-logo_400_400/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=oL9HThSdgrRGWNcQ8Vc7IYLqg_YNyhrWDXGLLlOQLaI",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_400_400/company-logo_400_400/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=oL9HThSdgrRGWNcQ8Vc7IYLqg_YNyhrWDXGLLlOQLaI",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_200_200/company-logo_200_200/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=y4hoyhvt6QYCsGt_w8RCLbXhrqzh3NmJfBDuh71mL1E",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFN5lle3R1Gg/company-logo_100_100/company-logo_100_100/0/1675864391711/universitaet_stuttgart_institut_fuer_flugzeugbau_logo?e=1793232000&v=beta&t=knNPrQLUuC6JgpQGb7zS8w8Nb_ME48j_HZxxyJEmsyI",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation & Development Intern",
+                "location": "Barcelona, Catalonia, Spain",
+                "employmentType": "Internship",
+                "workplaceType": null,
+                "companyName": "Altair",
+                "companyUniversalName": "altair-engineering",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/altair-engineering/",
+                "companyId": "8323",
+                "duration": "3 mos",
+                "description": "- Implemented a wear deformation model based on particle impact using the API (python script).\n- Performed a comparative analysis of results and different parameters in the chosen model, the influence of mesh resolution, time step, and wear models.\n- Insights of technologies based on Discrete element modeling and the EDEM software for development and\nindustrial applications.",
+                "skills": null,
+                "startDate": {
+                    "month": "Jul",
+                    "year": 2022,
+                    "text": "Jul 2022"
+                },
+                "endDate": {
+                    "month": "Sep",
+                    "year": 2022,
+                    "text": "Sep 2022"
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_400_400/company-logo_400_400/0/1630598016538/altair_engineering_logo?e=1793232000&v=beta&t=T7MGFl1da2UjeJWnBb2uYUnljqFz8KDZXIRcwSl9qTA",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_200_200/company-logo_200_200/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=YIfD4N_pNcheHmSonOZxHkzq7Ci9Q27fJRnMeNc5OJo",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEX0LIP5oahnQ/company-logo_100_100/company-logo_100_100/0/1630598016537/altair_engineering_logo?e=1793232000&v=beta&t=NAAf5E8SBHjE8TdgLXpGCpX6m-RvGLpmX_8ROlzGays",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Simulation Engineer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "KPIT",
+                "companyUniversalName": "kpit",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/kpit/",
+                "companyId": "5521",
+                "duration": "8 mos",
+                "description": "Air Handling Project:\n- Fluid Volume Extraction, Mesh refinement for topology optimization.\n- Transient flow analysis of EGR components to investigate mixing and distribution at intake.",
+                "skills": null,
+                "experienceGroupId": "c3986f74f0e4c48c3e3728592a4e0d746d0d7889",
+                "startDate": {
+                    "text": "Dec 2020",
+                    "month": "Dec",
+                    "year": 2020
+                },
+                "endDate": {
+                    "text": "Jul 2021",
+                    "month": "Jul",
+                    "year": 2021
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_200_200/company-logo_200_200/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=Z2iJVB_urhrVB6hdisQjkBeOzTCylFb_BpboVZFjbJE",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_100_100/company-logo_100_100/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=b32IzXq50_hzpMG0cgAH-zT-M2fYl9RHs63YydnTWfU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Design Engineer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": "Full-time",
+                "workplaceType": null,
+                "companyName": "KPIT",
+                "companyUniversalName": "kpit",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/kpit/",
+                "companyId": "5521",
+                "duration": "2 yrs 2 mos",
+                "description": "-Genset system level Integration\n-Engineering Concept creation & development of Automotive components in Genset assemblies.\n-Prototyping of 3-D printed components for precise geometries.\n-Tolerance Stack-up analysis.\n-Managing the Engineering life-cycle of the product.",
+                "skills": null,
+                "experienceGroupId": "c3986f74f0e4c48c3e3728592a4e0d746d0d7889",
+                "startDate": {
+                    "text": "Nov 2018",
+                    "month": "Nov",
+                    "year": 2018
+                },
+                "endDate": {
+                    "text": "Dec 2020",
+                    "month": "Dec",
+                    "year": 2020
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/company-logo_400_400/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=5zDju397AdA10ppZkohH0qdu11th_ysAf_KMcb2x_Yw",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_200_200/company-logo_200_200/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=Z2iJVB_urhrVB6hdisQjkBeOzTCylFb_BpboVZFjbJE",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuu9kwD-3JGg/company-logo_100_100/company-logo_100_100/0/1630576010281/kpit_logo?e=1793232000&v=beta&t=b32IzXq50_hzpMG0cgAH-zT-M2fYl9RHs63YydnTWfU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Internship",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": null,
+                "workplaceType": null,
+                "companyName": "SKF Group",
+                "companyUniversalName": "skf",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/skf/",
+                "companyId": "4592",
+                "duration": "3 mos",
+                "description": "- Study of Reusable Industrial Oils with new double separation technology(DST).\n- Optimization of the DGBB assembly for enhanced productivity and maintenance cycles.\n- Validation of tolerance standards at Waviness tester and analyzer labs.",
+                "skills": null,
+                "startDate": {
+                    "text": "Feb 2018",
+                    "month": "Feb",
+                    "year": 2018
+                },
+                "endDate": {
+                    "text": "Apr 2018",
+                    "month": "Apr",
+                    "year": 2018
+                },
+                "companyLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_400_400/B4DZVl6MI3GcAk-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=8uUI5weQUivko7onq9HJyb3CYGd1t-BsqGU7dUkLmFM",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_400_400/B4DZVl6MI3GcAk-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=8uUI5weQUivko7onq9HJyb3CYGd1t-BsqGU7dUkLmFM",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_200_200/B4DZVl6MI3GcAU-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=NGN_c2Ub7sa4ChAhG7wwnTwrTYOfhngYBQEZhBVyVgI",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGuRWo-_bHbSA/company-logo_100_100/B4DZVl6MI3GcAc-/0/1741171508135/skf_logo?e=1793232000&v=beta&t=eK9EqIupsnKneWDPrtMNPHlc7hlV1K0_TCyECFEmOs8",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "Product Developer",
+                "location": "Pune, Maharashtra, India",
+                "employmentType": null,
+                "workplaceType": null,
+                "companyName": "ROHIT AGROTECH INDIA PRIVATE LIMITED",
+                "companyUniversalName": "rohit-agrotech-india-private-limited",
+                "companyLinkedinUrl": "https://www.linkedin.com/company/rohit-agrotech-india-private-limited/",
+                "companyId": "27931967",
+                "duration": "9 mos",
+                "description": "Tech Product Development of a Multidisciplinary Agri-Equipment on & off track.",
+                "skills": null,
+                "startDate": {
+                    "text": "Jul 2017",
+                    "month": "Jul",
+                    "year": 2017
+                },
+                "endDate": {
+                    "text": "Mar 2018",
+                    "month": "Mar",
+                    "year": 2018
+                },
+                "companyLogo": null
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "University of Stuttgart",
+                "description": "COMMAS program (Erasmus - Double Master's) at Uni-Stuttgart mainly focused on implementing Algorithms, Shell Analysis, Composites modeling & simulations, and Multiphase flow in Porous media. \n\nMaster Thesis at Altair GmbH: Accelerating the battery simulation process for crash and impact tests using Physics AI",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15141415/",
+                "schoolId": "15141415",
+                "degree": "Computational Mechanics of Materials and Structures (COMMAS)",
+                "fieldOfStudy": null,
+                "period": "Oct 2022 - Sep 2023",
+                "startDate": {
+                    "text": "Oct 2022",
+                    "month": "Oct",
+                    "year": 2022
+                },
+                "endDate": {
+                    "text": "Sep 2023",
+                    "month": "Sep",
+                    "year": 2023
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1793232000&v=beta&t=X_saaFzbv0EiMv63JgAXXOQF3bF9In2VbFQ57vu_vAM",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_100_100/company-logo_100_100/0/1631353449082?e=1793232000&v=beta&t=r_XtkXh2i_Z0bn2AlqlAFHEv3QxNuglTZE6XQ4EDG8g",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Universitat Polit\u00e8cnica de Catalunya",
+                "description": "At UPC Barcelona, I pursued my first Master's degree in Computational Mechanics. I've been learning numerical methods in PDEs, FEM & FEF, and Advanced Fluid Mechanics with the foundation of Continuum Mechanics and its wide applications.\n\nTools and Technologies -\nMATLAB\nABAQUS\nGiD (Pre & Post Processor)\n\nFinite Element Method & Finite elements in fluids\nAdvanced Fluid Mechanics\nContinuum Mechanics & Computational Solid Mechanics\nComputational Mechanics Tools (GiD, Matlab, Abaqus)\nNumerical Methods Partial Differential Equation\nComputational Structural Mechanics and Dynamics",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/166622/",
+                "schoolId": "166622",
+                "degree": "Master's degree",
+                "fieldOfStudy": "Computational Mechanics",
+                "period": "Sep 2021 - Jun 2022",
+                "startDate": {
+                    "text": "Sep 2021",
+                    "month": "Sep",
+                    "year": 2021
+                },
+                "endDate": {
+                    "text": "Jun 2022",
+                    "month": "Jun",
+                    "year": 2022
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_400_400/B4EZ1njDtTGoAg-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=7NVQHmmqzdGLLz15h4y3p5WUlyPYRKTxpCT26ZMIhs4",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_400_400/B4EZ1njDtTGoAg-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=7NVQHmmqzdGLLz15h4y3p5WUlyPYRKTxpCT26ZMIhs4",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_200_200/B4EZ1njDtTGoAQ-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=3atc6emisVg7od4iuqg1CfTvZBl2LVmeK57Qk9anel8",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEtJ44CBVOFuA/company-logo_100_100/B4EZ1njDtTGoAY-/0/1775558737121/universitat_politecnica_de_catalunya_logo?e=1793232000&v=beta&t=HXvLABTFA3uaaOg-tnMjQvLYNrpsaO-dKNhDK-s9b4I",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Pimpri Chinchwad Education Trust'S. Pimpri Chinchwad College Of Engineering",
+                "description": "Computational Fluid Dynamics\nNumerical Methods\nDesign & Dynamics of Machines\nStrength of Materials\nEngineering Mechanics",
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/15142196/",
+                "schoolId": "15142196",
+                "degree": "Bachelor's degree",
+                "fieldOfStudy": "Mechanical Engineering",
+                "period": "2014 - 2018",
+                "startDate": {
+                    "text": "2014",
+                    "year": 2014
+                },
+                "endDate": {
+                    "text": "2018",
+                    "year": 2018
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_400_400/company-logo_400_400/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=nJ997FoXbsjMcq-TdfC_NsDY46jO1V5IEuGv4O9yYGo",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_400_400/company-logo_400_400/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=nJ997FoXbsjMcq-TdfC_NsDY46jO1V5IEuGv4O9yYGo",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_200_200/company-logo_200_200/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=xlzmfC8ISokUnsn1OyWLdqKuZUeKlUThuKc4l87Tfjw",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C510BAQEeXCuLXtHi6A/company-logo_100_100/company-logo_100_100/0/1630617641435/pimpri_chinchwad_education_trusts_pimpri_chinchwad_college_of_engineering_logo?e=1793232000&v=beta&t=_B2pvI_o24jHS2SZjTbA4l6Dg6HfDUKh1ClOEpjCHmM",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "schoolName": "Goethe Institut Indien",
+                "description": null,
+                "insights": null,
+                "skills": null,
+                "schoolLinkedinUrl": "https://www.linkedin.com/company/79701186/",
+                "schoolId": "79701186",
+                "degree": null,
+                "fieldOfStudy": "B1 German language",
+                "period": "May 2021 - Aug 2021",
+                "startDate": {
+                    "text": "May 2021",
+                    "month": "May",
+                    "year": 2021
+                },
+                "endDate": {
+                    "text": "Aug 2021",
+                    "month": "Aug",
+                    "year": 2021
+                },
+                "schoolLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_200_200/company-logo_200_200/0/1630647385558?e=1793232000&v=beta&t=THGHDN-gIYresrbHVOsnc_cebYp3je799Qb06SFherY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_100_100/company-logo_100_100/0/1630647385558?e=1793232000&v=beta&t=jMkma4Q49kHFKQYft1dfzuxnCqwqoWH7vpCfkvp9LmA",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "certifications": [
+            {
+                "title": "GOETHE-ZERTIFIKAT A2",
+                "issuedBy": "Goethe Institut Indien",
+                "issuedAt": "Mar 2021",
+                "link": null,
+                "credentialId": "1525-AA2A-0000680996",
+                "issuedByLink": "https://www.linkedin.com/company/79701186/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_200_200/company-logo_200_200/0/1630647385558?e=1793232000&v=beta&t=THGHDN-gIYresrbHVOsnc_cebYp3je799Qb06SFherY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_100_100/company-logo_100_100/0/1630647385558?e=1793232000&v=beta&t=jMkma4Q49kHFKQYft1dfzuxnCqwqoWH7vpCfkvp9LmA",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hypermesh-Optistruct",
+                "issuedBy": "OKLEEM ",
+                "issuedAt": "Oct 2018",
+                "link": null,
+                "credentialId": null,
+                "issuedByLink": "https://www.linkedin.com/company/76901689/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_400_400/company-logo_400_400/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=xEkWj1wgtMbqTLqVuXTKfZbYea8AAU1oIPl8lExfHA8",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_400_400/company-logo_400_400/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=xEkWj1wgtMbqTLqVuXTKfZbYea8AAU1oIPl8lExfHA8",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_200_200/company-logo_200_200/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=p6WdTyOKNiVnvHkGPndhfIcxcwb2XNwbJT0TliDMHo4",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFhjtijHa4M6Q/company-logo_100_100/company-logo_100_100/0/1630640576482/okleem_logo?e=1793232000&v=beta&t=JGeQ2nTBSo2oGbZlhD1z8xEDpBqGkIlm-LntCVgaucw",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "IELTS Academic",
+                "issuedBy": "British Council",
+                "issuedAt": "May 2020 \u00b7 Expired May 2022",
+                "link": null,
+                "credentialId": "19IN379994TALM001A",
+                "issuedByLink": "https://www.linkedin.com/company/162797/",
+                "issuedByLogo": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Qj2_-NJxeMAjNmIsxU3unIE-LBHpjzwwrxKRChdLxik",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Qj2_-NJxeMAjNmIsxU3unIE-LBHpjzwwrxKRChdLxik",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_200_200/company-logo_200_200/0/1630560502098/british_council_logo?e=1793232000&v=beta&t=MwZ3y1i-zT6N28vDmYuBBUNS-bDxXxs1uVpIclN3Tgw",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_100_100/company-logo_100_100/0/1630560502099/british_council_logo?e=1793232000&v=beta&t=Vop4Z93S_1NxVPPDD6TYwnq3DqHjJm0S7VTyecVJTt0",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                }
+            }
+        ],
+        "projects": [],
+        "volunteering": [],
+        "receivedRecommendations": [
+            {
+                "givenBy": "Srinidhi Joshi",
+                "givenAt": "June 26, 2026",
+                "givenByLink": "https://www.linkedin.com/in/srinidhi-joshi",
+                "givenByHeadline": "CAE & Digital Engineering | Enabling Simulation\u2011Driven Transformation for OEMs",
+                "givenByPicture": {
+                    "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709196355434?e=1793232000&v=beta&t=rRDQkdAgkSsj99pFbdEWwLZEnchC6_nhtZHBKFoDEpo",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709196355434?e=1793232000&v=beta&t=rRDQkdAgkSsj99pFbdEWwLZEnchC6_nhtZHBKFoDEpo",
+                            "width": 800,
+                            "height": 800
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709196355434?e=1793232000&v=beta&t=DLKv1sQWe_K0w3M3EBCZyvyw0B2h-btAt-l-T_XWHUQ",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709196355434?e=1793232000&v=beta&t=c0KecfYNkdtLTCGuXiH-p_5ZrAIIngMlpmTytCP4aek",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGdM9WHSkI0Vw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709196355434?e=1793232000&v=beta&t=S46jhqZZBiNoqVvQfK7D5xDKMhuAp8lTuj3StXOftMc",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                },
+                "description": "I had the pleasure of working with Mayur at Altair, now Siemens and it was always a great experience. He is genuinely passionate about using AI to solve engineering challenges and has a strong understanding of simulation-driven workflows. What sets him apart is not just his technical expertise, but also his willingness to help others and his collaborative mindset. I truly enjoyed working with Mayur and would happily recommend him to any team looking to advance AI in engineering."
+            },
+            {
+                "givenBy": "Paul Maurerlehner",
+                "givenAt": "June 24, 2026",
+                "givenByLink": "https://www.linkedin.com/in/paul-maurerlehner-341a40182",
+                "givenByHeadline": "Accelerating CAE with AI | PreSales Solutions Consultant \u2013 Simcenter Mechanical, PhysicsAI, and Surrogate Modeling",
+                "givenByPicture": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-crop_800_800/B4DZmrZD2WJEAI-/0/1759517098099?e=1793232000&v=beta&t=hB5XH5EXuTwjTFTFrph7dybhgzEd9HDwklyx3kr5Mr4",
+                    "sizes": [
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-crop_800_800/B4DZmrZD2WJEAI-/0/1759517098099?e=1793232000&v=beta&t=hB5XH5EXuTwjTFTFrph7dybhgzEd9HDwklyx3kr5Mr4",
+                            "width": 800,
+                            "height": 800
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_400_400/B4DZmrZD2WJEAg-/0/1759517098191?e=1793232000&v=beta&t=ND2LDOWIbEpyhb1b43b8Mu76MRmPTh3vkp1CgLVsP_w",
+                            "width": 400,
+                            "height": 400
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_200_200/B4DZmrZD2WJEAY-/0/1759517098191?e=1793232000&v=beta&t=pCcsXPBzjMJ9HFgAugD8ImGhsQsCfikxZwjQIyhEwtY",
+                            "width": 200,
+                            "height": 200
+                        },
+                        {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D03AQElZ_6oXj_GYw/profile-displayphoto-scale_100_100/B4DZmrZD2WJEAc-/0/1759517098191?e=1793232000&v=beta&t=gu2amcVav6lyLowqzDhH13Kz0hIDpwNZAkUj2Q4FdGU",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ]
+                },
+                "description": "Ich hatte die Gelegenheit, im PreSales-Umfeld f\u00fcr CAE-Software eng mit Mayur zusammenzuarbeiten. Dabei habe ich ihn als \u00e4u\u00dferst kompetenten und sehr zuverl\u00e4ssigen Kollegen kennengelernt, auf den man sich jederzeit verlassen kann.\nMayur bringt eine beeindruckende Expertise im Bereich Surrogate Modeling und PhysicsAI mit und hat mir bei zahlreichen Fragestellungen schnell und fundiert weitergeholfen. Ebenso verf\u00fcgt er \u00fcber eine sehr solide und praxisnahe Erfahrung in der Struktursimulation (FEA), was ihn in vielen Diskussionen besonders wertvoll macht.\nWas ich besonders sch\u00e4tze, ist seine F\u00e4higkeit, komplexe technische Inhalte klar und zielgerichtet zu vermitteln und gleichzeitig den Bezug zur konkreten Kundenanwendung nicht zu verlieren. Er denkt l\u00f6sungsorientiert und bringt die richtigen Punkte auf den Tisch.\nDie Zusammenarbeit mit Mayur war durchweg sehr positiv, und ich kann ihn als technischen Experten und Sparringspartner klar weiterempfehle"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Discrete Element Method (DEM)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "Programming",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "Ansys Mechanical",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "German",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Customer Support",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Presales",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ]
+            },
+            {
+                "name": "Calculations",
+                "positions": [
+                    "3 experiences across Altair and 1 other company"
+                ]
+            },
+            {
+                "name": "Technical Support",
+                "positions": [
+                    "Application Engineer at Altair"
+                ]
+            },
+            {
+                "name": "Engineering",
+                "positions": [
+                    "PreSales Solution Consultant at Siemens Digital Industries Software"
+                ]
+            },
+            {
+                "name": "Predictive simulation"
+            },
+            {
+                "name": "Technical Presales"
+            },
+            {
+                "name": "Product Design",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED"
+                ]
+            },
+            {
+                "name": "Ansys Workbench",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED"
+                ]
+            },
+            {
+                "name": "Engineering Design",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Computer-Aided Design (CAD)",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Product Data Management (PDM)",
+                "positions": [
+                    "Design Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "CFX",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Hyperstudy",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "Inspire Cast",
+                "positions": [
+                    "Application Engineer at Altair"
+                ]
+            },
+            {
+                "name": "Topology optimisation",
+                "positions": [
+                    "Application Engineer at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Inspire",
+                "positions": [
+                    "Application Engineer at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "C++",
+                "positions": [
+                    "Wissenschaftliche Hilfskraft at University of Stuttgart \u2013 Institute of Aircraft Design (IFB)"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Design of Experiments (DOE)",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "PhysicsAI",
+                "positions": [
+                    "3 experiences across Siemens Digital Industries Software and 1 other company"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Radioss",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Structural Analysis",
+                "positions": [
+                    "Product Developer at ROHIT AGROTECH INDIA PRIVATE LIMITED",
+                    "Universitat Polit\u00e8cnica de Catalunya"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "DEM",
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Python (Programming Language)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "EDEM",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Paraview",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ],
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Modeling and Simulation",
+                "positions": [
+                    "Simulation & Design Intern at Altair"
+                ]
+            },
+            {
+                "name": "Finite Element Analysis (FEA)",
+                "positions": [
+                    "Simulation & Development Intern at Altair"
+                ]
+            },
+            {
+                "name": "MATLAB"
+            },
+            {
+                "name": "Computational Fluid Dynamics (CFD)",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "Computer-Aided Engineering (CAE)"
+            },
+            {
+                "name": "Hypermesh",
+                "positions": [
+                    "2 experiences across Siemens Digital Industries Software and 1 other company"
+                ],
+                "endorsements": "2 endorsements"
+            },
+            {
+                "name": "Simulation Modeling"
+            },
+            {
+                "name": "Design Engineering"
+            },
+            {
+                "name": "Numerical Modeling"
+            },
+            {
+                "name": "Mechanical Engineering"
+            },
+            {
+                "name": "Fluid Mechanics"
+            },
+            {
+                "name": "PTC Creo"
+            },
+            {
+                "name": "Ansys Fluent",
+                "positions": [
+                    "Simulation Engineer at KPIT"
+                ]
+            },
+            {
+                "name": "ANSYS"
+            },
+            {
+                "name": "CATIA"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "1 endorsement"
+            },
+            {
+                "name": "Siemens NX"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "1 endorsement"
+            }
+        ],
+        "publications": [],
+        "courses": [],
+        "patents": [],
+        "honorsAndAwards": [],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "Professional working proficiency"
+            },
+            {
+                "name": "German",
+                "proficiency": "Limited working proficiency"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "Native or bilingual proficiency"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "Native or bilingual proficiency"
+            }
+        ],
+        "organizations": [],
+        "causes": [],
+        "featured": null,
+        "composeOptionType": "UPSELL",
+        "moreProfiles": [
+            {
+                "id": "ACoAACf1RXQBY-hyE09qCdlTiIQMUAJkHtop32M",
+                "firstName": "Harshwardhan",
+                "lastName": "Dhumal",
+                "position": "Doktorand @ Daimler Truck AG | Predictive Modeling, Neural Networks and Developing Multiscale Simulation Workflows",
+                "publicIdentifier": "harshwardhan-dhumal",
+                "linkedinUrl": "https://www.linkedin.com/in/harshwardhan-dhumal"
+            },
+            {
+                "id": "ACoAADwsA70BUaZSbT4b4YpY-nAQH1AZarqKYE8",
+                "firstName": "Ragul",
+                "lastName": "Devrajan",
+                "position": "M. Sc. Computational Mechanics of Materials and Structures Student in University of Stuttgart",
+                "publicIdentifier": "ragul-devrajan",
+                "linkedinUrl": "https://www.linkedin.com/in/ragul-devrajan"
+            },
+            {
+                "id": "ACoAADFsLxgBGuHTU9LmDqif_7qG3DprWH5U06Y",
+                "firstName": "Aditi",
+                "lastName": "Dhabu",
+                "position": "CAE & ML Engineer | FEA (Abaqus, ANSYS, LS-Dyna) + Machine Learning | Open to Full-Time Roles",
+                "publicIdentifier": "aditi-dhabu-9608311b1",
+                "linkedinUrl": "https://www.linkedin.com/in/aditi-dhabu-9608311b1"
+            },
+            {
+                "id": "ACoAAC2Z-QMB-q3releU_nZx15kmMKcLrhG9aU0",
+                "firstName": "Tharun",
+                "lastName": "Narendhra",
+                "position": "Werkstudent bei Bosch",
+                "publicIdentifier": "tharunnarendhra001",
+                "linkedinUrl": "https://www.linkedin.com/in/tharunnarendhra001"
+            },
+            {
+                "id": "ACoAAC5C4DIBZvmIWplvgpRZa1VtBEPUFh5Hx0A",
+                "firstName": "Shrey",
+                "lastName": "Gupta",
+                "position": "CAE & Simulation Engineer | FEA \u00b7 Multiphysics \u00b7 Multiphase | MSc Computational Mechanics, Uni Stuttgart | IAMS \u00d7 Max Planck Institute for Intelligent Systems",
+                "publicIdentifier": "shrey-gupta-cae",
+                "linkedinUrl": "https://www.linkedin.com/in/shrey-gupta-cae"
+            },
+            {
+                "id": "ACoAABzjgv4B_J_nFzuiY3a9YULfMev7eF3qEAM",
+                "firstName": "Chirag",
+                "lastName": "Deepak",
+                "position": "Computational Engineer - CAE Automation & AI",
+                "publicIdentifier": "chiragdeepak",
+                "linkedinUrl": "https://www.linkedin.com/in/chiragdeepak"
+            },
+            {
+                "id": "ACoAAA0yMZkBUAwCrH9vowXAVJUhzywihxItetQ",
+                "firstName": "Medha",
+                "lastName": "Shruti",
+                "position": "PhD Researcher, TU Graz",
+                "publicIdentifier": "medha-shruti-16118962",
+                "linkedinUrl": "https://www.linkedin.com/in/medha-shruti-16118962"
+            },
+            {
+                "id": "ACoAABzxEisBlW2GCt9zayFlKSbho7EImdHu5Xs",
+                "firstName": "Omkar",
+                "lastName": "Thorat",
+                "position": "CAE Analysis Engineer at Tesla",
+                "publicIdentifier": "omkar-thorat-2018",
+                "linkedinUrl": "https://www.linkedin.com/in/omkar-thorat-2018"
+            },
+            {
+                "id": "ACoAACHKEPYBLJ4ma877Sg7QU3GA7m_ufiBFk4w",
+                "firstName": "Sai Sumanth",
+                "lastName": "Moturu",
+                "position": "Design and Development Engineer\nMSc COMMAS",
+                "publicIdentifier": "sai-sumanth-moturu-932a25139",
+                "linkedinUrl": "https://www.linkedin.com/in/sai-sumanth-moturu-932a25139"
+            },
+            {
+                "id": "ACoAACAaVNwBTq6pKaYWfpos0Mv4OmvsKc15ppk",
+                "firstName": "Lalith Kumar",
+                "lastName": "Doreti",
+                "position": "Wissenschaftlicher Mitarbeiter @Uni. Stuttgart",
+                "publicIdentifier": "lalith-kumar-doreti",
+                "linkedinUrl": "https://www.linkedin.com/in/lalith-kumar-doreti"
+            }
+        ],
+        "sectionTotals": {
+            "experience": 10,
+            "education": 4,
+            "certifications": 3,
+            "receivedRecommendations": 2,
+            "skills": 58,
+            "courses": 0,
+            "languages": 4,
+            "projects": 0,
+            "volunteering": 0,
+            "publications": 0,
+            "patents": 0,
+            "organizations": 0,
+            "honorsAndAwards": 0,
+            "causes": 0
+        },
+        "interests": [
+            {
+                "interestName": "Top Voices",
+                "elements": [
+                    {
+                        "title": "Narendra Modi",
+                        "subtitle": "Prime Minister of India",
+                        "link": "https://www.linkedin.com/in/narendramodi",
+                        "caption": "5,636,341 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQHe1TivecnEEw/profile-displayphoto-crop_800_800/B56aAgF2vSGsAI-/0/1787244803279?e=1793232000&v=beta&t=1Wa-x835uftNyUR7ejf15vReFNf9SqhaPgJU3SDD1pc"
+                        }
+                    },
+                    {
+                        "title": "Shradha Sharma",
+                        "subtitle": "Founder & CEO at The Bharat Project, YourStory Media, \nMember, the National Startup Advisory Council, \nCo-Chair, S20 in G20 on inclusive growth, \nContributor, Startup India policy",
+                        "link": "https://www.linkedin.com/in/sharmashradha",
+                        "caption": "2,204,861 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5603AQGHt12nPPw5wA/profile-displayphoto-crop_800_800/B56aCFHhHEHYAI-/0/1788939736086?e=1793232000&v=beta&t=OTNyXH91dMQyCjBQB7Ysx60ulH1wqv5RGaiB_0j_Xmg"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Companies",
+                "elements": [
+                    {
+                        "title": "GE",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1015/",
+                        "caption": "5,193,252 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHNSdSY_UJ_rg/company-logo_400_400/company-logo_400_400/0/1688184041602/ge_logo?e=1793232000&v=beta&t=YEhIe1oaK2ULgGNgiyBdGvA0ztikohHO7wJ_kvfCuWY"
+                        }
+                    },
+                    {
+                        "title": "Siemens",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/company/1043/",
+                        "caption": "9,469,531 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_400_400/company-logo_400_400/0/1719931174735/siemens_logo?e=1793232000&v=beta&t=AO9tNF8Osq_mnS6RSJngKTvZvIsjvOzq_OcJWK2egg8"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Groups",
+                "elements": [
+                    {
+                        "title": "Computational Fluid Dynamics",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/134907",
+                        "caption": "28,506 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C5107AQGuvk0VU6QNww/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631401054755?e=1792144800&v=beta&t=lwMdDcAQyH-k19ix0o9J_O1Y0JCg5TECFQsU6pMPsKo"
+                        }
+                    },
+                    {
+                        "title": "Aerospace Engineering Innovation",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/groups/8573821",
+                        "caption": "135,562 members",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4D07AQGcoynVghuKKQ/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631002181122?e=1792144800&v=beta&t=C0gZOgko7aEe6Yt1VLPjdTn7kVd4EuI-QvvSCNZfiwk"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Newsletters",
+                "elements": [
+                    {
+                        "title": "Forward First",
+                        "subtitle": "Monthly updates from Altair you don\u2019t want to miss",
+                        "link": "https://www.linkedin.com/newsletters/6957755260459208704",
+                        "caption": "Published monthly",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/D5612AQEOHJJoIMCMig/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1658931271607?e=1793232000&v=beta&t=imHi3CHER-JVfAX8PUkzsCLTFkvZ3IaW7wVA4FV-u1w"
+                        }
+                    }
+                ]
+            },
+            {
+                "interestName": "Schools",
+                "elements": [
+                    {
+                        "title": "University of Stuttgart",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/15141415/",
+                        "caption": "141,400 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/company-logo_400_400/0/1631353449082?e=1793232000&v=beta&t=Ll3GEeuSSXv1wEpa-0Iz-j2yhNvSvJ9i0uzBrmMMiR8"
+                        }
+                    },
+                    {
+                        "title": "Goethe Institut Indien",
+                        "subtitle": null,
+                        "link": "https://www.linkedin.com/school/79701186/",
+                        "caption": "17,766 followers",
+                        "image": {
+                            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdluAaHCDCPA/company-logo_400_400/company-logo_400_400/0/1630647385558?e=1793232000&v=beta&t=1W33-JxmQxQydcPsNxI1Gf3hHV6MUASW3aPkxxeSJ9Y"
+                        }
+                    }
+                ]
+            }
+        ],
+        "originalQuery": {
+            "query": "https://de.linkedin.com/in/mayur-talele"
+        }
+    }
+]

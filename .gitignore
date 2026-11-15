@@ -1,0 +1,8 @@
+mas/
+.env
+*.txt
+query.py
+args_test.py
+*.zip
+__pycache__
+.vscode

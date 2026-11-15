@@ -1,0 +1,302 @@
+{
+    "id": null,
+    "linkedin_profile_id": "ACoAAD89vNUBYg4fysLa2GUhvBJYJJI8t_RiUQ0",
+    "public_identifier": "rohan-patil-9593b6257",
+    "linkedin_url": "https://www.linkedin.com/in/rohan-patil-9593b6257",
+    "basic_info": {
+        "first_name": "Rohan",
+        "last_name": "Patil",
+        "headline": "Software Developer | Analytics",
+        "about": "Dedicated and thorough professional with a purpose to execute critical tasks. Additionally possess skills in business analytics, AI and data analysis to give a competitive edge. Committed to team work and strategy to gain the desired results.",
+        "emails": [],
+        "phone_numbers": [],
+        "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQG7i7nx9abjbA/profile-displayphoto-crop_800_800/B4DaEmdzmsIMAI-/0/1791646710887?e=1794441600&v=beta&t=YJqeCWdk4bule0TQzQiUFoLHttXYfl23H7lKbKJ37zo",
+        "cover_picture_url": null,
+        "verified": true,
+        "open_to_work": false,
+        "is_hiring": false,
+        "is_premium": false,
+        "is_creator": false,
+        "is_influencer": false,
+        "is_memorialized": false
+    },
+    "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "country_code": "IN",
+        "raw_text": "Pune District, Maharashtra, India"
+    },
+    "metrics": {
+        "connections_count": 184,
+        "followers_count": 184
+    },
+    "industry": {
+        "id": 96,
+        "name": "IT Services and IT Consulting"
+    },
+    "experience": [
+        {
+            "position": "SAP B1 Functional Consultant",
+            "company_name": "Accelon Technologies Private Limited",
+            "company_id": "931954",
+            "company_linkedin_url": "https://www.linkedin.com/company/accelon-technologies-p-limited/",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGT2B5jHedqLg/company-logo_400_400/company-logo_400_400/0/1661236956602/accelon_technologies_p_limited_logo?e=1794441600&v=beta&t=_8ZZbSDXYo7D8RRMynSXl4iBaiCk5SctXonJD5-rPlc",
+            "employment_type": "Full-time",
+            "workplace_type": null,
+            "location": "Pune District, Maharashtra, India",
+            "is_current": true,
+            "duration": "2 yrs 6 mos",
+            "description": null,
+            "skills_used": [],
+            "start_date": {
+                "month": "May",
+                "year": 2024,
+                "text": "May 2024"
+            },
+            "end_date": {
+                "month": null,
+                "year": null,
+                "text": "Present"
+            }
+        },
+        {
+            "position": "SAP B1 Functional Consultant",
+            "company_name": "Smartnet Software Pvt Ltd",
+            "company_id": "27093788",
+            "company_linkedin_url": "https://www.linkedin.com/company/smartnet-software/",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE_7iWO7pXkzg/company-logo_400_400/company-logo_400_400/0/1631329561382?e=1794441600&v=beta&t=1g54OS0dt6tbZL6bGE6CIi0Kky01TdDjnPaha6T3C5c",
+            "employment_type": "Full-time",
+            "workplace_type": null,
+            "location": "Pune District, Maharashtra, India",
+            "is_current": false,
+            "duration": "1 yr 5 mos",
+            "description": null,
+            "skills_used": [],
+            "start_date": {
+                "month": "Feb",
+                "year": 2021,
+                "text": "Feb 2021"
+            },
+            "end_date": {
+                "month": "Jun",
+                "year": 2022,
+                "text": "Jun 2022"
+            }
+        },
+        {
+            "position": "SAP B1 Functional Consultant",
+            "company_name": "Praxis Info Solutions Private Limited",
+            "company_id": "521832",
+            "company_linkedin_url": "https://www.linkedin.com/company/praxis-info-solutions-private-limited/",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFx_HIwLsr0hQ/company-logo_400_400/company-logo_400_400/0/1631314976768?e=1794441600&v=beta&t=aA9Kq43dSjKDSNJ24VmCAdXuEfCrKz1eRvDcwhaf3oM",
+            "employment_type": "Full-time",
+            "workplace_type": null,
+            "location": "Pune District, Maharashtra, India",
+            "is_current": false,
+            "duration": "2 yrs 1 mo",
+            "description": null,
+            "skills_used": [],
+            "start_date": {
+                "month": "Jan",
+                "year": 2019,
+                "text": "Jan 2019"
+            },
+            "end_date": {
+                "month": "Jan",
+                "year": 2021,
+                "text": "Jan 2021"
+            }
+        }
+    ],
+    "education": [
+        {
+            "school_name": "AISSMS College of Engineering",
+            "school_id": "33894545",
+            "school_linkedin_url": "https://www.linkedin.com/company/33894545/",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQEYhKvyDpy8ag/company-logo_400_400/company-logo_400_400/0/1630609961754/aissms_college_of_engg_logo?e=1794441600&v=beta&t=1ogw5kGHJbl9_1uaINrkwKZQ6O_uTapRBsOMR0eNY1I",
+            "degree": "Bachelor of Engineering - BE",
+            "field_of_study": "Mechanical",
+            "period": null,
+            "description": "Savitribai Phule Pune University",
+            "grade_or_gpa": null,
+            "activities": null,
+            "start_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            },
+            "end_date": {
+                "month": null,
+                "year": 2018,
+                "text": "2018"
+            }
+        },
+        {
+            "school_name": "Sardar Dastur Junior College",
+            "school_id": null,
+            "school_linkedin_url": null,
+            "school_logo_url": null,
+            "degree": null,
+            "field_of_study": null,
+            "period": null,
+            "description": null,
+            "grade_or_gpa": null,
+            "activities": null,
+            "start_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            },
+            "end_date": {
+                "month": null,
+                "year": 2013,
+                "text": "2013"
+            }
+        },
+        {
+            "school_name": "The Bishop's School",
+            "school_id": "19094407",
+            "school_linkedin_url": "https://www.linkedin.com/company/19094407/",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQE3xsvcDnGqAQ/company-logo_400_400/company-logo_400_400/0/1630572415029/the_bishops_school_logo?e=1794441600&v=beta&t=2Pq1W8AB976WtB-GznU3zoRwY-mHJVS_1QbqKkJKWjk",
+            "degree": null,
+            "field_of_study": null,
+            "period": null,
+            "description": null,
+            "grade_or_gpa": null,
+            "activities": null,
+            "start_date": {
+                "month": null,
+                "year": null,
+                "text": null
+            },
+            "end_date": {
+                "month": null,
+                "year": 2011,
+                "text": "2011"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Business Analysis",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Business Model Canvas",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Total Quality Management (TQM)",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Balance Scorecard",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Microsoft Power BI",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "SQL",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Value Engineering",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Microsoft Project",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Microsoft Office",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Six Sigma",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Data Analysis",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Enterprise Resource Planning (ERP)",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        },
+        {
+            "name": "Customer Relationship Management (CRM)",
+            "endorsement_count": 0,
+            "used_in_positions": []
+        }
+    ],
+    "certifications": [],
+    "posts_and_activity": [],
+    "projects": [],
+    "recommendations": {
+        "received": [],
+        "given": []
+    },
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Full professional proficiency"
+        },
+        {
+            "language": "Hindi",
+            "proficiency": "Native or bilingual proficiency"
+        },
+        {
+            "language": "Marathi",
+            "proficiency": "Native or bilingual proficiency"
+        }
+    ],
+    "honors_and_awards": [],
+    "publications": [],
+    "patents": [],
+    "volunteering": [],
+    "interests_and_following": [
+        {
+            "category": "Top Voices",
+            "title": "Tim Ferriss",
+            "subtitle": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor, Tim Ferriss Show podcast (1B+ downloads), founder of the Saisei Foundation",
+            "follower_count": 1539397,
+            "linkedin_url": "https://www.linkedin.com/in/timferriss"
+        },
+        {
+            "category": "Top Voices",
+            "title": "Bill Gates",
+            "subtitle": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+            "follower_count": 40753933,
+            "linkedin_url": "https://www.linkedin.com/in/williamhgates"
+        },
+        {
+            "category": "Companies",
+            "title": "Toyota Motor Corporation",
+            "subtitle": null,
+            "follower_count": 2393011,
+            "linkedin_url": "https://www.linkedin.com/company/2109/"
+        },
+        {
+            "category": "Companies",
+            "title": "Huawei",
+            "subtitle": null,
+            "follower_count": 5505544,
+            "linkedin_url": "https://www.linkedin.com/company/3014/"
+        }
+    ]
+}
